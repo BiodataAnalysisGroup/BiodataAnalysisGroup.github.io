@@ -28,14 +28,6 @@
   description: >
     Nikos Pechlivanis works as a Bioinformatics engineer at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas. He holds an engineering diploma of Electrical and Computer Engineering from the Aristotle University of Thessaloniki (AUTH) where he completed his thesis entitle “Genomic data integration for facilitating machine learning applications”. Currently he is pursuing a PhD in the field of Computation Biology and Bioinformatics under the supervision of Dr. Fotis Psomopoulos. His research focuses on studying machine learning algorithms and computational techniques with respect to their corresponding applications on genomic and meta-genomic data. In addition to his research, Nikolas supports open source/science principles, in support of reusability and accessibility of scientific results. Moreover, he is interested in web development mostly working on server-side scripting by applying data wrangling and analysis techniques.
 
-- name: Maria Christina Maniou
-  role: Research assistant
-  image: assets/img/team/mcmaniou.jpg
-  orcid: 0000-0002-5029-206X
-  email: mcmaniou@yahoo.gr
-  github: mcmaniou
-  description: >
-    Maria Christina Maniou is a research assistant at Institute of Applied Biosciences in Centre for Research and Technology Hellas (INAB/CERTH). She received an engineering diploma of Electrical and Computer Engineering (Integrated Master Level 7) from the Aristotle University of Thessaloniki, in 2020. Her Diploma Thesis was titled: “Development of an algorithm for correlation of Chromosomal Locations with functional biological processes using large-scale data analysis”. During her studies, she completed a three-month internship at INAB/CERTH, as well as, a three-month internship at Institute of Applied Computer Science in Kiel University of Applied Sciences.  Her research interests focus on data science and analytics and their respective application on genomic, epigenomic and transcriptomic data. Moreover, her interests include data visualization, as well as, the development of software tools and pipelines for implementing new bioinformatic approaches.
 
 - name: Styliani-Christina Fragkouli
   role: Research Assistant
