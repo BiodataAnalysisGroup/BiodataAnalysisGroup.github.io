@@ -25,6 +25,9 @@
   - text: Lab GitHub
     href: https://github.com/BiodataAnalysisGroup
     new_window: true
+- text: Software
+  href: /software/
+  
 - text: News
   href: /blog/
 - text: About
