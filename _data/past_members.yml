@@ -1,3 +1,12 @@
+- name: Maria Christina Maniou
+  role: Research assistant
+  image: assets/img/team/mcmaniou.jpg
+  orcid: 0000-0002-5029-206X
+  email: mcmaniou@yahoo.gr
+  github: mcmaniou
+  description: >
+    Maria Christina Maniou was working as a research assistant at INAB/CERTH.
+    
 - name: Dr. Maria Tsagiopoulou
   role: Postdoctoral Researcher
   image: assets/img/team/mariatsayo.jpg
