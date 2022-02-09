@@ -4,14 +4,17 @@ description: Listing our packages here
 background: /assets/img/groupLogo/coding.jpg
 permalink: /software/
 ---
+
 ## Software 
+
 ![Software](/assets/img/software/computer-engineering-logo.png){: .rounded .float-left width="100px"}
 
 <br/>
 
 {: .clearfix}
+<br>
 
-## lineagespot
+## ** lineagespot **
 
 
 Lineagespot is a [Bioconductor](http://bioconductor.org) package
@@ -40,7 +43,7 @@ If you use the tool, please cite the following work:
 Nikolaos Pechlivanis, Maria Tsagiopoulou, Maria Christina Maniou, Anastasis Togkousidis, Evangelia Mouchtaropoulou, Taxiarchis Chassalevris, Serafeim Chaintoutis, Chrysostomos Dovas, Maria Petala, Margaritis Kostoglou, Thodoris Karapantsios, Stamatia Laidou, Elisavet Vlachonikola, Anastasia Chatzidimitriou, Agis Papadopoulos, Nikolaos Papaioannou, Anagnostis Argiriou, Fotis Psomopoulos, "_Detecting SARS-CoV-2 lineages and mutational load in municipal wastewater; a use-case in the metropolitan area of Thessaloniki, Greece_", medRxiv 2021.03.17.21252673; doi: [https://doi.org/10.1101/2021.03.17.21252673](https://doi.org/10.1101/2021.03.17.21252673)
 
 
-## tripr
+## **tripr**
 is a [Bioconductor](http://bioconductor.org) package, written in
 [shiny](https://shiny.rstudio.com/) that provides analytics services on
 antigen receptor (B cell receptor immunoglobulin, BcR IG | T cell
