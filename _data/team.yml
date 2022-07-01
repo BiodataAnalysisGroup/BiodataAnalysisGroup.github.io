@@ -64,3 +64,12 @@
   github: Sofokli5
   description: >
     Sofoklis Keisaris works as a research assistant at the Institute of Applied Biosciences(INAB) in the Centre for Research and Technology Hellas(CERTH). He received his BSc in Biology from the Aristotle University of Thessaloniki(AUTH) with aspects on Ecology and Conservation Biology. After having cooperated with Hellenic Center of Marine Research (CERTH), he found interest in Bioinformatics and Computational Biology. He is keen on developing bioinformatics tools and pipelines for a wide variety of biological data.
+
+- name: Dr. George Gavriilids
+  role: Post Doc researcher # Will appear next to name
+  image: assets/img/team/ggeorav.jpg # Can be external link
+  orcid: 0000-0003-2575-4354
+  email: ggeorav@certh.gr
+  github: geogav
+  description: > # Can be Markdown
+    Dr George Gavriilidis is a Pharmacologist PhD/Post-doctoral researcher working at the Institute of Applied Biosciences(INAB) at the Center for Research and Technology Hellas(CERTH). He is interested in the application of Systems Pharmacology/Immunology on single cell RNA sequencing data (scRNA-seq). 
