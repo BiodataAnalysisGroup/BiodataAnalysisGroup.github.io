@@ -1,14 +1,14 @@
 # Project team members listed below will appear on the /team page
 
 - name: Dr. Fotis Psomopoulos
-  role: Principal Investigator C' # Will appear next to name
+  role: Principal Investigator B' # Will appear next to name
   image: assets/img/team/fpsom.jpg # Can be external link
   orcid: 0000-0002-0222-4273
   email: fpsom@certh.gr
   github: fpsom
   twitter: fopsom
   description: > # Can be Markdown
-    Dr Fotis E. Psomopoulos works as a Principal Investigator C' (Assistant Professor level) at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH), with a primary focus on bioinformatics workflows and computational analysis of large bio-datasets. He has received his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at the Aristotle University of Thessaloniki (AUTH), in 2010 and 2004 respectively. In 2014 he has been awarded with a post-doctoral fellowship scholarship by the AUTh Research Committee. He has worked as a teaching assistant and academic fellow at the Aristotle University of Thessaloniki, as a Visiting Professor at Quest University (Vancouver, Canada) and as an Adjunct Lecturer at the University of Western Macedonia. Moreover, he has participated as a researcher and project manager in several European (RAPP, Microme, ASSIST) and national research projects.
+    Dr Fotis E. Psomopoulos works as a Principal Investigator B' (Associate Professor level) at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH), with a primary focus on bioinformatics workflows and computational analysis of large bio-datasets. He has received his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at the Aristotle University of Thessaloniki (AUTH), in 2010 and 2004 respectively. In 2014 he has been awarded with a post-doctoral fellowship scholarship by the AUTh Research Committee. He has worked as a teaching assistant and academic fellow at the Aristotle University of Thessaloniki, as a Visiting Professor at Quest University (Vancouver, Canada) and as an Adjunct Lecturer at the University of Western Macedonia. Moreover, he has participated as a researcher and project manager in several European (RAPP, Microme, ASSIST) and national research projects.
 
 - name: Dr. Konstantinos Kyritsis
   role: Postdoctoral researcher
