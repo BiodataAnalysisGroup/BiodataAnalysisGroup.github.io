@@ -27,6 +27,10 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 {% bibliography --query @inbook[year=2019] %}
 
+### 2018
+
+{% bibliography --query @inbook[year=2018] %}
+
 <br/>
 
 ## Journals
