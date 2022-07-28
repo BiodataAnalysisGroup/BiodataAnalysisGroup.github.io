@@ -71,7 +71,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 ### 2021
 
 {% bibliography --query @inproceedings[year=2021] %}
-{% bibliography --query @conference[year=2022] %}
+{% bibliography --query @conference[year=2021] %}
 
 ### 2020
 
