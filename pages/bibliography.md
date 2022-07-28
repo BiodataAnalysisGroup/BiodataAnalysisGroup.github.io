@@ -20,6 +20,14 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 {% bibliography --query @incollection[key=DataMiningProteomicsGrid] %}
 
+### 2022
+
+{% bibliography --query @Inbook[year=2022] %}
+
+### 2019
+
+{% bibliography --query @Inbook[year=2019] %}
+
 <br/>
 
 ## Journals
