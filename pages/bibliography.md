@@ -92,8 +92,27 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 <p style="margin-bottom:15px"></p>
 
 ### Short articles
+<p style="margin-bottom:15px"></p>
 
-{% bibliography --query @misc %}
+### 2022
+
+{% bibliography --query @misc[year=2022] %}
+
+### 2021
+
+{% bibliography --query @misc[year=2021] %}
+
+### 2020
+
+{% bibliography --query @misc[year=2020] %}
+
+### 2019
+
+{% bibliography --query @misc[year=2019] %}
+
+<br/>
+
+
 
 ### Thesis
 
