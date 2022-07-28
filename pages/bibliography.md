@@ -17,16 +17,15 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 <br/>
 
 ## Book Chapter
-
-{% bibliography --query @incollection[key=DataMiningProteomicsGrid] %}
+<p style="margin-bottom:15px"></p>
 
 ### 2022
 
-{% bibliography --query @Inbook[year=2022] %}
+{% bibliography --query @inbook[year=2022] %}
 
 ### 2019
 
-{% bibliography --query @Inbook[year=2019] %}
+{% bibliography --query @inbook[year=2019] %}
 
 <br/>
 
