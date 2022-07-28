@@ -11,7 +11,7 @@
     Dr Fotis E. Psomopoulos works as a Principal Investigator B' (Associate Professor level) at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH), with a primary focus on bioinformatics workflows and computational analysis of large bio-datasets. He has received his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at the Aristotle University of Thessaloniki (AUTH), in 2010 and 2004 respectively. In 2014 he has been awarded with a post-doctoral fellowship scholarship by the AUTh Research Committee. He has worked as a teaching assistant and academic fellow at the Aristotle University of Thessaloniki, as a Visiting Professor at Quest University (Vancouver, Canada) and as an Adjunct Lecturer at the University of Western Macedonia. Moreover, he has participated as a researcher and project manager in several European (RAPP, Microme, ASSIST) and national research projects.
 
 - name: Dr. Konstantinos Kyritsis
-  role: Postdoctoral researcher
+  role: Postdoctoral Researcher
   image: assets/img/team/kkyritsis.jpg
   orcid: 0000-0001-8035-341X
   email: konstantinoskyritsis@hotmail.com
@@ -20,7 +20,7 @@
     Konstantinos Kyritsis, PhD, is working as a postdoctoral researcher at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas (INAB/CERTH). He received his BSc in Biology, and his MSc in “Biotechnology and Molecular Diagnostics” from the Aristotle University of Thessaloniki (AUTH). During his studies, he completed a three-month Erasmus+ internship at the Novo Nordisk Foundation Center for Protein Research, University of Copenhagen. He received a scholarship for his doctorate from the Hellenic Foundation for Research and Innovation (HFRI) in 2017, and completed his thesis, entitled “Systematic Analysis of the Expression of Ribosomal Protein Genes”, at the School of Pharmacy AUTH, in 2021. His research interests are currently focused on studying molecular mechanisms and unveiling patterns of functional significance by applying methods of statistical analysis as well as machine learning algorithms to Next-generation sequencing (NGS) data. Furthermore, his interests include developing bioinformatic tools and pipelines for integrating and visualizing heterogenous bio-data.
 
 - name: Nikolaos (Nikos) Pechlivanis
-  role: PhD student
+  role: PhD Candidate
   image: assets/img/team/nikopech.jpg
   orcid: 0000-0003-2502-612X
   email: nikosp41@certh.gr
@@ -30,7 +30,7 @@
 
 
 - name: Styliani-Christina Fragkouli
-  role: PhD student
+  role: PhD Candidate
   image: assets/img/team/sfragkoul.jpg
   orcid: 0000-0003-4067-7123
   email: sfragkoul@certh.gr
@@ -48,7 +48,7 @@
     Aspa Orfanou works as a research assistant at the Institute of Applied Biosciences(INAB) at the Center for Research and Technology Hellas(CERTH). She obtained her BSc in Computer Science and Medical Informatics from University of Thessaly(UTH) in 2017 and her MSc in Bioinformatics from University of Crete(UOC) in 2021. In addition, she participated in ERASMUS exchange programme and studied for one semester in Electrical and Computer Engineering at University of Nicosia,Cyprus. During her studies she completed a three-month Internship at INAB/CERTH. Moreover, she is interested in development of bioinformatic tools and pipelines for visualization and interpretation of genomic data. 
 
 - name: Vasileios Vasileiou
-  role: PhD student
+  role: PhD Candidate
   image: assets/img/team/vasileiou.jpg
   orcid: 0000-0003-0145-033X
   email: vasileioubill95@certh.gr
@@ -66,7 +66,7 @@
     Sofoklis Keisaris works as a research assistant at the Institute of Applied Biosciences(INAB) in the Centre for Research and Technology Hellas(CERTH). He received his BSc in Biology from the Aristotle University of Thessaloniki(AUTH) with aspects on Ecology and Conservation Biology. After having cooperated with Hellenic Center of Marine Research (CERTH), he found interest in Bioinformatics and Computational Biology. He is keen on developing bioinformatics tools and pipelines for a wide variety of biological data.
 
 - name: Dr. George Gavriilids
-  role: Post Doc researcher # Will appear next to name
+  role: Postdoctoral Researcher # Will appear next to name
   image: assets/img/team/ggeorav.jpg # Can be external link
   orcid: 0000-0003-2575-4354
   email: ggeorav@certh.gr
