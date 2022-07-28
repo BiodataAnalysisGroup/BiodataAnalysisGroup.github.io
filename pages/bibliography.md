@@ -13,7 +13,11 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 ## Book
 
-{% bibliography --query @book[key=OSTHbook] %}
+<p style="margin-bottom:15px"></p>
+
+### 2018
+
+{% bibliography --query @book[year=2018] %}
 <br/>
 
 ## Book Chapter
@@ -27,9 +31,6 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 {% bibliography --query @inbook[year=2019] %}
 
-### 2018
-
-{% bibliography --query @inbook[year=2018] %}
 
 <br/>
 
