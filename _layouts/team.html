@@ -19,6 +19,14 @@ description: Template for team page
       {{ member.description | markdownify }}
 
       <ul class="list-inline">
+        
+        {% if member.website %}
+        <li class="list-inline-item">
+          <a href="{ member.website }"><i class="fa fa-globe"></i></a>
+        </li>
+        {% endif %}
+        
+        
         {% if member.orcid %}
         <li class="list-inline-item">
           <a href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
@@ -63,6 +71,13 @@ description: Template for team page
       {{ member.description | markdownify }}
 
       <ul class="list-inline">
+        
+        {% if member.website %}
+        <li class="list-inline-item">
+          <a href="{ member.website }"><i class="fa fa-globe"></i></a>
+        </li>
+        {% endif %}
+        
         {% if member.orcid %}
         <li class="list-inline-item">
           <a href="https://orcid.org/{{ member.orcid }}"><img class="orcid" src="{{ '/assets/theme/img/orcid.png' | relative_url }}"></a>
