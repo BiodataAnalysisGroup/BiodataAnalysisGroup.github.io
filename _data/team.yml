@@ -10,6 +10,16 @@
   description: > # Can be Markdown
     Dr Fotis E. Psomopoulos works as a Principal Investigator B' (Associate Professor level) at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH), with a primary focus on bioinformatics workflows and computational analysis of large bio-datasets. He has received his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at the Aristotle University of Thessaloniki (AUTH), in 2010 and 2004 respectively. In 2014 he has been awarded with a post-doctoral fellowship scholarship by the AUTh Research Committee. He has worked as a teaching assistant and academic fellow at the Aristotle University of Thessaloniki, as a Visiting Professor at Quest University (Vancouver, Canada) and as an Adjunct Lecturer at the University of Western Macedonia. Moreover, he has participated as a researcher and project manager in several European (RAPP, Microme, ASSIST) and national research projects.
 
+- name: Dr. George Gavriilids
+  role: Postdoctoral Researcher # Will appear next to name
+  image: assets/img/team/ggeorav.jpg # Can be external link
+  orcid: 0000-0003-2575-4354
+  email: ggeorav@certh.gr
+  github: geogav
+  description: > # Can be Markdown
+    Dr George Gavriilidis is a Pharmacologist PhD/Post-doctoral researcher working at the Institute of Applied Biosciences(INAB) at the Center for Research and Technology Hellas(CERTH). He is interested in the application of Systems Pharmacology/Immunology on single cell RNA sequencing data (scRNA-seq). 
+
+
 - name: Dr. Konstantinos Kyritsis
   role: Postdoctoral Researcher
   image: assets/img/team/kkyritsis.jpg
@@ -32,6 +42,7 @@
 - name: Styliani-Christina Fragkouli
   role: PhD Candidate
   image: assets/img/team/sfragkoul.jpg
+  website: https://sfragkoul.github.io/
   orcid: 0000-0003-4067-7123
   email: sfragkoul@certh.gr
   github: sfragkoul
@@ -65,11 +76,3 @@
   description: >
     Sofoklis Keisaris works as a research assistant at the Institute of Applied Biosciences(INAB) in the Centre for Research and Technology Hellas(CERTH). He received his BSc in Biology from the Aristotle University of Thessaloniki(AUTH) with aspects on Ecology and Conservation Biology. After having cooperated with Hellenic Center of Marine Research (CERTH), he found interest in Bioinformatics and Computational Biology. He is keen on developing bioinformatics tools and pipelines for a wide variety of biological data.
 
-- name: Dr. George Gavriilids
-  role: Postdoctoral Researcher # Will appear next to name
-  image: assets/img/team/ggeorav.jpg # Can be external link
-  orcid: 0000-0003-2575-4354
-  email: ggeorav@certh.gr
-  github: geogav
-  description: > # Can be Markdown
-    Dr George Gavriilidis is a Pharmacologist PhD/Post-doctoral researcher working at the Institute of Applied Biosciences(INAB) at the Center for Research and Technology Hellas(CERTH). He is interested in the application of Systems Pharmacology/Immunology on single cell RNA sequencing data (scRNA-seq). 
