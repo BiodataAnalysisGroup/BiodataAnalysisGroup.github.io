@@ -16,7 +16,7 @@
   menu:  # Dropdown menu (one level deep only)
   - text: Activities
     href: /activities/
-  - text: Projects
+  - text: Funded Projects
     href: /projects/
   - text: Collaborations
     href: /collaborations/
