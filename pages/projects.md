@@ -1,6 +1,6 @@
 ---
 title: Our funded research projects
-description: Listing our projects here
+description: Listing our funded projects here
 background: https://images.unsplash.com/photo-1572177812156-58036aae439c?auto=format&w=2000
 permalink: /projects/
 ---
