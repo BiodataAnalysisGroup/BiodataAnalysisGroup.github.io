@@ -11,12 +11,9 @@ columns:
     - text: Centre for Research and Technology Hellas (CERTH)
       href: https://www.certh.gr/
       new_window: true
-    - text: Code of Conduct
-      href: https://github.com/BiodataAnalysisGroup/BiodataAnalysisGroup.github.io/blob/jekyllCode/pages/code-of-conduct.md
-      new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      This is the website for our research group. <br/> [Group GitHub](https://github.com/BiodataAnalysisGroup) <br/> [Code of Conduct](https://github.com/BiodataAnalysisGroup/BiodataAnalysisGroup.github.io/blob/jekyllCode/pages/code-of-conduct.md)
+      This is the website for our research group. <br/> [Group GitHub](https://github.com/BiodataAnalysisGroup) <br/> [Code of Conduct](https://github.com/BiodataAnalysisGroup/BiodataAnalysisGroup.github.io/blob/jekyllCode/pages/code-of-conduct.md) <br/> [Code of Conduct2](/pages/code-of-conduct)
       
       
 
