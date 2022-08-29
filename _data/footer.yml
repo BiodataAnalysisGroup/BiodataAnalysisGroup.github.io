@@ -14,6 +14,9 @@ columns:
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This is the website for our research group. <br/> [Group GitHub](https://github.com/BiodataAnalysisGroup)
+      
+  - text: Code of Conduct
+    href: /coc/
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
