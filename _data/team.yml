@@ -38,6 +38,14 @@
   description: >
     Nikos Pechlivanis works as a Bioinformatics engineer at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas. He holds an engineering diploma of Electrical and Computer Engineering from the Aristotle University of Thessaloniki (AUTH) where he completed his thesis entitle “Genomic data integration for facilitating machine learning applications”. Currently he is pursuing a PhD in the field of Computation Biology and Bioinformatics under the supervision of Dr. Fotis Psomopoulos. His research focuses on studying machine learning algorithms and computational techniques with respect to their corresponding applications on genomic and meta-genomic data. In addition to his research, Nikolas supports open source/science principles, in support of reusability and accessibility of scientific results. Moreover, he is interested in web development mostly working on server-side scripting by applying data wrangling and analysis techniques.
 
+- name: Vasileios Vasileiou
+  role: PhD Candidate
+  image: assets/img/team/vasileiou_new.jpg
+  orcid: 0000-0003-0145-033X
+  email: vasileioubill95@certh.gr
+  github: vasileioubill95
+  description: >
+    Vasileios Vasileiou is a Phd candidate, working as a Bioinformatician at the Institute of Applied Bioscience (INAB) in the Center for Research and Technology Hellas (CERTH). Overall, his research interests focus on Computational Biology and Bioinformatics, specializing in developing and improving algorithms for Next Generation Sequencing (NGS) data projects. His main studies focus on Molecular Biology and Genetics at Democritus University of Thrace (DUTH), while he obtained his Master’s degree in Bioinformatics at the University of Birmingham (UoB). During his MSc studies, he had the opportunity to participate in supervised multi-omics integrative analysis projects, by applying machine learning algorithms, as part of his dissertation. 
 
 - name: Styliani-Christina Fragkouli
   role: PhD Candidate
@@ -57,15 +65,6 @@
   github: aspaor
   description: > 
     Aspa Orfanou works as a research assistant at the Institute of Applied Biosciences(INAB) at the Center for Research and Technology Hellas(CERTH). She obtained her BSc in Computer Science and Medical Informatics from University of Thessaly(UTH) in 2017 and her MSc in Bioinformatics from University of Crete(UOC) in 2021. In addition, she participated in ERASMUS exchange programme and studied for one semester in Electrical and Computer Engineering at University of Nicosia,Cyprus. During her studies she completed a three-month Internship at INAB/CERTH. Moreover, she is interested in development of bioinformatic tools and pipelines for visualization and interpretation of genomic data. 
-
-- name: Vasileios Vasileiou
-  role: PhD Candidate
-  image: assets/img/team/vasileiou.jpg
-  orcid: 0000-0003-0145-033X
-  email: vasileioubill95@certh.gr
-  github: vasileioubill95
-  description: >
-    Vasileios Vasileiou is a Phd candidate, working as a Bioinformatician at the Institute of Applied Bioscience (INAB) in the Center for Research and Technology Hellas (CERTH). Overall, his research interests focus on Computational Biology and Bioinformatics, specializing in developing and improving algorithms for Next Generation Sequencing (NGS) data projects. His main studies focus on Molecular Biology and Genetics at Democritus University of Thrace (DUTH), while he obtained his Master’s degree in Bioinformatics at the University of Birmingham (UoB). During his MSc studies, he had the opportunity to participate in supervised multi-omics integrative analysis projects, by applying machine learning algorithms, as part of his dissertation. 
 
 - name: Sofoklis Keisaris
   role: Research Assistant
