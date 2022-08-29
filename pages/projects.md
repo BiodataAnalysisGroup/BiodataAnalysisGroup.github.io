@@ -53,7 +53,7 @@ permalink: /projects/
 
 <img src="/assets/img/collaborations/ELIXIR.png" alt="ELIXIR" style="width:100px;"/>
 
-Co-leading two [ELIXIR](https://elixir-europe.org/) Tasks as commissioned services:
+Co-leading the following [ELIXIR](https://elixir-europe.org/) activities as commissioned services:
 - Tools Platform Task 1 "Packaging, containerisation & deployment"
 - Tools Platform Task 2 "Performance benchmarking & technical monitoring"
 - Tools Platform Task 4 "_Software Best Practices_"
