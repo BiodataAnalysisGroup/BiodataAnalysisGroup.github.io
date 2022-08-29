@@ -11,12 +11,15 @@ columns:
     - text: Centre for Research and Technology Hellas (CERTH)
       href: https://www.certh.gr/
       new_window: true
+    - text: Code of Conduct
+      href: https://github.com/BiodataAnalysisGroup/BiodataAnalysisGroup.github.io/blob/jekyllCode/pages/code-of-conduct.md
+      new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
       This is the website for our research group. <br/> [Group GitHub](https://github.com/BiodataAnalysisGroup)
       
-  - description: Code of Conduct
-    href: /coc/
+      
+
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
