@@ -114,7 +114,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 
 
-### Thesis
+### Theses
 
 {% bibliography --query @phdthesis %}
 
