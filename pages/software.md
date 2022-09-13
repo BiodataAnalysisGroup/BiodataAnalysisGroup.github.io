@@ -119,26 +119,7 @@ It requires `R` (version "4.1"), which can be installed on any operating system 
 All the packages that need to be installed in your `R` session are the following:
 
 ```r
-install.packages("shiny")
-install.packages("shinyFiles")
-install.packages("fs")
-install.packages("pdftools")
-install.packages("purrr")
-install.packages("DT")
-install.packages("bslib")
-install.packages("shinyhelper")
-install.packages("data.table")
-install.packages("stringr")
-install.packages("RGenetics")
-install.packages("dplyr")
-install.packages("ggsci")
-install.packages("tidygraph")
-install.packages("ggraph")
-install.packages("igraph")
-install.packages("ggplot2")
-install.packages("ggpubr")
-install.packages("rstatix")
-install.packages("shinyvalidate")
+install.packages(c("shiny", "shinyFiles", "fs", "pdftools", "purrr", "DT", "bslib", "shinyhelper", "data.table", "stringr", "RGenetics", "dplyr", "ggsci", "tidygraph", "ggraph", "igraph", "ggplot2", "ggpubr", "rstatix", "shinyvalidate"))
 
 ```
 
