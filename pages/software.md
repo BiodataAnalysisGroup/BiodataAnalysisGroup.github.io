@@ -18,6 +18,8 @@ permalink: /software/
 ![lineagespot](/assets/img/software/lineagespotlogo.png){: .rounded .float-left width="200px"}
 
 <br/>
+{: .clearfix}
+<br>
 
 Lineagespot is a [Bioconductor](http://bioconductor.org) package
 written in [R](https://www.r-project.org/), and aims to identify 
@@ -49,6 +51,8 @@ Nikolaos Pechlivanis, Maria Tsagiopoulou, Maria Christina Maniou, Anastasis Togk
 ![tripr](/assets/img/software/tripr.png){: .rounded .float-left width="200px"}
 
 <br/>
+{: .clearfix}
+<br>
 
 is a [Bioconductor](http://bioconductor.org) package, written in
 [shiny](https://shiny.rstudio.com/) that provides analytics services on
