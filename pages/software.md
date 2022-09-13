@@ -15,7 +15,7 @@ permalink: /software/
 <br>
 
 # **lineagespot**
-
+![lineagespot](/assets/img/software/lineagespotlogo.png)
 
 Lineagespot is a [Bioconductor](http://bioconductor.org) package
 written in [R](https://www.r-project.org/), and aims to identify 
@@ -44,6 +44,9 @@ Nikolaos Pechlivanis, Maria Tsagiopoulou, Maria Christina Maniou, Anastasis Togk
 
 
 # **tripr**
+![tripr](/assets/img/software/tripr.png)
+
+
 is a [Bioconductor](http://bioconductor.org) package, written in
 [shiny](https://shiny.rstudio.com/) that provides analytics services on
 antigen receptor (B cell receptor immunoglobulin, BcR IG | T cell
