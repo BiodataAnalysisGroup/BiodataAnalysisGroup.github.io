@@ -15,7 +15,7 @@ permalink: /software/
 <br>
 
 # **lineagespot**
-![lineagespot](/assets/img/software/lineagespotlogo.png)
+![lineagespot](/assets/img/software/lineagespotlogo.png){: .rounded .float-left width="100px"}
 
 Lineagespot is a [Bioconductor](http://bioconductor.org) package
 written in [R](https://www.r-project.org/), and aims to identify 
@@ -44,7 +44,7 @@ Nikolaos Pechlivanis, Maria Tsagiopoulou, Maria Christina Maniou, Anastasis Togk
 
 
 # **tripr**
-![tripr](/assets/img/software/tripr.png)
+![tripr](/assets/img/software/tripr.png){: .rounded .float-left width="100px"}
 
 
 is a [Bioconductor](http://bioconductor.org) package, written in
