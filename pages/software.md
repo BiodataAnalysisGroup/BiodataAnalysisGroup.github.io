@@ -158,8 +158,11 @@ Rscript app.R
 ```  
 This will produce a url that can be copied in a web browser and will direct the user to the IgIDivA app.  
 
+### Citation
 
+If you use the tool, please cite the following work:
 
+Laura Zaragoza-Infante, Valentin Junet, Nikos Pechlivanis, Styliani-Christina Fragkouli, Serovpe Amprachamian, Triantafyllia Koletsa, Anastasia Chatzidimitriou, Maria Papaioannou, Kostas Stamatopoulos, Andreas Agathangelidis, Fotis Psomopoulos, "_IgIDivA: immunoglobulin intraclonal diversification analysis_", Briefings in Bioinformatics; doi: [https://doi.org/10.1093%2Fbib%2Fbbac349](https://doi.org/10.1093%2Fbib%2Fbbac349)
 
 
 
