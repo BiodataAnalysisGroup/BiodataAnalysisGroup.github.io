@@ -5,21 +5,21 @@ background: /assets/img/groupLogo/coding.jpg
 permalink: /software/
 ---
 
-[**lineagespot**](#lineagespot) &nbsp; [**tripr**](#tripr) &nbsp; [** BEEMUS**](#BEEMUS) &nbsp; [**IgIDivA**](#IgIDivA) &nbsp; [**UMIc**](#UMIc) &nbsp; [**godel-numbering**](#godel-numbering) &nbsp; [**miRkit**](#miRkit) &nbsp; [**metaDIEA**](#metaDIEA) &nbsp; [**kmerAnalyzer**](#kmerAnalyzer) &nbsp; [**k-taxatree**](#k-taxatree) &nbsp; [**InterTads**](#InterTads) &nbsp; [**Odysseus**](#Odysseus) &nbsp; [**GridCG**](#GridCG) &nbsp; [**BPM**](#BPM) &nbsp; [**Mutations-Meta-Analyser**](#Mutations-Meta-Analyser) &nbsp; [**align-paths**](#align-paths) &nbsp; [**G-Class**](#G-Class) &nbsp;
+[**lineagespot**](#lineagespot) &nbsp; [**tripr**](#tripr) &nbsp; [**IgIDivA**](#IgIDivA) &nbsp; [**InterTads**](#InterTads) &nbsp; [**UMIc**](#UMIc) &nbsp; [**metaDIEA**](#metaDIEA) &nbsp; [**miRkit**](#miRkit) &nbsp; [**Goedel-numbering**](#Goedel numbering) &nbsp; [**kmerAnalyzer**](#kmerAnalyzer) &nbsp; [**k-taxatree**](#k-taxatree) &nbsp; [**Odysseus**](#Odysseus) &nbsp; [**BEEMUS**](#BEEMUS) &nbsp; [**GridCG**](#GridCG) &nbsp; [**BPM**](#BPM) &nbsp; [**Mutations-Meta-Analyser**](#Mutations-Meta-Analyser) &nbsp; [**align-paths**](#align-paths) &nbsp; [**G-Class**](#G-Class) &nbsp;
 
 <br/>
 
 {: .clearfix}
 <br>
 
-# **lineagespot
+# **lineagespot**
 ![lineagespot](/assets/img/software/lineagespotlogo.png){: .rounded .float-left width="200px"}
 
 <br/>
 {: .clearfix}
 <br>
 
-Lineagespot is a [Bioconductor](http://bioconductor.org) package
+lineagespot is a [Bioconductor](http://bioconductor.org) package
 written in [R](https://www.r-project.org/), and aims to identify 
 SARS-CoV-2 related mutations based on a single (or a list) of variant(s) 
 file(s) (i.e., [variant calling format](https://gatk.broadinstitute.org/hc/en-us/articles/360035531692-VCF-Variant-Call-Format)). 
@@ -33,7 +33,7 @@ devtools::install_github("BiodataAnalysisGroup/lineagespot")
 
 #### Raw data analysis
 
-The processing steps of the raw fastq files can be found [here](inst/scripts/raw-data-analysis.md).
+The processing steps of the raw fastq files can be found [here](https://github.com/BiodataAnalysisGroup/lineagespot/blob/master/inst/scripts/raw-data-analysis.md)
 
 #### Material
 - [github](https://github.com/BiodataAnalysisGroup/lineagespot)
@@ -102,24 +102,7 @@ library(tripr)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **3. BEEMUS**
-
-#### Overview
-
-`BEEMUS` is a novel method for detecting patterns of co-occuring mutations beyond strain-specific / strain-defining ones and making use of those patterns in an endeavor to group samples in such a way that they could indicate evolutionary paths of the virus. In otherwords, mutational occurrence patterns might suggest different ways of grouping sample revealing the evolutionary history of SARS-CoV-2.
-
-#### Material
-Installation instructions can be found here:
-- [github](https://github.com/BiodataAnalysisGroup/BEEMUS)
-
-#### Citation
-
-If you use the tool, please cite the following work:
-N. Pechlivanis, M. Tsagiopoulou, M. C. Maniou, A. Togkousidis, E. Mouchtaropoulou, S. C. Chassalevris Taxiarchisand Chaintoutis, M. Petala, M. Kostoglou, T. Karapantsios, S. Laidou, E. Vlachonikola, A. Chatzidimitriou, A. Papadopoulos, N. Papaioannou, C. I. Dovas, A. Argiriou, and F. Psomopoulos, “Detecting SARS-CoV-2 lineages and mutational load in municipal wastewater and a use-case in the metropolitan area of Thessaloniki, Greece,” Scientific Reports, vol. 12, no. 1, p. 2659, Feb. 2022, doi: [10.1038/s41598-022-06625-6](10.1038/s41598-022-06625-6).
- 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# **4. IgIDivA**
+# **IgIDivA**
 
 #### Overview
 
@@ -161,7 +144,24 @@ Laura Zaragoza-Infante, Valentin Junet, Nikos Pechlivanis, Styliani-Christina Fr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **5. UMIc**
+# **InterTads**
+
+`InterTADs` is an open-source tool written in R, for integrating multi-omics data (e.g. DNA methylation, expression, mutation) from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs).
+
+#### Material
+Installation instructions can be found here:
+
+- [github](https://github.com/BiodataAnalysisGroup/InterTADs)
+
+#### Citation
+
+If you use the tool, please cite the following work:
+
+M. Tsagiopoulou, N. Pechlivanis, and F. Psomopoulos, “InterTADs: Integration of Multi-Omics Data on Topological Associated Domains.” Aug. 2020, doi: [10.21203/rs.3.rs-54194/v1](10.21203/rs.3.rs-54194/v1)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# **UMIc**
 
 UMIc is a framework, written in [R](https://www.r-project.org/), implementing a new proposed method for UMI deduplication and reads correction. The method works at nucleotide level, taking into account the frequency and the mean quality of each base. 
 
@@ -232,22 +232,24 @@ If you use the tool, please cite the following work:
 M. Tsagiopoulou, M. C. Maniou, N. Pechlivanis, A. Togkousidis, M. Kotrová, T. Hutzenlaub, I. Kappas, A. Chatzidimitriou, and F. Psomopoulos, “UMIc: A Preprocessing Method for UMI Deduplication and Reads Correction,” Frontiers in Genetics, vol. 12, May 2021, doi: [10.3389/fgene.2021.660366](10.3389/fgene.2021.660366)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# **6. godel-numbering**
 
-Evolution consists of distinct stages: cosmological, biological, linguistic. Since biology verges on natural sciences and linguistics, we expect that it shares structures and features from both forms of knowledge. Indeed, in DNA we encounter the biological "atoms", the four nucleotide molecules. At the same time these four nucleotides may be considered as the "letters" of an alphabet. These four "letters", through a genetic code, generate biological "words", "phrases", "sentences" (aminoacids, proteins, cells, living organisms). In this spirit we may consider equally well a DNA strand as a mathematical statement. Inspired by the work of Kurt Gödel, we attach to each DNA strand a Gödel's number, a product of prime numbers raised to appropriate powers. To each DNA chain corresponds a single Gödel's number G, and inversely given a Gödel's number G, we can specify the DNA chain it stands for. Next, considering a single DNA strand composed of N bases, we study the statistical distribution of g, the logarithm of G. Our assumption is that the choice of the m-th term is random and with equal probability for the four possible outcomes. The "experiment", to some extent, appears as throwing N times a four-faces die. Through the moment generating function we obtain the discrete and then the continuum distribution of g. There is an excellent agreement between our formalism and simulated data. At the end we compare our formalism to actual data, to specify the presence of traces of non-random dynamics.
+# **metaDIEA**
+
+RNA sequencing has become the standard technique for high resolution genome-wide monitoring of gene expression. As such, it often comprises the first step towards understanding complex mo-lecular mechanisms driving various phenotypes, spanning organ development to disease genesis, monitoring and progression. One of the many advantages of RNA sequencing is its ability to capture complex transcriptomic events such as alternative splicing which results in alternate isoform abundance. At the same time, this advantage still remains algorithmically and computationally challenging, especially with the emergence of even higher resolution technologies such as single-cell RNA sequencing. Although several algorithms have been proposed for the effective detection of differential isoform expression from RNA-Seq data, no widely accepted golden standards have been established. This fact is further compounded by the significant differences in the output of different algorithms when applied on the same data. In addition, many of the proposed algorithms remain scarce and poorly maintained. Driven by these challenges, we developed metaDIEA (meta- Differential Isoform Expression Analysis), a novel integrative ap-proach that effectively combines the top most widely used algorithms for differential transcript and isoform analysis using state-of-the-art Machine Learning techniques. We demonstrate its usability by applying it on simulated data based on several organisms, and using several performance metrics we conclude that our strategy outperforms the application of the individual algorithms. Finally, our approach is implemented as an R Shiny application, with the underlying data analysis pipelines also available as Docker containers.
 
 #### Material
 Installation instructions can be found here:
-- [github](https://github.com/BiodataAnalysisGroup/godel-numbering)
+- [github](https://github.com/BiodataAnalysisGroup/metaDIEA)
 
 #### Citation
 
 If you use the tool, please cite the following work:
 
-A. Nicolaidis and F. Psomopoulos, “DNA coding and Gödel numbering,” Physica A: Statistical Mechanics and its Applications, vol. 594, p. 127053, 2022, doi: [https://doi.org/10.1016/j.physa.2022.127053]( https://doi.org/10.1016/j.physa.2022.127053)
+N. Pechlivanis, A. Togkousidis, M. Tsagiopoulou, S. Sgardelis, I. Kappas, and F. Psomopoulos, “A Computational Framework for Pattern Detection on Unaligned Sequences: An Application on SARS-CoV-2 Data,” Frontiers in Genetics, vol. 12, May 2021, doi: [10.3389/fgene.2021.618170](10.3389/fgene.2021.618170)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# **7. miRkit**
+
+# **miRkit**
 
 `miRkit` is an open source framework written in R, that allows for the comprehensive analysis of RT-PCR data, from the processing of raw data to a functional analysis of the produced results. The main goal of the proposed tool is to provide an assessment of the samples’ quality, perform data normalization by endogenous and exogenous miRNAs, and facilitate differential and functional enrichment analysis. The tool offers fast execution times with low memory usage, and is freely available under a ΜΙΤ license from https://bio.tools/mirkit. Overall, miRkit offers the full analysis from the raw RT-PCR data to functional analysis of targeted genes, and specifically designed to support the popular miScript miRNA PCR Array (Qiagen) technology.
 
@@ -313,23 +315,23 @@ M. Tsagiopoulou, A. Togkousidis, N. Pechlivanis, M. C. Maniou, A. Batsali, A. Ma
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **8. metaDIEA**
+# **Goedel numbering**
 
-RNA sequencing has become the standard technique for high resolution genome-wide monitoring of gene expression. As such, it often comprises the first step towards understanding complex mo-lecular mechanisms driving various phenotypes, spanning organ development to disease genesis, monitoring and progression. One of the many advantages of RNA sequencing is its ability to capture complex transcriptomic events such as alternative splicing which results in alternate isoform abundance. At the same time, this advantage still remains algorithmically and computationally challenging, especially with the emergence of even higher resolution technologies such as single-cell RNA sequencing. Although several algorithms have been proposed for the effective detection of differential isoform expression from RNA-Seq data, no widely accepted golden standards have been established. This fact is further compounded by the significant differences in the output of different algorithms when applied on the same data. In addition, many of the proposed algorithms remain scarce and poorly maintained. Driven by these challenges, we developed metaDIEA (meta- Differential Isoform Expression Analysis), a novel integrative ap-proach that effectively combines the top most widely used algorithms for differential transcript and isoform analysis using state-of-the-art Machine Learning techniques. We demonstrate its usability by applying it on simulated data based on several organisms, and using several performance metrics we conclude that our strategy outperforms the application of the individual algorithms. Finally, our approach is implemented as an R Shiny application, with the underlying data analysis pipelines also available as Docker containers.
+Evolution consists of distinct stages: cosmological, biological, linguistic. Since biology verges on natural sciences and linguistics, we expect that it shares structures and features from both forms of knowledge. Indeed, in DNA we encounter the biological "atoms", the four nucleotide molecules. At the same time these four nucleotides may be considered as the "letters" of an alphabet. These four "letters", through a genetic code, generate biological "words", "phrases", "sentences" (aminoacids, proteins, cells, living organisms). In this spirit we may consider equally well a DNA strand as a mathematical statement. Inspired by the work of Kurt Gödel, we attach to each DNA strand a Gödel's number, a product of prime numbers raised to appropriate powers. To each DNA chain corresponds a single Gödel's number G, and inversely given a Gödel's number G, we can specify the DNA chain it stands for. Next, considering a single DNA strand composed of N bases, we study the statistical distribution of g, the logarithm of G. Our assumption is that the choice of the m-th term is random and with equal probability for the four possible outcomes. The "experiment", to some extent, appears as throwing N times a four-faces die. Through the moment generating function we obtain the discrete and then the continuum distribution of g. There is an excellent agreement between our formalism and simulated data. At the end we compare our formalism to actual data, to specify the presence of traces of non-random dynamics.
 
 #### Material
 Installation instructions can be found here:
-- [github](https://github.com/BiodataAnalysisGroup/metaDIEA)
+- [github](https://github.com/BiodataAnalysisGroup/godel-numbering)
 
 #### Citation
 
 If you use the tool, please cite the following work:
 
-N. Pechlivanis, A. Togkousidis, M. Tsagiopoulou, S. Sgardelis, I. Kappas, and F. Psomopoulos, “A Computational Framework for Pattern Detection on Unaligned Sequences: An Application on SARS-CoV-2 Data,” Frontiers in Genetics, vol. 12, May 2021, doi: [10.3389/fgene.2021.618170](10.3389/fgene.2021.618170)
+A. Nicolaidis and F. Psomopoulos, “DNA coding and Gödel numbering,” Physica A: Statistical Mechanics and its Applications, vol. 594, p. 127053, 2022, doi: [https://doi.org/10.1016/j.physa.2022.127053]( https://doi.org/10.1016/j.physa.2022.127053)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **9. kmerAnalyzer**
+# **kmerAnalyzer**
 
 `kmerAnalyzer` is an alignment-free method capable of processing and counting k-mers in a reasonable time, while evaluating multiple values of the k parameter concurrently. `kmerAnalyzer` was initially implemented in Python 2.7 version, but it seems to work pretty well in Python 3.8 too.
 
@@ -350,7 +352,7 @@ N. Pechlivanis, A. Togkousidis, M. Tsagiopoulou, S. Sgardelis, I. Kappas, and F.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **10. k-taxatree**
+# **k-taxatree**
 
 `k-taxatree` is a classification workflow written in R, predicting the labels of the first four taxonomic levels (kingdom, phylum, class, order) of metagenomic data with a multi-label Random Forest as the underlying model. The latter accepts as input 6-mer count vectors and as such a method to determine the appropriate k-length was also implemented.
 
@@ -375,24 +377,7 @@ If you use the tool, please cite the following work:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **11. InterTads**
-
-`InterTADs` is an open-source tool written in R, for integrating multi-omics data (e.g. DNA methylation, expression, mutation) from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs).
-
-#### Material
-Installation instructions can be found here:
-
-- [github](https://github.com/BiodataAnalysisGroup/InterTADs)
-
-#### Citation
-
-If you use the tool, please cite the following work:
-
-M. Tsagiopoulou, N. Pechlivanis, and F. Psomopoulos, “InterTADs: Integration of Multi-Omics Data on Topological Associated Domains.” Aug. 2020, doi: [10.21203/rs.3.rs-54194/v1](10.21203/rs.3.rs-54194/v1)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-# **12. Odysseus**
+# **Odysseus**
 
 `Odysseus` is a versatile high performance framework for optimizing bioinformatics workflow parallelization in hybrid cloud environments.
 
@@ -411,7 +396,24 @@ A. M. Kintsakis, F. E. Psomopoulos, and P. A. Mitkas, “Reinforcement Learning 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **13. GridCG**
+# **BEEMUS**
+
+#### Overview
+
+`BEEMUS` is a novel method for detecting patterns of co-occuring mutations beyond strain-specific / strain-defining ones and making use of those patterns in an endeavor to group samples in such a way that they could indicate evolutionary paths of the virus. In otherwords, mutational occurrence patterns might suggest different ways of grouping sample revealing the evolutionary history of SARS-CoV-2.
+
+#### Material
+Installation instructions can be found here:
+- [github](https://github.com/BiodataAnalysisGroup/BEEMUS)
+
+#### Citation
+
+If you use the tool, please cite the following work:
+N. Pechlivanis, M. Tsagiopoulou, M. C. Maniou, A. Togkousidis, E. Mouchtaropoulou, S. C. Chassalevris Taxiarchisand Chaintoutis, M. Petala, M. Kostoglou, T. Karapantsios, S. Laidou, E. Vlachonikola, A. Chatzidimitriou, A. Papadopoulos, N. Papaioannou, C. I. Dovas, A. Argiriou, and F. Psomopoulos, “Detecting SARS-CoV-2 lineages and mutational load in municipal wastewater and a use-case in the metropolitan area of Thessaloniki, Greece,” Scientific Reports, vol. 12, no. 1, p. 2659, Feb. 2022, doi: [10.1038/s41598-022-06625-6](10.1038/s41598-022-06625-6).
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# **GridCG**
 
 A scalable and modular Grid computing framework for Comparative Genomics.
 
@@ -443,7 +445,7 @@ If you use the tool, please cite the following work:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **14. BPM**
+# **BPM**
 
 `BPM` (BLAST - Phylogenetic Profile - MCL) is a distributed modular application for sequence alignment, phylogenetic profiling and clustering of protein sequences, by utilizing the European Grid Infrastructure. Specifically, the application comprises three main components; (a) BLAST alignment (b) construction of phylogenetic profiles based on the produced alignment scores and (c) clustering of entities using the MCL algorithm. These modules have been selected as they represent a common aspect of a vast majority of bionformatics workflows. It is important to note that the modules can be combined independently, and ultimately provide 4 different modes of operation.
 
@@ -458,7 +460,7 @@ If you use the tool, please cite the following work:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **15. Mutations-Meta-Analyser**
+# **Mutations-Meta-Analyser**
 
 #### Material
 Installation instructions can be found here:
@@ -471,7 +473,7 @@ If you use the tool, please cite the following work:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **16. align-paths**
+# **align-paths**
 
 In the wake of gene-oriented data analysis in large-scale bioinformatics studies, focus in research is currently shifting towards the analysis of the functional association of genes, namely the metabolic pathways in which genes participate. The goal of this paper is to attempt to identify the core genes in a specific pathway, based on a user-defined selection of genomes. To this end, a novel algorithm has been developed that uses data from the KEGG database, and through the application of the MCL clustering algorithm, identifies clusters that correspond to different “layers” of genes, either on a phylogenetic or a functional level. The algorithm's complexity, evaluated experimentally, is presented and the results on three characteristic case studies are discussed.
 
@@ -486,7 +488,7 @@ If you use the tool, please cite the following work:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# **17 G-Class**
+# **G-Class**
 
 `G-Class` is a Divide and Conquer Application for Grid Protein Classification.
 
