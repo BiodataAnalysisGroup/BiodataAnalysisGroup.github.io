@@ -5,14 +5,14 @@ background: /assets/img/groupLogo/coding.jpg
 permalink: /software/
 ---
 
-[**lineagespot**](#lineagespot) &nbsp; [**tripr**](#2.tripr) &nbsp; [** BEEMUS**](#BEEMUS) &nbsp; [**IgIDivA**](#IgIDivA) &nbsp; [**UMIc**](#UMIc) &nbsp; [**godel-numbering**](#godel-numbering) &nbsp; [**miRkit**](#miRkit) &nbsp; [**metaDIEA**](#metaDIEA) &nbsp; [**kmerAnalyzer**](#kmerAnalyzer) &nbsp; [**k-taxatree**](#k-taxatree) &nbsp; [**InterTads**](#InterTads) &nbsp; [**Odysseus**](#Odysseus) &nbsp; [**GridCG**](#GridCG) &nbsp; [**BPM**](#BPM) &nbsp; [**Mutations-Meta-Analyser**](#Mutations-Meta-Analyser) &nbsp; [**align-paths**](#align-paths) &nbsp; [**G-Class**](#G-Class) &nbsp;
+[**lineagespot**](#lineagespot) &nbsp; [**tripr**](#tripr) &nbsp; [** BEEMUS**](#BEEMUS) &nbsp; [**IgIDivA**](#IgIDivA) &nbsp; [**UMIc**](#UMIc) &nbsp; [**godel-numbering**](#godel-numbering) &nbsp; [**miRkit**](#miRkit) &nbsp; [**metaDIEA**](#metaDIEA) &nbsp; [**kmerAnalyzer**](#kmerAnalyzer) &nbsp; [**k-taxatree**](#k-taxatree) &nbsp; [**InterTads**](#InterTads) &nbsp; [**Odysseus**](#Odysseus) &nbsp; [**GridCG**](#GridCG) &nbsp; [**BPM**](#BPM) &nbsp; [**Mutations-Meta-Analyser**](#Mutations-Meta-Analyser) &nbsp; [**align-paths**](#align-paths) &nbsp; [**G-Class**](#G-Class) &nbsp;
 
 <br/>
 
 {: .clearfix}
 <br>
 
-# lineagespot
+# **lineagespot
 ![lineagespot](/assets/img/software/lineagespotlogo.png){: .rounded .float-left width="200px"}
 
 <br/>
@@ -46,7 +46,7 @@ Nikolaos Pechlivanis, Maria Tsagiopoulou, Maria Christina Maniou, Anastasis Togk
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 2.tripr
+# **tripr**
 ![tripr](/assets/img/software/tripr.png){: .rounded .float-left width="200px"}
 
 <br/>
