@@ -5,14 +5,14 @@ background: /assets/img/groupLogo/coding.jpg
 permalink: /software/
 ---
 
-[**lineagespot**](# **1. lineagespot**) &nbsp; [** tripr**](#2. tripr) &nbsp; [** BEEMUS**](#BEEMUS) &nbsp; [**IgIDivA**](#IgIDivA) &nbsp; [**UMIc**](#UMIc) &nbsp; [**godel-numbering**](#godel-numbering) &nbsp; [**miRkit**](#miRkit) &nbsp; [**metaDIEA**](#metaDIEA) &nbsp; [**kmerAnalyzer**](#kmerAnalyzer) &nbsp; [**k-taxatree**](#k-taxatree) &nbsp; [**InterTads**](#InterTads) &nbsp; [**Odysseus**](#Odysseus) &nbsp; [**GridCG**](#GridCG) &nbsp; [**BPM**](#BPM) &nbsp; [**Mutations-Meta-Analyser**](#Mutations-Meta-Analyser) &nbsp; [**align-paths**](#align-paths) &nbsp; [**G-Class**](#G-Class) &nbsp;
+[**lineagespot**](#1.lineagespot) &nbsp; [** tripr**](#2. tripr) &nbsp; [** BEEMUS**](#BEEMUS) &nbsp; [**IgIDivA**](#IgIDivA) &nbsp; [**UMIc**](#UMIc) &nbsp; [**godel-numbering**](#godel-numbering) &nbsp; [**miRkit**](#miRkit) &nbsp; [**metaDIEA**](#metaDIEA) &nbsp; [**kmerAnalyzer**](#kmerAnalyzer) &nbsp; [**k-taxatree**](#k-taxatree) &nbsp; [**InterTads**](#InterTads) &nbsp; [**Odysseus**](#Odysseus) &nbsp; [**GridCG**](#GridCG) &nbsp; [**BPM**](#BPM) &nbsp; [**Mutations-Meta-Analyser**](#Mutations-Meta-Analyser) &nbsp; [**align-paths**](#align-paths) &nbsp; [**G-Class**](#G-Class) &nbsp;
 
 <br/>
 
 {: .clearfix}
 <br>
 
-# **1. lineagespot**
+# 1.lineagespot
 ![lineagespot](/assets/img/software/lineagespotlogo.png){: .rounded .float-left width="200px"}
 
 <br/>
