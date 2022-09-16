@@ -5,7 +5,7 @@ background: /assets/img/groupLogo/coding.jpg
 permalink: /software/
 ---
 
-[**lineagespot**](#lineagespot) &nbsp; [**tripr**](#tripr) &nbsp; [**IgIDivA**](#IgIDivA) &nbsp; [**InterTads**](#InterTads) &nbsp; [**UMIc**](#UMIc) &nbsp; [**metaDIEA**](#metaDIEA) &nbsp; [**miRkit**](#miRkit) &nbsp; [**Goedel-numbering**](#Goedel numbering) &nbsp; [**kmerAnalyzer**](#kmerAnalyzer) &nbsp; [**k-taxatree**](#k-taxatree) &nbsp; [**Odysseus**](#Odysseus) &nbsp; [**BEEMUS**](#BEEMUS) &nbsp; [**GridCG**](#GridCG) &nbsp; [**BPM**](#BPM) &nbsp; [**Mutations-Meta-Analyser**](#Mutations-Meta-Analyser) &nbsp; [**align-paths**](#align-paths) &nbsp; [**G-Class**](#G-Class) &nbsp;
+[**lineagespot**](#lineagespot) &nbsp; [**tripr**](#tripr) &nbsp; [**IgIDivA**](#igidiva) &nbsp; [**InterTads**](#intertads) &nbsp; [**UMIc**](#umic) &nbsp; [**metaDIEA**](#metadiea) &nbsp; [**miRkit**](#mirkit) &nbsp; [**Goedel-numbering**](#goedel-numbering) &nbsp; [**kmerAnalyzer**](#kmeranalyzer) &nbsp; [**k-taxatree**](#k-taxatree) &nbsp; [**Odysseus**](#odysseus) &nbsp; [**BEEMUS**](#beemus) &nbsp; [**GridCG**](#gridcg) &nbsp; [**BPM**](#bpm) &nbsp; [**Mutations-Meta-Analyser**](#mutations-meta-analyser) &nbsp; [**align-paths**](#align-paths) &nbsp; [**G-Class**](#g-class) &nbsp;
 
 <br/>
 
