@@ -11,29 +11,33 @@ permalink: /activities/
 
 ![Machine Learning](/assets/img/activities/Machine_Learning_Logo.png){: .rounded .float-left width="100px"}
 
-Machine learning approaches are commonly used in Biology. More specific, these approaches is necessary in the downstream analysis of the bio-data in order to extract the significant information.
+Machine Learning approaches are widely used in this era of highly dimensional Biological “Big-Data” to leverage actionable biological and potentially therapeutic insights.
 
 <br/>
 
 {: .clearfix}
 
-### Approaches
+### Machine Learning
 
 Applying approaches:
 
-- Principal Component Analysis
+- Principal Component Analysis (PCA) and generalized Principal Component Analysis (GLM-PCA)
 - Random Forest
 - Support vector machine
 - Cluster Analysis
-- t-SNE
-- k-mers
+- t-SNE / UMAP
 - Feature selection
+- Ensemble methods [metaDIEA](https://github.com/BiodataAnalysisGroup/metaDIEA)
+
+Leading efforts on standards:
+- [DOME Recommendations](https://www.nature.com/articles/s41592-021-01205-4)
+- [FAIR for Machine Learning](https://www.rd-alliance.org/groups/fair-machine-learning-fair4ml)
 
 ## Multi-omics
 
-The Next Generation Sequencing (NGS) produce big biological data. The process of analyzing omics data usually leads to a high dimensional matrix, with the different cases listed as columns and the locations on the genome in which the examined event happened (e.g. mutation, gene expression etc.) as rows.
+The Next Generation Sequencing (NGS) pipelines generate voluminous biological data. The process of analyzing omics data usually leads to a high dimensional matrix, with the different cases listed as columns and the locations on the genome in which the examined event happened (e.g. mutation, gene expression etc.) as rows.
 
-The particular omics computational approaches currently in progress fall in the biomedical domain include:
+Relevant computational approaches in the biomedical domain include:
 
 1. High throughput immunogenetic analysis in health and disease
 2. Integrated omics analysis of hematologic malignancies: DNA methylome and Transcriptome Profiling in patients with hematologic malignancies treated with chemotherapy versus novel agents; Whole exome sequencing of pre-malignant conditions
@@ -49,15 +53,50 @@ The particular omics computational approaches currently in progress fall in the 
 
 ### Downstream analysis
 
-- Immunogetics analysis (_TRIP - T cell receptor/immunoglobulin profiler_)
-- differential analysis (_DEseq2_, _limma_)
-- enrichment analysis (_KEGG_, _GO_)
-- transciption factor binding site analysis (_PWA_)
+- Immunogetics analysis ([_TRIP - T cell receptor/immunoglobulin profiler_](https://github.com/BiodataAnalysisGroup/tripr), [_IgIDivA_](https://github.com/laurazara/IgIDivA) )
+- Differential analysis (_DEseq2_, _limma_)
+- Eenrichment analysis (_Over Representation Analysis/GSEA_, _KEGG_, _GO_, _Reactome_ , _WikiPathway_, _Appyters_)
+- Transciption factor binding site analysis (_PWA_)
+- Network-based Bayesian inference of signaling drivers and transcription factors (_NetBID_, _Cytoscape_, _STRINGdb_)
 
 ### Data Integration
-We developed a high-speed framework, called InterTADs, for integrating multi-omics data from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs).
+We developed a high-speed framework, called InterTADs, for integrating multi-omics data from the same physical source (e.g. patient) considering the chromatin configuration of the genome, i.e. the topologically associating domains (TADs).
 [Check it out on our github](https://github.com/nikopech/InterTADs)
 
+### Single-cell RNA-seq (scRNA-seq) analysis: A Systems approach
+
+We are assembling a computational pipeline with various in silico tools for the analysis of scRNA-seq data to facilitate the inference of actionable biological information for Systems Immunology studies. Some indicative tools from our pipeline are cited below:
+
+1. Pre-processing (batch FASTQ to count matrices) (_Starsolo_), 
+2. Basic downstream analysis (quality control, normalization, selection of variable features, scaling, dimensionality reduction, integration/batch correction, clustering, visualization) (_Seurat_, _Monocle3_, _Scanpy_)
+3. Functional studies:
+   - Cell annotation (_SingleR_)
+   - Trajectory pseudotime (_SCORPIUS_, _Monocle3_)
+   - Gene regulatory networks (_SCENIC_)
+   - Pathway enrichment (_VAM_)
+   - Cell-cell interactions (_CellChat_, _NicheNet_)
+
+### Pan-genome analysis and microbial Genome-wide Association studies (GWAS)
+
+We are implementing a computational workflow which integrates various software tools in order to detect significant associations between genomic features, such as homolog gene clusters or SNPs, and phenotypic traits of interest (e.g., antimicrobial resistance) concerning different microorganisms. Some of the steps of are workflow are cited below:
+
+- Pipeline for SNP calling in core genes (100% read coverage)(_BWA-MEM_, _GATK4 HaplotypeCaller_, _samtools_, _bcftools_, _vcftools_)
+- SNP concatenation & phylogenetic tree (RAxML)
+- Genome assembly (_SPAdes_, _Quast_)
+- Annotation of genes related to antibiotic resistance, virulence, and stress (_AMRFinderPlus_)
+- Genome annotation (_PROKKA_)
+- Pan-genome analysis (_Panaroo_)
+- Genome-wide association study (_pyseer_)
+- Microbial gene annotation (_InterProScan_)
+- Custom R scripts for further analysis and interpretation of the results
+
+### Core Bioinformatics tool development
+
+We are also active in developing tailored bioinformatic tools that addess specific challenges. These include:
+1. NGS Wastewater analysis of SARS-CoV-2 mutations ([_lineagespot_](https://github.com/BiodataAnalysisGroup/lineagespot) ) 
+2. Demultiplexing of UMIs ([_Umic_](https://github.com/BiodataAnalysisGroup/UMIc) )
+3. Tools for analyzing miRNA data ([_mirkit_](https://github.com/BiodataAnalysisGroup/miRkit) )
+4. Using k-mer based representation of omics data ([_Goedel_](https://github.com/BiodataAnalysisGroup/), _k-taxa_, _kmeranalyzer_)
 
 ## Training
 
@@ -68,9 +107,9 @@ We developed a high-speed framework, called InterTADs, for integrating multi-omi
 - [website](https://fpsom.github.io/IntroToMachineLearning/)
 - [github](https://github.com/fpsom/IntroToMachineLearning)
 
-Machine learning has emerged as a discipline that enables computers to assist humans in making sense of large and complex data sets. With the drop-in cost of sequencing technologies, large amounts of omics data are being generated and made accessible to researchers. Analysing these complex high-volume data is not trivial and the use of classical tools cannot explore their full potential. Machine learning can thus be very useful in mining large omics datasets to uncover new insights that can advance the field of medicine and improve health care.
+Machine learning has emerged as a discipline that enables computers to assist humans in making sense of large and complex data sets. With the drop-in cost of sequencing technologies, large amounts of omics data are being generated and made accessible to researchers. Analyzing these complex high-volume data is not trivial and the use of classical tools cannot explore their full potential. Machine learning can thus be very useful in mining large omics datasets to uncover new insights that can advance the field of medicine and improve health care.
 
-The aim of this tutorial is to introduce participants to the Machine learning (ML) taxonomy and common machine learning algorithms. The tutorial will cover the methods being used to analyse different omics data sets by providing a practical context through the use of basic but widely used R and Python libraries. The tutorial will comprise a number of hands on exercises and challenges, where the participants will acquire a first understanding of the standard ML processes as well as the practical skills in applying them on familiar problems and publicly available real-world data sets.
+The aim of this tutorial is to introduce participants to the Machine learning (ML) taxonomy and common machine learning algorithms. The tutorial will cover the methods being used to analyze different omics data sets by providing a practical context through the use of basic but widely used R and Python libraries. The tutorial will comprise a number of hands on exercises and challenges, where the participants will acquire a first understanding of the standard ML processes as well as the practical skills in applying them on familiar problems and publicly available real-world data sets.
 
 ### ELIXIR / CODATA-RDA Research Data Science Advanced Workshop on Bioinformatics
 
