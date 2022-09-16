@@ -443,6 +443,7 @@ Installation instructions can be found here:
 If you use the tool, please cite the following work:
 
 {% reference 10.1007/978-3-319-44944-9_39 %}
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # **BPM**
@@ -457,7 +458,9 @@ Installation instructions can be found here:
 #### Citation
 
 If you use the tool, please cite the following work:
+
 {% reference 10.1007/978-3-319-23983-5_5 %}
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # **Mutations-Meta-Analyser**
@@ -467,9 +470,6 @@ Installation instructions can be found here:
 
 - [github](https://github.com/BiodataAnalysisGroup/Mutations-Meta-Analyser)
 
-#### Citation
-
-If you use the tool, please cite the following work:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -481,10 +481,6 @@ In the wake of gene-oriented data analysis in large-scale bioinformatics studies
 Installation instructions can be found here:
 
 - [github](https://github.com/BiodataAnalysisGroup/align-paths)
-
-#### Citation
-
-If you use the tool, please cite the following work:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -506,4 +502,5 @@ Installation instructions can be found here:
 If you use the tool, please cite the following work:
 
 {% reference Polychroniadou2006GClassAD %}
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------

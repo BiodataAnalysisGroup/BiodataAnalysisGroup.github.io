@@ -5,7 +5,13 @@ background: /assets/img/groupLogo/cropped-background.jpg
 permalink: /activities/
 ---
 
-[**Machine Learning**](#machine-learning) &nbsp; [**Multi-omics**](#multi-omics) &nbsp; [**Training**](#training)
+[**Machine Learning**](#machine-learning) &nbsp; 
+
+[**Multi-omics**](#multi-omics) &nbsp;([**Analysis of raw NGS data**](#analysis-of-raw-ngs-data-fastq),[**Downstream analysis**](#downstream-analysis), [**Data Integration**](#data-integration), [**Single-cell RNA-seq (scRNA-seq) analysis**](#single-cell-rna-seq-scrna-seq-analysis-a-systems-approach), [**Pan-genome analysis and microbial Genome-wide Association studies (GWAS)**](#pan-genome-analysis-and-microbial-genome-wide-association-studies-gwas)) 
+
+[**Core Bioinformatics tool development**](#core bioinformatics tool development) &nbsp; 
+
+[**Training**](#training)
 
 ## Machine Learning
 
@@ -17,7 +23,7 @@ Machine Learning approaches are widely used in this era of highly dimensional Bi
 
 {: .clearfix}
 
-### Machine Learning
+## Machine Learning
 
 Applying approaches:
 
@@ -44,14 +50,14 @@ Relevant computational approaches in the biomedical domain include:
 3. Targeted NGS analysis for improved risk stratification in cancer: novel recurrent gene mutations in hematologic malignancies
 
 
-### Analysis of raw NGS data (.fastq)
+#### Analysis of raw NGS data (.fastq)
 
 - Immuno-sequencing (_IMGT_)
 - RNAseq (_HISAT2_)
 - WES (_GATK_)
 - ChIP-seq (_MACS2_)
 
-### Downstream analysis
+#### Downstream analysis
 
 - Immunogetics analysis ([_TRIP - T cell receptor/immunoglobulin profiler_](https://github.com/BiodataAnalysisGroup/tripr), [_IgIDivA_](https://github.com/laurazara/IgIDivA) )
 - Differential analysis (_DEseq2_, _limma_)
@@ -59,11 +65,11 @@ Relevant computational approaches in the biomedical domain include:
 - Transciption factor binding site analysis (_PWA_)
 - Network-based Bayesian inference of signaling drivers and transcription factors (_NetBID_, _Cytoscape_, _STRINGdb_)
 
-### Data Integration
+#### Data Integration
 We developed a high-speed framework, called InterTADs, for integrating multi-omics data from the same physical source (e.g. patient) considering the chromatin configuration of the genome, i.e. the topologically associating domains (TADs).
 [Check it out on our github](https://github.com/nikopech/InterTADs)
 
-### Single-cell RNA-seq (scRNA-seq) analysis: A Systems approach
+#### Single-cell RNA-seq (scRNA-seq) analysis: A Systems approach
 
 We are assembling a computational pipeline with various in silico tools for the analysis of scRNA-seq data to facilitate the inference of actionable biological information for Systems Immunology studies. Some indicative tools from our pipeline are cited below:
 
@@ -76,7 +82,7 @@ We are assembling a computational pipeline with various in silico tools for the 
    - Pathway enrichment (_VAM_)
    - Cell-cell interactions (_CellChat_, _NicheNet_)
 
-### Pan-genome analysis and microbial Genome-wide Association studies (GWAS)
+#### Pan-genome analysis and microbial Genome-wide Association studies (GWAS)
 
 We are implementing a computational workflow which integrates various software tools in order to detect significant associations between genomic features, such as homolog gene clusters or SNPs, and phenotypic traits of interest (e.g., antimicrobial resistance) concerning different microorganisms. Some of the steps of are workflow are cited below:
 
@@ -90,7 +96,7 @@ We are implementing a computational workflow which integrates various software t
 - Microbial gene annotation (_InterProScan_)
 - Custom R scripts for further analysis and interpretation of the results
 
-### Core Bioinformatics tool development
+## Core Bioinformatics tool development
 
 We are also active in developing tailored bioinformatic tools that addess specific challenges. These include:
 1. NGS Wastewater analysis of SARS-CoV-2 mutations ([_lineagespot_](https://github.com/BiodataAnalysisGroup/lineagespot) ) 
