@@ -14,6 +14,7 @@ permalink: /activities/
    - [**Single-cell RNA-seq (scRNA-seq) analysis**](#single-cell-rna-seq-scrna-seq-analysis-a-systems-approach)
    - [**Pan-genome analysis and microbial Genome-wide Association studies (GWAS)**](#pan-genome-analysis-and-microbial-genome-wide-association-studies-gwas)) 
 
+
 [**Core Bioinformatics tool development**](#core-bioinformatics-tool-development) &nbsp; 
 
 [**Training**](#training)
@@ -43,6 +44,8 @@ Applying approaches:
 Leading efforts on standards:
 - [DOME Recommendations](https://www.nature.com/articles/s41592-021-01205-4)
 - [FAIR for Machine Learning](https://www.rd-alliance.org/groups/fair-machine-learning-fair4ml)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Multi-omics
 
@@ -101,13 +104,17 @@ We are implementing a computational workflow which integrates various software t
 - Microbial gene annotation (_InterProScan_)
 - Custom R scripts for further analysis and interpretation of the results
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Core Bioinformatics tool development
 
 We are also active in developing tailored bioinformatic tools that addess specific challenges. These include:
 1. NGS Wastewater analysis of SARS-CoV-2 mutations ([_lineagespot_](https://github.com/BiodataAnalysisGroup/lineagespot) ) 
 2. Demultiplexing of UMIs ([_Umic_](https://github.com/BiodataAnalysisGroup/UMIc) )
 3. Tools for analyzing miRNA data ([_mirkit_](https://github.com/BiodataAnalysisGroup/miRkit) )
-4. Using k-mer based representation of omics data ([_Goedel_](https://github.com/BiodataAnalysisGroup/), _k-taxa_, _kmeranalyzer_)
+4. Using k-mer based representation of omics data ([_Goedel_](https://github.com/BiodataAnalysisGroup/), [_k-taxa_](https://github.com/BiodataAnalysisGroup/k-taxatree), [_kmeranalyzer_](https://github.com/BiodataAnalysisGroup/kmerAnalyzer))
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Training
 
