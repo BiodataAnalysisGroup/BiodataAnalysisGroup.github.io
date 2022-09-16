@@ -7,9 +7,14 @@ permalink: /activities/
 
 [**Machine Learning**](#machine-learning) &nbsp; 
 
-[**Multi-omics**](#multi-omics) &nbsp;([**Analysis of raw NGS data**](#analysis-of-raw-ngs-data-fastq),[**Downstream analysis**](#downstream-analysis), [**Data Integration**](#data-integration), [**Single-cell RNA-seq (scRNA-seq) analysis**](#single-cell-rna-seq-scrna-seq-analysis-a-systems-approach), [**Pan-genome analysis and microbial Genome-wide Association studies (GWAS)**](#pan-genome-analysis-and-microbial-genome-wide-association-studies-gwas)) 
+[**Multi-omics**](#multi-omics) &nbsp;
+   - [**Analysis of raw NGS data**](#analysis-of-raw-ngs-data-fastq)
+   - [**Downstream analysis**](#downstream-analysis)
+   - [**Data Integration**](#data-integration)
+   - [**Single-cell RNA-seq (scRNA-seq) analysis**](#single-cell-rna-seq-scrna-seq-analysis-a-systems-approach)
+   - [**Pan-genome analysis and microbial Genome-wide Association studies (GWAS)**](#pan-genome-analysis-and-microbial-genome-wide-association-studies-gwas)) 
 
-[**Core Bioinformatics tool development**](#core bioinformatics tool development) &nbsp; 
+[**Core Bioinformatics tool development**](#core-bioinformatics-tool-development) &nbsp; 
 
 [**Training**](#training)
 
