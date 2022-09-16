@@ -29,7 +29,6 @@ Machine Learning approaches are widely used in this era of highly dimensional Bi
 
 {: .clearfix}
 
-## Machine Learning
 
 Applying approaches:
 
