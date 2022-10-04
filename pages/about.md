@@ -27,7 +27,7 @@ Here is a list of webinars and videos our group has participated over the years.
 - _Title_: **Detecting SARS Cov 2 Lineages And Mutational Load In Municipal Wastewater** (under the event [Bioconductor Conference - BioC2022](https://bioc2022.bioconductor.org/))
 - _Date_: 2022 Sept 09
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=8XBcT_weemg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8XBcT_weemg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - _Title_: **Introduction to RDA** (under the event [Open Research Gateway for the ELIXIR-GR Infrastructure](https://www.openaire.eu/item/open-research-gateway-for-the-elixir-gr-infrastructure))
 - _Date_: 2020 May 06
