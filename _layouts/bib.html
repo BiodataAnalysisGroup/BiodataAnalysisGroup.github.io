@@ -8,12 +8,6 @@ description: Template for bibliography
 
 <div id="{{key}}-materials">
   <ul class="nav nav-pills">
-    {% if entry.doi %}
-    <li>DOI: <a href="http://dx.doi.org/{{entry.doi}}" target="_blank">{{entry.doi}}</a></li>
-    {% endif %}
-
-    &nbsp; &nbsp;
-
     {% if entry.url %}
     <li><a href="{{entry.url}}" target="_blank">Available online</a></li>
     {% endif %}
