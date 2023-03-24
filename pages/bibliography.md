@@ -66,10 +66,6 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 <!-- ### 2020
 
 {% bibliography --query @inproceedings[year=2020] %} -->
-### 2023
-
-{% bibliography --query @inproceedings[year=2023] %}
-
 
 
 ### 2022
