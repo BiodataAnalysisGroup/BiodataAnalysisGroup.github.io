@@ -1,14 +1,14 @@
 # Project team members listed below will appear on the /team page
 
 - name: Dr. Fotis Psomopoulos
-  role: Principal Investigator B' # Will appear next to name
+  role: Senior Researcher # Will appear next to name
   image: assets/img/team/fpsom.jpg # Can be external link
   orcid: 0000-0002-0222-4273
   email: fpsom@certh.gr
   github: fpsom
   twitter: fopsom
   description: > # Can be Markdown
-    Dr Fotis E. Psomopoulos works as a Principal Investigator B' (Associate Professor level) at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH), with a primary focus on bioinformatics workflows and computational analysis of large bio-datasets. He has received his doctorate and engineering diploma from the Department of Electrical and Computer Engineering at the Aristotle University of Thessaloniki (AUTH), in 2010 and 2004 respectively. In 2014 he has been awarded with a post-doctoral fellowship scholarship by the AUTh Research Committee. He has worked as a teaching assistant and academic fellow at the Aristotle University of Thessaloniki, as a Visiting Professor at Quest University (Vancouver, Canada) and as an Adjunct Lecturer at the University of Western Macedonia. Moreover, he has participated as a researcher and project manager in several European (RAPP, Microme, ASSIST) and national research projects.
+    Dr Fotis Psomopoulos is a Senior Researcher (Associate Professor level) at the Institute of Applied Biosciences (INAB), at the Centre for Research and Technology Hellas (CERTH), in Thessaloniki Greece. His research interests lie at the intersection of Bioinformatics and Machine Learning, primarily working on the design and implementation of data mining algorithms for knowledge extraction from large datasets in Life Sciences. In this context, he was selected to be an EGI Champion on Life Sciences in 2013, an RDA-EU Ambassador for Bioinformatics in 2019, and he is currently co-leading the ELIXIR Machine Learning Focus Group. In addition to his research activities, he is particularly active in training efforts and initiatives (such as the Carpentries and GOBLET). He is the Training Coordinator of ELIXIR-GR, a member of the ELIXIR Training Platform Executive Committee, and a member of the EOSC Association Research Careers, Recognition and Credit Task Force. Finally, he is a strong advocate of FAIR and Open Science; as applied in research software and machine learning in particular. He is a co-author of the Open Science Training Handbook and the Greek National Plan for Open Science, and is leading the ELIXIR Software Best Practices group, with a notable outcome the ELIXIR Software Management Plan, and the RDA FAIR for Machine Learning Interest Group.
 
 - name: Dr. George Gavriilids
   role: Postdoctoral Researcher # Will appear next to name
