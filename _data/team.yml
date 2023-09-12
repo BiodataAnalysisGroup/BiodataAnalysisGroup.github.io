@@ -84,3 +84,12 @@
   github: NatAnastas
   description: > 
     Anastasia (Natasa) Anastasiadou is a research assistant, working as a Biochemist and Biotechnologist at the Institute of Applied Biosciences (INAB) in the Centre for Research and Technology Hellas (CERTH). She received her BSc in Biochemistry and Biotechnology from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. She is now completing her MSc in Translational Research in Biomedicine from the Democritus University of Thrace. During her master's thesis titled “Characterization of TP53 gene mutation in patients with Chronic Lymphocytic Leukemia” she found interest in Bioinformatics. 
+
+- name: Konstantinos Kardamiliotis
+  role: Research Assistant
+  image: assets/img/team/kardamiliotis.jpg
+  orcid: 0000-0002-5175-0552
+  email: k.kardamiliotis@gmail.com
+  github: KonstantinosKardamiliotis
+  description: > 
+    Konstantinos Kardamiliotis works as a research assistant at the Institute of Applied Biosciences (INAB) at the Center for Research and Technology Hellas (CERTH). He holds a B.Sc. in Biology and a M.Sc. in Precision Medicine, both obtained from the Aristotle University of Thessaloniki (AUTh). He is interested in design and development of bioinformatics tools and pipelines.
