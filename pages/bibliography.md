@@ -21,7 +21,12 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 <br/>
 
 ## Book Chapter
+
 <p style="margin-bottom:15px"></p>
+
+### 2023
+
+{% bibliography --query @inbook[year=2023] %}
 
 ### 2022
 
@@ -71,62 +76,3 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 {% bibliography --query @inproceedings[year=2023] %}
 {% bibliography --query @conference[year=2023] %}
-
-
-### 2022
-
-{% bibliography --query @inproceedings[year=2022] %}
-{% bibliography --query @conference[year=2022] %}
-
-### 2021
-
-{% bibliography --query @inproceedings[year=2021] %}
-{% bibliography --query @conference[year=2021] %}
-
-### 2020
-
-{% bibliography --query @inproceedings[year=2020] %}
-{% bibliography --query @conference[year=2020] %}
-
-### 2019
-
-{% bibliography --query @inproceedings[year=2019] %}
-{% bibliography --query @conference[year=2019] %}
-
-
-<br/>
-
-## Other
-
-<p style="margin-bottom:15px"></p>
-
-### Short articles
-<p style="margin-bottom:15px"></p>
-
-### 2022
-
-{% bibliography --query @misc[year=2022] %}
-
-### 2021
-
-{% bibliography --query @misc[year=2021] %}
-
-### 2020
-
-{% bibliography --query @misc[year=2020] %}
-
-### 2019
-
-{% bibliography --query @misc[year=2019] %}
-
-<br/>
-
-
-
-### Theses
-
-{% bibliography --query @phdthesis %}
-
-
-[//]: # {% bibliography --query @ \* [year=2017] %}
-[//]: # (pandoc --filter=pandoc-citeproc --standalone publications.md -o publications.html)
