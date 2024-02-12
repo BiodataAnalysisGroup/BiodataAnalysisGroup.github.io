@@ -73,10 +73,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 <!-- ### 2020
 
 {% bibliography --query @inproceedings[year=2020] %} -->
-### 2024
 
-{% bibliography --query @article[year=2024] %}
-{% bibliography --query @conference[year=2024] %}
 ### 2023
 
 {% bibliography --query @inproceedings[year=2023] %}
@@ -108,9 +105,11 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 ## Other
 
 <p style="margin-bottom:15px"></p>
+
+
 ### 2024
 
-{% bibliography --query @article[year=2024] %}
+{% bibliography --query @misc[year=2024] %}
 
 ### 2023
 
