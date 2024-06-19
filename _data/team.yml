@@ -10,6 +10,13 @@
   description: > # Can be Markdown
     Dr Fotis Psomopoulos is a Senior Researcher (Associate Professor level) at the Institute of Applied Biosciences (INAB), at the Centre for Research and Technology Hellas (CERTH), in Thessaloniki Greece. His research interests lie at the intersection of Bioinformatics and Machine Learning, primarily working on the design and implementation of data mining algorithms for knowledge extraction from large datasets in Life Sciences. In this context, he was selected to be an EGI Champion on Life Sciences in 2013, an RDA-EU Ambassador for Bioinformatics in 2019, and he is currently co-leading the ELIXIR Machine Learning Focus Group. In addition to his research activities, he is particularly active in training efforts and initiatives (such as the Carpentries and GOBLET). He is the Training Coordinator of ELIXIR-GR, a member of the ELIXIR Training Platform Executive Committee, and a member of the EOSC Association Research Careers, Recognition and Credit Task Force. Finally, he is a strong advocate of FAIR and Open Science; as applied in research software and machine learning in particular. He is a co-author of the Open Science Training Handbook and the Greek National Plan for Open Science, and is leading the ELIXIR Software Best Practices group, with a notable outcome the ELIXIR Software Management Plan, and the RDA FAIR for Machine Learning Interest Group.
 
+- name: Elena Bakoglidou
+  role: Project Manager
+  image: assets/img/team/elena.jpg 
+  email: elenabak@certh.gr
+  description: > 
+    Elena Bakoglidou is a Project Manager at the Institute of Applied Biosciences (INAB) within the Center for Research and Technology Hellas (CERTH). She holds a B.Sc. in Political Science and an MBA in International Business. With eight years of professional experience, Elena specializes in the administrative and financial management, as well as the implementation of EU-funded projects in both public and private sectors.
+
 - name: Dr. George Gavriilids
   role: Postdoctoral Researcher # Will appear next to name
   image: assets/img/team/ggeorav.jpg # Can be external link
