@@ -10,7 +10,7 @@ permalink: /projects/
 <img src="/assets/img/collaborations/EOSC_Everse.jpg" alt="EOSC4Cancer" style="width:250px;"/>
 
 
-[**European Virtual Institute for Research Software Excellence**](https://everse.software/)
+[*European Virtual Institute for Research Software Excellence*](https://everse.software/)
 
 - **Duration**: 2024-2027
 - **Funder**: HORIZON-INFRA-2023-EOSC-01-02
