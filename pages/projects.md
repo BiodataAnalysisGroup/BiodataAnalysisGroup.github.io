@@ -7,7 +7,7 @@ permalink: /projects/
 
 ##  EVERSE
 
-<img src="/assets/img/collaborations/EOSC_Everse.jpg" alt="EOSC4Cancer" style="width:250px;"/>
+<img src="/assets/img/collaborations/EOSC_Everse.jpg" alt="EVERSE" style="width:230px;"/>
 
 
 [*European Virtual Institute for Research Software Excellence*](https://everse.software/)
@@ -22,7 +22,7 @@ permalink: /projects/
 
 <img src="/assets/img/collaborations/EOSC4Cancer.png" alt="EOSC4Cancer" style="width:200px;"/>
 
-*EOSC4Cancer (A European-wide foundation to accelerate Data-driven Cancer Research)*
+[*EOSC4Cancer (A European-wide foundation to accelerate Data-driven Cancer Research)*](https://eosc4cancer.eu/)
 
 - **Duration**: 2023-2026
 - **Funder**: HORIZON-INFRA-2021-EOSC-01-06
@@ -32,7 +32,10 @@ permalink: /projects/
 
 ##  SciLake
 
-*SciLake (Democratising and making sense out of heterogeneous scholarly content)*
+<img src="/assets/img/collaborations/scilake.png" alt="SciLake" style="width:120px;"/>
+
+[*SciLake (Democratising and making sense out of heterogeneous scholarly content)*](https://scilake.eu/)
+
 - **Duration**: 2023 – 2026
 - **Funder**:  HORIZON-INFRA-2021-EOSC-01-04
 - **Description**: SciLake’s mission is to build upon the OpenAIRE ecosystem and EOSC services to (a) facilitate and empower the creation, interlinking and maintenance of SKGs and the execution of data science and graph mining queries on top of them, (b) contribute to the democratization of scholarly content and the related added value services implementing a community-driven management approach, and (c) offer advanced, AI-assisted services that exploit customised perspectives of scientific merit to assist the navigation of the vast scientific knowledge space. In brief, SciLake will develop, support, and offer customisable services to the research community following a two-tier service architecture. First, it will offer a comprehensive, open, transparent, and customisable scientific data-lake-as-a-service (service tier 1), empowering and facilitating the creation, interlinking, and maintenance of SKGs both across and within different scientific disciplines. On top of that, it will build and offer a tier of customisable, AI-assisted services that facilitate the navigation of scholarly content following a scientific merit-driven approach (tier 2), focusing on two merit aspects which are crucial for the research community at large: impact and reproducibility. The services in both tiers will leverage advanced AI techniques (text and graph mining) that are going to exploit and extend existing technologies provided by SciLake’s technology partners. Finally, to showcase the value of the provided services and their capability to address current and anticipated needs of different research communities, four scientific domains (neuroscience, cancer research, transportation, and energy) have been selected to serve as pilots. For each, the developed services will be customised, to accommodate differences in research procedures, practices, impact measures and types of research objects, and will be validated and evaluated through real-world use cases.
@@ -41,7 +44,10 @@ permalink: /projects/
 
 ## ML4NGP
 
-[**CA21160 - Non-globular proteins in the era of Machine Learning (ML4NGP)**](https://www.cost.eu/cost-action/non-globular-proteins-in-the-era-of-machine-learning/)
+<img src="/assets/img/collaborations/ML4NGP.png" alt="ML4NGP" style="width:150px;"/>
+
+[*CA21160 - Non-globular proteins in the era of Machine Learning (ML4NGP)*](https://www.cost.eu/cost-action/non-globular-proteins-in-the-era-of-machine-learning/)
+
 - **Duration**: 2022 - 2026
 - **Funder**: [Cost - European Cooperation in Science & Technology](https://www.cost.eu/)
 - **Description**: Protein structure prediction has long been considered the “Holy Grail” of structural biology. The recent success of AlphaFold has ushered in a new era of highly accurate structure prediction, bringing to light the secrets hidden in the three-dimensional structures of globular proteins, increasing our understanding about their structural features and molecular function. However, a large proportion of the proteomes from all domains of life are rich in sequences that do not fold into regular structures, commonly known as non-globular proteins (NGPs). NGPs comprise intrinsically disordered regions, repeats, low-complexity sequences, aggregation-prone and phase-separating sequences, and are implicated in a range of age-related diseases. Their heterogeneous structural states and low sequence complexity challenge current experimental structure determination techniques and machine learning (ML) methods for structure prediction, making the molecular understanding of their sequence-structure-dynamics-function relationship difficult. The recent improvements of ML approaches and advances in determining NGP structural ensembles call for a timely re-assessment of the interplay between experiments and computation. The ML4NGP Action aims to establish an interdisciplinary pan-European network to favour this interplay, fostering experimental frameworks designed to provide information to computational methods, and novel computational methods developed, trained and benchmarked with experimental data. ML4NGP will enhance the primary experimental data generation (WG1), promote integrative structural biology approaches (WG2), benchmark the state-of-the-art ML methods (WG3) and improve the functional characterization of NGPs (WG4). The Action will support its scientific objectives through policies that sustain free knowledge exchange, inclusiveness and training of young researchers who will lead future innovations in this field.
@@ -50,7 +56,7 @@ permalink: /projects/
 
 ## GenOptics
 
-<img src="/assets/img/collaborations/GenOptics_logo.png" alt="GenOptics" style="width:200px;"/>
+<img src="/assets/img/collaborations/GenOptics_logo.png" alt="GenOptics" style="width:150px;"/>
 
 [**GenOptics**](https://genoptics.github.io/) (_Large Scale bio-data Visual analytics platform_)
 - **Duration**: 2020 - 2023
@@ -61,7 +67,7 @@ permalink: /projects/
 
 ## Gallantries
 
-<img src="/assets/img/projects/gallantries-logo-with-word-inverted-large.png" alt="Gallantries" style="width:100px;"/>
+<img src="/assets/img/projects/gallantries-logo-with-word-inverted-large.png" alt="Gallantries" style="width:150px;"/>
 
 [**Gallantries**](https://gallantries.github.io/) (_When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences_)
 - **Duration**: 2020 - 2023
