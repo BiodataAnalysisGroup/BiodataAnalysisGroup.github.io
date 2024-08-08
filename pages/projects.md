@@ -22,7 +22,7 @@ permalink: /projects/
 
 <img src="/assets/img/collaborations/EOSC4Cancer.png" alt="EOSC4Cancer" style="width:200px;"/>
 
-[*EOSC4Cancer (A European-wide foundation to accelerate Data-driven Cancer Research)*](https://eosc4cancer.eu/)
+[*A European-wide foundation to accelerate Data-driven Cancer Research*](https://eosc4cancer.eu/)
 
 - **Duration**: 2023-2026
 - **Funder**: HORIZON-INFRA-2021-EOSC-01-06
@@ -34,7 +34,7 @@ permalink: /projects/
 
 <img src="/assets/img/collaborations/scilake.png" alt="SciLake" style="width:120px;"/>
 
-[*SciLake (Democratising and making sense out of heterogeneous scholarly content)*](https://scilake.eu/)
+[*Democratising and making sense out of heterogeneous scholarly content*](https://scilake.eu/)
 
 - **Duration**: 2023 – 2026
 - **Funder**:  HORIZON-INFRA-2021-EOSC-01-04
@@ -46,7 +46,7 @@ permalink: /projects/
 
 <img src="/assets/img/collaborations/ML4NGP.png" alt="ML4NGP" style="width:150px;"/>
 
-[*CA21160 - Non-globular proteins in the era of Machine Learning (ML4NGP)*](https://www.cost.eu/cost-action/non-globular-proteins-in-the-era-of-machine-learning/)
+[*CA21160 - Non-globular proteins in the era of Machine Learning*](https://www.cost.eu/cost-action/non-globular-proteins-in-the-era-of-machine-learning/)
 
 - **Duration**: 2022 - 2026
 - **Funder**: [Cost - European Cooperation in Science & Technology](https://www.cost.eu/)
@@ -58,7 +58,8 @@ permalink: /projects/
 
 <img src="/assets/img/collaborations/GenOptics_logo.png" alt="GenOptics" style="width:150px;"/>
 
-[**GenOptics**](https://genoptics.github.io/) (_Large Scale bio-data Visual analytics platform_)
+[*Large Scale bio-data Visual analytics platform*](https://genoptics.github.io/)
+
 - **Duration**: 2020 - 2023
 - **Funder**: [General Secretariat for Research and Technology (GSRT)](http://www.gsrt.gr/)
 - **Description**: GenOptics is a 30-month national project (2020-2023) that will implement a new platform for integrating, analyzing and visualizing multi-omics and other clinico-biological data, by extending the functionality of established bioinformatic analysis tools through an interactive visual dashboard. Visual analytics, namely the simultaneous use of computational data analysis tools with interactive visualizations, is a powerful way of combining algorithms with an intuitive, user-friendly interactive environment in order to extract knowledge from large scale bio-data. Although visual analytics could contribute to significantly reducing the gap between available data and discovery of new knowledge through targeted studies, there is no widely used platform that provides this functionality to the scientific community. GenOptics will allow visual analytics of multi-omics data through a modular system that will integrate multiple interoperable analysis tools into a software platform, leveraging established international technologies and software suites such as Docker and R/Bioconductor. 
@@ -69,7 +70,8 @@ permalink: /projects/
 
 <img src="/assets/img/projects/gallantries-logo-with-word-inverted-large.png" alt="Gallantries" style="width:150px;"/>
 
-[**Gallantries**](https://gallantries.github.io/) (_When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences_)
+[*When Galaxy meets Carpentries to develop and deliver open and scalable training in life sciences*](https://gallantries.github.io/)
+
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons.
