@@ -5,6 +5,18 @@ background: https://images.unsplash.com/photo-1572177812156-58036aae439c?auto=fo
 permalink: /projects/
 ---
 
+##  EVERSE
+
+<img src="/assets/img/collaborations/EOSC_Everse.jpg" alt="EOSC4Cancer" style="width:250px;"/>
+
+
+[**European Virtual Institute for Research Software Excellence**](https://everse.software/)
+
+- **Duration**: 2024-2027
+- **Funder**: HORIZON-INFRA-2023-EOSC-01-02
+- **Description**: The EVERSE project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities across five EOSC Science Clusters and national Research Software Expertise Centres, in pursuit of building a European network of Research Software Quality and setting the foundations of a future Virtual Institute for Research Software Excellence. This framework for research software excellence will incorporate aspects involving community curation, quality assessment, and best practices for research software. This collective knowledge will be captured in the Research Software Quality toolkit (RSQkit), a knowledge base to gather and curate expertise that will contribute to high-quality software and code across different disciplines.
+
+
 ##  EOSC4Cancer
 
 <img src="/assets/img/collaborations/EOSC4Cancer.png" alt="EOSC4Cancer" style="width:200px;"/>
