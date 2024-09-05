@@ -14,6 +14,7 @@ permalink: /projects/
 - **Duration**: 2024-2029
 - **Funder**: HORIZON-JU-IHI-2023-05-04
 - **Description**: The SYNTHIA project, a groundbreaking public-private partnership set to revolutionize the field of personalized medicine by harnessing the power of synthetic data. As the first IHI project to tackle the critical need for privacypreserving data solutions in healthcare, SYNTHIA aims to propel research and innovation to new heights, ensuring that patients receive the best possible care while safeguarding their personal information. SYNTHIA is a multidisciplinary collaboration of 32 consortium partners - synthetic data generating developers, FAIR data experts, clinical researchers, developers of therapies and data-based tools, legal experts, socio-economic analysts, regulatory, policy advocacy, and communication experts - that will provide a 360º vision on how to advance healthcare applications through synthetic data use.
+
 <br>
 
 
