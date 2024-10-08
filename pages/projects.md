@@ -17,6 +17,14 @@ permalink: /projects/
 
 <br>
 
+## AHEAD
+[*AI for Health: Evaluation of Applications & Datasets*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101183031/program/43108390/details)
+
+- **Duration**: 2025-2029
+- **Funder**: HORIZON-MSCA-2023-SE-01
+- **Description**: The proliferation of Artificial Intelligence (AI) is on the rise, and yet, there remains a lack of consensus on standardised approaches for responsible implementation. In Europe, there is a strong push to regulate AI, particularly in high-impact societal applications such as biomedicine and healthcare. The objective of AHEAD is to create a transdisciplinary, diverse and global community drawing on the expertise of professionals in biomedicine, ethics, AI development, software engineering, sociology, psychology, law, gender studies, and relevant stakeholders, dedicated to the ongoing effort of tackling challenges and setting important standards in an ever-changing landscape. Together, the community will gather, consolidate, and put into practice established principles and guidelines, building a methodology and a platform to evaluate AI-based systems for biomedical and healthcare applications to ensure the compliance with legal, ethical, technical, scientific, and regulatory standards. The project will extend the fucntionalities of OpenEBench, ELIXIR’s benchmarking platform for bioinformatics tools, to provide a platform for these assessments. The community will also establish an observatory to collect and curate existing guidelines, best practices, and principles for AI assessment in biomedicine and healthcare across multiple disciplines (technical, societal, legal, etc.). AHEAD will  encourage responsible AI innovation through constant collaboration and knowledge exchanges, to continuously meet the demands of the fast-changing AI landscape and ensure that quality healthcare for all people is never compromised and only enhanced. The proposed project is the beginning of a sustained endeavour that would greatly benefit from mobility grants to enhance community bonds and foster collaborative efforts toward this goal.
+
+<br>
 
 ##  EVERSE
 
