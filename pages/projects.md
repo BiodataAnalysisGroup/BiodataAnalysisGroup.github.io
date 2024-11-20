@@ -6,6 +6,8 @@ permalink: /projects/
 ---
 [**Ongoing**](#ongoing) &nbsp; [**Completed**](#completed) &nbsp;
 
+<br/>
+
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
 
