@@ -6,7 +6,6 @@ permalink: /projects/
 ---
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
-<br>
 
 ##  SYNTHIA
 
@@ -81,7 +80,6 @@ permalink: /projects/
 
 # Completed
 <hr style="border: 1px solid #ccc;">
-<br>
 
 ## GenOptics
 
