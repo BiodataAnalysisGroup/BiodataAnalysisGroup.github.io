@@ -5,6 +5,7 @@ background: https://images.unsplash.com/photo-1572177812156-58036aae439c?auto=fo
 permalink: /projects/
 ---
 # Ongoing
+<hr style="border: 1px solid #cfcfcf;">
 <br>
 
 ##  SYNTHIA
@@ -78,8 +79,8 @@ permalink: /projects/
 
 <br>
 
-
 # Completed
+<hr style="border: 1px solid #ccc;">
 <br>
 
 ## GenOptics
