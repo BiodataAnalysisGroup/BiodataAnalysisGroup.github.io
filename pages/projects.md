@@ -4,6 +4,8 @@ description: Listing our funded projects here
 background: https://images.unsplash.com/photo-1572177812156-58036aae439c?auto=format&w=2000
 permalink: /projects/
 ---
+[**Ongoing**](#ongoing) &nbsp; [**Completed**](#completed) &nbsp;
+
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
 
