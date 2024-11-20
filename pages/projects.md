@@ -4,6 +4,7 @@ description: Listing our funded projects here
 background: https://images.unsplash.com/photo-1572177812156-58036aae439c?auto=format&w=2000
 permalink: /projects/
 ---
+# Ongoing
 ##  SYNTHIA
 
 <img src="/assets/img/collaborations/synthia.jpg" alt="SYNTHIA" style="width:150px;"/>
@@ -75,6 +76,8 @@ permalink: /projects/
 
 <br>
 
+
+# Completed
 ## GenOptics
 
 <img src="/assets/img/collaborations/GenOptics_logo.png" alt="GenOptics" style="width:150px;"/>
