@@ -107,17 +107,3 @@ permalink: /projects/
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons.
 
-<br>
-
-## ELIXIR Commissioned Services
-
-<img src="/assets/img/collaborations/ELIXIR.png" alt="ELIXIR" style="width:100px;"/>
-
-Co-leading the following [ELIXIR](https://elixir-europe.org/) activities as commissioned services:
-- Tools Platform Task 1 "Packaging, containerisation & deployment"
-- Tools Platform Task 2 "Performance benchmarking & technical monitoring"
-- Tools Platform Task 4 "_Software Best Practices_"
-- Training Platform Task 2 "_Gap analysis, training materials development and training delivery_"
-- Strategic Implementation Study "Making container services integratable, sustainable and widely used"
-- Community-led Implementation Study "Improving IDP tools interoperability and integration into ELIXIR"
-
