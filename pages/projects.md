@@ -11,6 +11,20 @@ permalink: /projects/
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
 
+##  METAPLANTCODE
+
+<img src="/assets/img/collaborations/metaplantlogo.jpg" alt="METAPLANTCODE logo" style="width:150px;"/>
+
+
+[*Harmonizing plant metabarcoding pipelines in Europe to support monitoring activities in the field of plants and their functional organismic networks*](http://www.metaplantcode.eu/)
+
+- **Duration**: 2024-2027
+- **Funder**: 2022–2023 BiodivMon
+- **Description**: METAPLANTCODE presents a unique collaborative and transnational approach to test, optimise, harmonise and recommend best practices for plant metabarcoding for samples with varying degrees of species complexity, contamination, and DNA degradation using case studies across Europe. The innovative combination of accelerated molecular plant monitoring and the integration of diverse biodiversity data with optimised and automated pipelines will fill knowledge gaps on the state of biodiversity, interdependencies, and dynamics. The METAPLANTCODE project aims to test and optimise pan-European case studies on metabarcoding, provide best practice recommendations, optimise analysis pipelines for species identification, and create easy-to-use reference databases. The project will identify and specify gaps, publish best practice documents on FAIR data publishing of plant metabarcode data to GBIF and the INSDC databases, and implement ELIXIR-compatible multimodal DL models in novel tools for stand-alone metabarcoding analyses using different data sources. The project will also enhance species identification accuracy through GBIF records and metadata, and map regional, national, and international botanical taxonomic checklists, red lists, and floras to the Catalogue of Life (COL) through COL ChecklistBank.
+
+<br>
+
+
 ##  SYNTHIA
 
 <img src="/assets/img/collaborations/synthia.jpg" alt="SYNTHIA" style="width:150px;"/>
