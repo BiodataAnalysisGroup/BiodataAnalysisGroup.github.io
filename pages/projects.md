@@ -13,7 +13,7 @@ permalink: /projects/
 
 ##  METAPLANTCODE
 
-<img src="/assets/img/collaborations/metaplantlogo.jpg" alt="METAPLANTCODE logo" style="width:150px;"/>
+<img src="/assets/img/collaborations/metaplantlogo.png" alt="METAPLANTCODE logo" style="width:200px;"/>
 
 
 [*Harmonizing plant metabarcoding pipelines in Europe to support monitoring activities in the field of plants and their functional organismic networks*](http://www.metaplantcode.eu/)
