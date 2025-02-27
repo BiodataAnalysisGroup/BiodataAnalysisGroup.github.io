@@ -39,6 +39,10 @@ permalink: /projects/
 <br>
 
 ## AHEAD
+
+<img src="/assets/img/collaborations/AHEADLogo.png" alt="AHEAD logo" style="width:200px;"/>
+
+
 [*AI for Health: Evaluation of Applications & Datasets*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101183031/program/43108390/details)
 
 - **Duration**: 2025-2028
