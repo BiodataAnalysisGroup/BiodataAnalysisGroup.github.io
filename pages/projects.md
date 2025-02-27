@@ -40,7 +40,7 @@ permalink: /projects/
 
 ## AHEAD
 
-<img src="/assets/img/collaborations/AHEADLogo.png" alt="AHEAD logo" style="width:200px;"/>
+<img src="/assets/img/collaborations/AHEADLogo.png" alt="AHEAD logo" style="width:150px;"/>
 
 
 [*AI for Health: Evaluation of Applications & Datasets*](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/how-to-participate/org-details/999999999/project/101183031/program/43108390/details)
