@@ -113,6 +113,9 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 <p style="margin-bottom:15px"></p>
 
+### 2025
+
+{% bibliography --query @misc[year=2025] %}
 
 ### 2024
 
