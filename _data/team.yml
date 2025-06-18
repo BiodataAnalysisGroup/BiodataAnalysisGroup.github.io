@@ -36,8 +36,8 @@
   description: >
     Konstantinos Kyritsis, PhD, is working as a postdoctoral researcher at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas (INAB/CERTH). He received his BSc in Biology, and his MSc in “Biotechnology and Molecular Diagnostics” from the Aristotle University of Thessaloniki (AUTH). During his studies, he completed a three-month Erasmus+ internship at the Novo Nordisk Foundation Center for Protein Research, University of Copenhagen. He received a scholarship for his doctorate from the Hellenic Foundation for Research and Innovation (HFRI) in 2017, and completed his thesis, entitled “Systematic Analysis of the Expression of Ribosomal Protein Genes”, at the School of Pharmacy AUTH, in 2021. His research interests are currently focused on studying molecular mechanisms and unveiling patterns of functional significance by applying methods of statistical analysis as well as machine learning algorithms to Next-generation sequencing (NGS) data. Furthermore, his interests include developing bioinformatic tools and pipelines for integrating and visualizing heterogenous bio-data.
 
-- name: Nikolaos (Nikos) Pechlivanis
-  role: PhD Candidate
+- name: Dr. Nikolaos (Nikos) Pechlivanis
+  role: Postdoctoral Researcher
   image: assets/img/team/nikopech.jpg
   website: https://npechl.github.io/
   orcid: 0000-0003-2502-612X
@@ -45,7 +45,7 @@
   github: nikopech
   twitter: npechl
   description: >
-    Nikos Pechlivanis works as a Bioinformatics engineer at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas. He holds an engineering diploma of Electrical and Computer Engineering from the Aristotle University of Thessaloniki (AUTH) where he completed his thesis entitle “Genomic data integration for facilitating machine learning applications”. Currently he is pursuing a PhD in the field of Computation Biology and Bioinformatics under the supervision of Dr. Fotis Psomopoulos. His research focuses on studying machine learning algorithms and computational techniques with respect to their corresponding applications on genomic and meta-genomic data. In addition to his research, Nikolas supports open source/science principles, in support of reusability and accessibility of scientific results. Moreover, he is interested in web development mostly working on server-side scripting by applying data wrangling and analysis techniques.
+    Dr. Nikos Pechlivanis works as a Bioinformatics engineer at the Institute of Applied Biosciences in the Centre for Research and Technology Hellas. He holds an engineering diploma of Electrical and Computer Engineering from the Aristotle University of Thessaloniki (AUTH) where he completed his thesis entitle “Genomic data integration for facilitating machine learning applications”. His research focuses on studying machine learning algorithms and computational techniques with respect to their corresponding applications on genomic and meta-genomic data. In addition to his research, Nikolas supports open source/science principles, in support of reusability and accessibility of scientific results. Moreover, he is interested in web development mostly working on server-side scripting by applying data wrangling and analysis techniques.
 
 - name: Styliani-Christina Fragkouli
   role: PhD Candidate
