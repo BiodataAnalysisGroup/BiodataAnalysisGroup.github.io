@@ -78,6 +78,11 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 {% bibliography --query @inproceedings[year=2020] %} -->
 
+### 2025
+
+{% bibliography --query @inproceedings[year=2025] %}
+{% bibliography --query @conference[year=2025] %}
+
 ### 2024
 
 {% bibliography --query @inproceedings[year=2024] %}
