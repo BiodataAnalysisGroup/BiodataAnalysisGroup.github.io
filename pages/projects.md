@@ -51,6 +51,18 @@ permalink: /projects/
 
 <br>
 
+## ODYSSEY
+
+<img src="/assets/img/collaborations/Odyssey_logo.png" alt="ODYSSEY" style="width:230px;"/>
+
+[*Connecting molecular and geographical biodiversity data*](https://elixir-europe.org/how-we-work/scientific-programme/commissioned-services/science/bfsp/odyssey)
+
+- **Duration**: 2025-2026
+- **Funder**: ELIXIR Scientific Programme 2024-2028 (BFSP)
+- **Description**: Odyssey is a web portal in the form of a user-friendly interface that will allow researchers, educators and citizens to navigate into the world of molecular biodiversity using Greece and Norway as case studies, two countries with characteristic and unique biodiversity wealth, representative for Mediterranean and Nordic types of ecosystems respectively. Based on existing sources of information and prototype applications that are available for specific regions and taxa, this project aims to link actual efforts and develop a new interface to offer diverse functionalities for data exploration and analysis such as descriptive statistics, graphs, maps, customizable data filters, and dynamic visualisations. 
+
+<br>
+
 ##  EVERSE
 
 <img src="/assets/img/collaborations/EOSC_Everse.jpg" alt="EVERSE" style="width:230px;"/>
