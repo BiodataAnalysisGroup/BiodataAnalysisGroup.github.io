@@ -53,7 +53,7 @@ permalink: /projects/
 
 ## ODYSSEY
 
-<img src="/assets/img/collaborations/Odyssey_logo.png" alt="ODYSSEY" style="width:230px;"/>
+<img src="/assets/img/collaborations/Odyssey_logo.png" alt="ODYSSEY" style="width:200px;"/>
 
 [*Connecting molecular and geographical biodiversity data*](https://elixir-europe.org/how-we-work/scientific-programme/commissioned-services/science/bfsp/odyssey)
 
