@@ -1,0 +1,22 @@
+<div class="publication-entry">
+  <p>
+    <strong>{{ entry.author }}</strong>, 
+    "{{ entry.title }}", 
+    {% if entry.booktitle %}<em>{{ entry.booktitle }}</em>, {% endif %}
+    {% if entry.journal %}<em>{{ entry.journal }}</em>, {% endif %}
+    {{ entry.year }}.
+  </p>
+
+  {% if entry.abstract %}
+    <p><em>Abstract:</em> {{ entry.abstract }}</p>
+  {% endif %}
+
+  {% if entry.url %}
+    <p><a href="{{ entry.url }}" target="_blank">Link</a></p>
+  {% endif %}
+
+  {% if entry.note %}
+    <p>{{ entry.note }}</p>
+  {% endif %}
+</div>
+<hr>
