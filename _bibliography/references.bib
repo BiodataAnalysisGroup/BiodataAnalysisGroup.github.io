@@ -1971,7 +1971,7 @@ abstract="Current research in Life Sciences without doubt has been established a
 isbn="978-3-319-44944-9"
 }
 
-@InProceedings{10.1007/978-3-319-23983-5_5,
+@inproceedings{10.1007/978-3-319-23983-5_5,
 author="Vrousgou, Olga T.
 and Psomopoulos, Fotis E.
 and Mitkas, Pericles A.",
@@ -1986,6 +1986,78 @@ pages="47--56",
 abstract="In the era of Big Data in Life Sciences, efficient processing and analysis of vast amounts of sequence data is becoming an ever daunting challenge. Among such analyses, sequence alignment is one of the most commonly used procedures, as it provides useful insights on the functionality and relationship of the involved entities. Sequence alignment is one of the most common computational bottlenecks in several bioinformatics workflows. We have designed and implemented a time-efficient distributed modular application for sequence alignment, phylogenetic profiling and clustering of protein sequences, by utilizing the European Grid Infrastructure. The optimal utilization of the Grid with regards to the respective modules, allowed us to achieve significant speedups to the order of 1400{\%}.",
 isbn="978-3-319-23983-5"
 }
+
+@UNPUBLISHED{Psomopoulos2015-km,
+  title    = "Large-scale modular comparative genomics: the Grid approach",
+  author   = "Psomopoulos, Fotis and Vrousgou, Olga and Mitkas, Pericles",
+  abstract = "In the era of Big Data in Life Sciences, efficient process and
+              analysis of vast amounts of sequence data is becoming an ever
+              daunting challenge. Among such analyses, sequence alignment is
+              one of the most commonly used procedures, as it provides useful
+              insights on the functionality and relationship of the involved
+              entities. At the same time however, it is one of the most common
+              computational bottlenecks in several bioinformatics workflows,
+              especially when combined with the construction of families and
+              phylogenetic profiles. Current approaches in Life Science
+              research favour the use of established workflows which have been
+              proven to facilitate the first steps in data analysis (such as
+              BLAST, MCL, Phylogenetic profiles, etc). However, such workflows
+              are computationally expensive and usually do not scale well. The
+              guiding requirements for our approach are: a) maximizing the
+              efficiency of a given workflow using the computational resources
+              provided by the European Grid Infrastructure (EGI
+              http://www.egi.eu/ ), b) providing an automated approach and
+              therefore a more user-friendly interface for researchers with no
+              technical experience, and c) using the established (vanilla)
+              applications and tools in order to maintain backwards
+              compatibility and maintenance, which is a usual issue in most of
+              the custom approaches. We have designed and implemented a
+              time-efficient distributed modular application for sequence
+              alignment, phylogenetic profiling and clustering of protein
+              sequences, by utilizing the European Grid Infrastructure.
+              Specifically, the application comprises three main components: a)
+              BLAST alignment, b) construction of phylogenetic profiles based
+              on the produced alignment scores, and c) clustering of entities
+              using the MCL algorithm. These modules have been selected as they
+              represent a common aspect of a vast majority of bioinformatics
+              workflows. It is important to note that the modules can be
+              combined independently, and ultimately provide 4 different modes
+              of operation. 1. MCL clusters of the protein query and database
+              sequences. The clustering criteria is the BLAST output (identity
+              or e-value), based on the preference of the user 2. Phylogenetic
+              profiles of each query sequence, where the genomes into
+              consideration are the ones whose proteins form the database 3.
+              MCL clusters of the protein query sequences and database genomes,
+              and phylogenetic profiles. The MCL clustering criteria is the
+              phylogenetic profiles. 4. This mode is essentially a combination
+              of the output produced in modes 1 and 3. There is also a fifth
+              mode that generates the same output as the fourth one, with the
+              only difference being that the same file is used both as a
+              database and a query. This is the case of an all-vs-all sequence
+              comparison, widely used when performing a pangenome analysis. Our
+              proposed framework proceeds with the distribution of both
+              processes and data across the provided resources. The
+              distribution is performed automatically, based on the selected
+              mode as well as the data under study. The required input
+              comprises of the following files: - two files containing the
+              query protein sequences and the database protein sequences to be
+              aligned, in FASTA format, which is a text-based format for
+              representing nucleotide or peptide sequences, - a text file with
+              the genomes whose protein sequences form the database file, and -
+              a configuration file for the application to run on a specific
+              mode. We have evaluated the application through several different
+              scenarios, ranging from targeted investigations of enzymes
+              participating in selected pathways against a custom database to
+              produce functional groups, to large scale comparisons at the
+              pangenome level. In all cases, the optimal utilization of the
+              Grid with regards to the respective modules, allowed us to
+              achieve significant speedup, in the order of 14x with respect to
+              traditional approaches. Source code available at
+              https://github.com/BioDAG/BPM",
+  month    =  jul,
+  year     =  2015
+}
+
 
 @inproceedings{Polychroniadou2006GClassAD,
   title={G-Class: A Divide and Conquer Application for Grid Protein Classification},
