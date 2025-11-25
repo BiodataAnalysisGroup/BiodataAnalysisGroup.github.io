@@ -56,7 +56,7 @@ scholar:
   bibliography: references.bib
   details: true ##change to show abstract
   # bibliography_template: "{{reference}}"
-  bibliography_template: layouts/bib
+  bibliography_template: bib
   #bibliography_template: bibentry ##change to show abstract
 
   use_raw_bibtex_entry: true
