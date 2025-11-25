@@ -1877,6 +1877,9 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 
 @misc{unknown,
 author = {Tsagiopoulou, Maria and Pechlivanis, Nikolaos and Psomopoulos, Fotis},
+abstract = "Background: The integration of multi-omics data can greatly facilitate the advancement of research in Life Sciences by providing new insights on how biological systems interact. However, there is currently no widespread procedure for a robust, efficient and meaningful multi-omics data integration; the approach presented here is a first attempt towards increasing the reliability of data discovery power compared to the processing of individual biodata sets.
+Results: Here, we proposed a high-speed framework, called InterTADs, for integrating multi-omics data from the same physical source (e.g. patient) taking into account the chromatin configuration of the genome, i.e. the topologically associating domains (TADs). The main concept of the proposed methodology is to create a single matrix with all different events (e.g. DNA methylation, expression, mutation) combined with their genome coordinates and the respective quantitative metrics after application of the appropriate scaling. The events are divided into their related TADs according to the chromosomal location and each TAD is evaluated for statistically significant differences between the groups of interest (e.g. normal cells vs cancer cells). Finally, several visualization approaches are available, including the mapping of the events on the chromosomal location of the TAD as well as the distribution of the counts within a given TAD across the different study groups.
+Conclusions: InterTADs provides a general framework for integrating multi omics data and relating them with the TADs. This could lead to the extraction of new biological insight of the examined case study. InterTADs is an open-source tool implemented in R and licensed under the MIT License. The source code is freely available",
 year = {2020},
 month = {08},
 title = {InterTADs: Integration of Multi-Omics Data on Topological Associated Domains},
@@ -1887,6 +1890,7 @@ doi = {10.21203/rs.3.rs-54194/v1}
 @misc{rdaCovid19,
 	title = {Recommendations and Guidelines on data sharing},
 	author = {{RDA COVID-19 Working Group}},
+  abstract = "This is the final version of the Recommendations and Guidelines from the RDA COVID19 Working Group, and has been endorsed through the official RDA process.",
 	journal = {Research Data Alliance},
 	year = {2020},
 	doi = {10.15497/rda00052},
@@ -1895,7 +1899,8 @@ doi = {10.21203/rs.3.rs-54194/v1}
 
 @misc{openSciencePlanGreece,
   author = {Spiros Athanasiou and Vasilis Amiridis and Maria Gavriilidou and Evangelos Gerasopoulos and Alexandros Dimopoulos and Georgina Kaklamani and Fotis Karagiannis and Iraklis Klampanos and Dimitra Kondili and Kostas Koumantaros and Panos Konstantopoulos and Katerina Lenaki and Angelos Likiardopoulos and Natalia Manola and Despoina Mitropoulou and Agiatis Benardou and Nikolaos Boukos and Alexandros Nousias and Maria Ntaountaki and Stella Oikouta and Lia Ollandezou and Elli Papadopoulou and Ilias Papastamatiou and Stelios Piperidis and Orestis Speyer and Prodromos Tsiavos and Evangelia Chrysina and Fotis Psomopoulos},
-  	title = {National Plan for Open Science},
+  	abstract = "This report proposes a series of goals, commitments, policies and actions for the adoption of Open Science in Greece. It is intended to serve as a reference point for national policy makers towards the establishment of a national strategy for Open Science, assist national organizations in embracing Open Science principles, and ensure national alignment with the European Open Science Cloud (EOSC).The report has been prepared by the 'Open Science Task Force', a collaborative bottom-up initiative of eleven national academic & research organizations and twenty-six research infrastructures & civic initiatives.",
+    title = {National Plan for Open Science},
 	  month = jun,
   	year = 2020,
   	publisher = {Zenodo},
@@ -1906,6 +1911,7 @@ doi = {10.21203/rs.3.rs-54194/v1}
 @misc{godel2019dna,
     title = {DNA coding and Gödel numbering},
     author = {Argyris Nicolaidis and Fotis Psomopoulos},
+    abstract = "Evolution consists of distinct stages: cosmological, biological, linguistic. Since biology verges on natural sciences and linguistics, we expect that it shares structures and features from both forms of knowledge. Indeed, in DNA we encounter the biological "atoms", the four nucleotide molecules. At the same time these four nucleotides may be considered as the "letters" of an alphabet. These four "letters", through a genetic code, generate biological "words", "phrases", "sentences" (aminoacids, proteins, cells, living organisms). In this spirit we may consider equally well a DNA strand as a mathematical statement. Inspired by the work of Kurt Gödel, we attach to each DNA strand a Gödel's number, a product of prime numbers raised to appropriate powers. To each DNA chain corresponds a single Gödel's number G, and inversely given a Gödel's number G, we can specify the DNA chain it stands for. Next, considering a single DNA strand composed of N bases, we study the statistical distribution of g, the logarithm of G. Our assumption is that the choice of the m-th term is random and with equal probability for the four possible outcomes. The "experiment", to some extent, appears as throwing N times a four-faces die. Through the moment generating function we obtain the discrete and then the continuum distribution of g. There is an excellent agreement between our formalism and simulated data. At the end we compare our formalism to actual data, to specify the presence of traces of non-random dynamics.",
     year = {2019},
     eprint = {1909.13574},
     archivePrefix = {arXiv},
@@ -1968,7 +1974,8 @@ publisher="Springer International Publishing",
 address="Cham",
 pages="455--462",
 abstract="Current research in Life Sciences without doubt has been established as a Big Data discipline. Beyond the expected domain-specific requirements, this perspective has put scalability as one of the most crucial aspects of any state-of-the-art bioinformatics framework. Sequence alignment and construction of phylogenetic profiles are common tasks evident in a wide range of life science analyses as, given an arbitrary big volume of genomes, they can provide useful insights on the functionality and relationships of the involved entities. This process is often a computational bottleneck in existing solutions, due to its inherent complexity. Our proposed distributed framework manages to perform both tasks with significant speed-up by employing Grid Computing resources provided by EGI in an efficient and optimal manner. The overall workflow is both fully automated, thus making it user friendly, and fully detached from the end-users terminal, since all computations take place on Grid worker nodes.",
-isbn="978-3-319-44944-9"
+isbn="978-3-319-44944-9",
+doi = {10.1007/978-3-319-44944-9_39}
 }
 
 @inproceedings{10.1007/978-3-319-23983-5_5,
@@ -1984,7 +1991,8 @@ year="2015",
 publisher="Springer International Publishing",
 address="Cham",
 pages="47--56",
-isbn="978-3-319-23983-5"
+isbn="978-3-319-23983-5",
+doi = {10.1007/978-3-319-23983-5_5}
 }
 
 @UNPUBLISHED{Psomopoulos2015-km,
@@ -2055,7 +2063,9 @@ isbn="978-3-319-23983-5"
               traditional approaches. Source code available at
               https://github.com/BioDAG/BPM",
   month    =  jul,
-  year     =  2015
+  year     =  2015,
+  url = {https://doi.org/10.7490/f1000research.1110127.1},
+  doi = {10.7490/f1000research.1110127.1}
 }
 
 
