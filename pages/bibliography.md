@@ -146,17 +146,17 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 ### 2020
 
-{% bibliography --query @misc[year=2020] --template bib %}
+{% bibliography --query @misc[year=2020] %}
 
 ### 2019
 
-{% bibliography --query @misc[year=2019] --template bib %}
+{% bibliography --query @misc[year=2019] %}
 
 ### 2016
-{% bibliography --query @*[year=2016] --template bib%}
+{% bibliography --query @*[year=2016] %}
 
 ### 2015
-{% bibliography --query @*[year=2015] --template bib%}
+{% bibliography --query @*[year=2015] %}
 
 
 ### 2006
