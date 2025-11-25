@@ -2,30 +2,31 @@
 layout: base
 description: Template for bibliography
 ---
+
 <div class="text-align: left">
     {{ reference }}
 </div>
 
 <div id="{{key}}-materials">
-  <ul class="nav nav-pills">
+  <ul class="nav nav-pills" style="gap: 10px; padding: 0; list-style: none; display: flex; flex-wrap: wrap;">
 
     {% if entry.url %}
     <li><a href="{{entry.url}}" target="_blank">Available online</a></li>
     {% endif %}
 
-    &nbsp; &nbsp;
-
     {% if link %}
     <li><a href="{{link}}">Download</a></li>
     {% endif %}
 
+    {% if entry.abstract %}
+    <li><a href="#{{key}}-abstract">Abstract</a></li>
+    {% endif %}
+
   </ul>
-
-  {% if entry.abstract %}
-  <details style="margin-top: 10px;">
-    <summary><strong>Abstract</strong></summary>
-    <p>{{ entry.abstract }}</p>
-  </details>
-  {% endif %}
-
 </div>
+
+{% if entry.abstract %}
+<div id="{{key}}-abstract" style="margin-top: 10px;">
+  <p>{{ entry.abstract }}</p>
+</div>
+{% endif %}
