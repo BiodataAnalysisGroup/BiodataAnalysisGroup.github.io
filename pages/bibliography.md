@@ -47,7 +47,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 {% bibliography --query @article[year=2025] %}
 
 ### 2024 
-{% bibliography --query @article[year=2024] %}
+{% bibliography --query @article[year=2024] --template bib %}
 
 ### 2023
 
