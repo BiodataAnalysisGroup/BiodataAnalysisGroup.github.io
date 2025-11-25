@@ -51,6 +51,14 @@ scholar:
   order: descending
   #group_by: year
   bibliography_list_tag: ul
+  details:
+    - abstract
+    - url
+    - doi
+    - isbn
+    - publisher
+    - pages
+    - year
 
   source: _bibliography
   bibliography: references.bib
