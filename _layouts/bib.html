@@ -19,14 +19,26 @@ description: Template for bibliography
     {% endif %}
 
     {% if entry.abstract %}
-    <li><a href="#{{key}}-abstract">Abstract</a></li>
+    <li><a href="javascript:void(0);" onclick="toggleAbstract('{{key}}')">Abstract</a></li>
     {% endif %}
 
   </ul>
 </div>
 
 {% if entry.abstract %}
-<div id="{{key}}-abstract" style="margin-top: 10px;">
+<div id="{{key}}-abstract" style="display: none; margin-top: 10px;">
   <p>{{ entry.abstract }}</p>
 </div>
 {% endif %}
+
+<script>
+function toggleAbstract(key) {
+  const el = document.getElementById(key + '-abstract');
+  if (el.style.display === 'none') {
+    el.style.display = 'block';
+    el.scrollIntoView({ behavior: 'smooth' });
+  } else {
+    el.style.display = 'none';
+  }
+}
+</script>
