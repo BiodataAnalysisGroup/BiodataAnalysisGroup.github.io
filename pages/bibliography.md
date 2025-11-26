@@ -156,7 +156,8 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 {% bibliography --query @*[year=2016] %}
 
 ### 2015
-{% bibliography --query @*[year=2015] %}
+{% bibliography --query @inproceedings[year=2015] %}
+{% bibliography --query @article[year=2015] %}
 
 
 ### 2006
