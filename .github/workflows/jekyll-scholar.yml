@@ -1,0 +1,52 @@
+name: Build and Deploy Jekyll with Scholar
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # Install Ruby
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1"   # GitHub Pages uses Ruby 3.1
+          bundler-cache: true
+
+      # Install Gems (including jekyll-scholar)
+      - name: Install Dependencies
+        run: |
+          bundle install
+
+      # Build site with full Jekyll (NOT GitHub Pages version)
+      - name: Build the Site
+        run: |
+          bundle exec jekyll build -V
+        env:
+          JEKYLL_ENV: production
+
+      # Upload the generated site to GitHub Pages artifact
+      - name: Upload Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  # Deploy job
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
