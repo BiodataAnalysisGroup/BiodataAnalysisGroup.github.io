@@ -51,7 +51,7 @@ scholar:
   order: descending
   #group_by: year
   bibliography_list_tag: ul
-  details: all
+  #details: all
 
   source: _bibliography
   bibliography: references.bib
