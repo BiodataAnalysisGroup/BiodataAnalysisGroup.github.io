@@ -1344,6 +1344,10 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   month = {Oct},
   note = {dataset},
   doi = {10.5281/zenodo.16524193},
+  abstract = {This collection contains 25 synthetic genomics datasets generated using NEAT v3, simulating the TP53 gene of Homo sapiens. These datasets are intended for benchmarking somatic variant calling algorithms, especially in tumor-only settings.
+              Each dataset is composed of paired-end reads and was designed to systematically explore the impact of two intrinsic NGS parameters on variant detection performance:
+              Sequencing coverage: 300×, 700×, 1000×, 3000×, and 5000×
+              Read length: 50 bp, 75 bp, 100 bp, 150 bp, and 300 bp},
   url = {https://zenodo.org/records/16524193}
 }
 
@@ -1354,6 +1358,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
       eprint={2506.14508},
       archivePrefix={arXiv},
       primaryClass={q-bio.OT},
+      abstract = {Synthetic data has emerged as a powerful resource in life sciences, offering solutions for data scarcity, privacy protection and accessibility constraints. By creating artificial datasets that mirror the characteristics of real data, allows researchers to develop and validate computational methods in controlled environments. Despite its promise, the adoption of synthetic data in Life Sciences hinges on rigorous evaluation metrics designed to assess their fidelity and reliability. To explore the current landscape of synthetic data evaluation metrics in several Life Sciences domains, the ELIXIR Machine Learning Focus Group performed a systematic review of the scientific literature following the PRISMA guidelines. Six critical domains were examined to identify current practices for assessing synthetic data. Findings reveal that, while generation methods are rapidly evolving, systematic evaluation is often overlooked, limiting researchers ability to compare, validate, and trust synthetic datasets across different domains. This systematic review underscores the urgent need for robust, standardized evaluation approaches that not only bolster confidence in synthetic data but also guide its effective and responsible implementation. By laying the groundwork for establishing domain-specific yet interoperable standards, this scoping review paves the way for future initiatives aimed at enhancing the role of synthetic data in scientific discovery, clinical practice and beyond.},
       url={https://arxiv.org/abs/2506.14508}, 
 }
 
@@ -1363,6 +1368,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
       year={2025},
       eprint={2505.16619},
       archivePrefix={arXiv},
+      abstract = {Artificial intelligence (AI) has recently seen transformative breakthroughs in the life sciences, expanding possibilities for researchers to interpret biological information at an unprecedented capacity, with novel applications and advances being made almost daily. In order to maximise return on the growing investments in AI-based life science research and accelerate this progress, it has become urgent to address the exacerbation of long-standing research challenges arising from the rapid adoption of AI methods. We review the increased erosion of trust in AI research outputs, driven by the issues of poor reusability and reproducibility, and highlight their consequent impact on environmental sustainability. Furthermore, we discuss the fragmented components of the AI ecosystem and lack of guiding pathways to best support Open and Sustainable AI (OSAI) model development. In response, this perspective introduces a practical set of OSAI recommendations directly mapped to over 300 components of the AI ecosystem. Our work connects researchers with relevant AI resources, facilitating the implementation of sustainable, reusable and transparent AI. Built upon life science community consensus and aligned to existing efforts, the outputs of this perspective are designed to aid the future development of policy and structured pathways for guiding AI implementation.},
       primaryClass={cs.AI},
       url={https://arxiv.org/abs/2505.16619}, 
 }
@@ -1374,6 +1380,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
       eprint={2408.07721},
       archivePrefix={arXiv},
       primaryClass={q-bio.OT},
+      abstract = {Supervised machine learning (ML) is used extensively in biology and deserves closer scrutiny. The DOME recommendations aim to enhance the validation and reproducibility of ML research by establishing standards for key aspects such as data handling and processing, optimization, evaluation, and model interpretability. The recommendations help to ensure that key details are reported transparently by providing a structured set of questions. Here, we introduce the DOME Registry (URL: this http URL), a database that allows scientists to manage and access comprehensive DOME-related information on published ML studies. The registry uses external resources like ORCID, APICURON and the Data Stewardship Wizard to streamline the annotation process and ensure comprehensive documentation. By assigning unique identifiers and DOME scores to publications, the registry fosters a standardized evaluation of ML methods. Future plans include continuing to grow the registry through community curation, improving the DOME score definition and encouraging publishers to adopt DOME standards, promoting transparency and reproducibility of ML in the life sciences.},
       url={https://arxiv.org/abs/2408.07721}, 
 }
 
@@ -1385,6 +1392,10 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 	howpublished = {ELIXIR All Hands Meeting},
 	month = {June},
 	year = {2024},
+  abstract = {With the continuous generation, processing, and transformation of biological data, the application of Machine Learning (ML) has become one of the most effective approaches for extracting insights from this data and supporting decision-making processes. The ELIXIR Machine Learning Focus Group launched in October 2019, specifically to capture the emerging needs in ML expertise across the community, and has been consistently producing high-impact outputs over the past 5 years. Its overarching goals include all aspects of ML, from standards and reproducibility, to benchmarking and training.
+              One key output of the FG is the publication of the DOME recommendations (Nat Methods, July 2021), a set of community-wide recommendations for reporting supervised ML-based analyses of biological studies. Broad adoption of these recommendations help improve ML assessment and reproducibility. They have been effectively used in a more ambitious Strategic Implementation Study, leading to a coherent registry around DOME and a community-led publication annotation effort.
+              Another key activity of the FG aims to tackle challenges of synthetic data, creating frameworks and best practices for the generation, evaluation, and application of synthetic data. Achievements include a synthetic data catalogue, a FAIR metadata model, a data registry, an evaluation metrics review, and a community survey. 
+              Finally, as AI-ready data are a necessity in ML, a comprehensive effort around gold standard datasets is in place, collecting both paper candidates with datasets on selected domains (e.g. metabolomics/omics), as well as collected datasets that can be applied in ML in Life Sciences, specifically for supervised learning, around omics.},
 	doi = {10.7490/f1000research.1119794.1},
 	URL = {https://f1000research.com/posters/13-797}
 }
@@ -1396,6 +1407,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 	month = {June},
 	year = {2024},
 	doi = { 10.7490/f1000research.1119793.1},
+  abstract = {The identification of somatic variants using algorithms is crucial for detecting genomic alterations associated with cancer. However, assessing their performance faces challenges due to the limited availability of high-quality ground truth datasets. To tackle this issue, we implemented synth4bench[1], a framework, which calls the NEATv3.3 simulator to generate synthetic genomics data, implements all somatic variant calling algorithms and then benchmarked.the results against the ground truth. },
 	URL = {https://f1000research.com/posters/13-795}
 }
 
@@ -1406,6 +1418,9 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
       eprint={2407.06211},
       archivePrefix={arXiv},
       primaryClass={q-bio.OT},
+      abstract = {Over the last three to five years, it has become possible to generate machine learning synthetic data for healthcare-related uses. However, concerns have been raised about potential negative factors associated with the possibilities of artificial dataset generation. These include the potential misuse of generative artificial intelligence (AI) in fields such as cybercrime, the use of deepfakes and fake news to deceive or manipulate, and displacement of human jobs across various market sectors.
+                  Here, we consider both current and future positive advances and possibilities with synthetic datasets. Synthetic data offers significant benefits, particularly in data privacy, research, in balancing datasets and reducing bias in machine learning models. Generative AI is an artificial intelligence genre capable of creating text, images, video or other data using generative models. The recent explosion of interest in GenAI was heralded by the invention and speedy move to use of large language models (LLM). These computational models are able to achieve general-purpose language generation and other natural language processing tasks and are based on transformer architectures, which made an evolutionary leap from previous neural network architectures.
+                  Fuelled by the advent of improved GenAI techniques and wide scale usage, this is surely the time to consider how synthetic data can be used to advance infectious disease research. In this commentary we aim to create an overview of the current and future position of synthetic data in infectious disease research.},
       url={https://arxiv.org/abs/2407.06211}, 
 }
 
@@ -1418,6 +1433,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   title = {FAIR for Machine Learning; Building on the Lessons from FAIR Software},
   publisher = {Zenodo},
   year = {2024},
+  abstract = {Ensuring that data are FAIR is nowadays a clear expectation across all science domains, as a result of many years of global efforts. Research software, has only just started to receive the same level of attention in recent years, with targeted actions towards the definition of the FAIR principles as applied to research software, as well as concerted efforts around reproducibility, quality, and sustainability. Given the rapid rise of ML as a key technology across all science domains, it is important to build on our collective experience, and already start addressing the challenges ahead of us, towards making ML FAIR.},
   copyright = {Creative Commons Attribution 4.0 International}}
 
 @misc{Fragkouli2024.03.07.582313,
@@ -1425,6 +1441,8 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 	title = {Synth4bench: a framework for generating synthetic genomics data for the evaluation of tumor-only somatic variant calling algorithms},
 	year = {2024},
 	doi = {10.1101/2024.03.07.582313},
+  abstract = {Motivation Somatic variant calling algorithms are widely used to detect genomic alterations associated with cancer. Evaluating their performance, even though being crucial, can be challenging due to the lack of high-quality ground truth datasets. To address this issue, we developed a synthetic data generation framework for benchmarking these algorithms, focusing on the TP53 gene, utilizing the NEATv3.3 simulator. We thoroughly evaluated the performance of Mutect2, Freebayes, VarDict, VarScan2 and LoFreq and compared their results with our synthetic ground truth, while observing their behavior. Synth4bench attempts to shed light on the underlying principles of each variant caller by presenting them with data from a given range across the genomics data feature space and inspecting their response.
+              Results Using synthetic dataset as ground truth provides an excellent approach for evaluating the performance of tumor-only somatic variant calling algorithms. Our findings are supported by an independent statistical analysis that was performed on the same data and output from all callers. Overall, synth4bench leverages the effort of benchmarking algorithms by offering the opportunity to utilize a generated ground truth dataset. This kind of framework is essential in the field of cancer genomics, where precision is an ultimate necessity, especially for variants of low frequency. In this context, our approach makes comparison of various algorithms transparent, straightforward and also enhances their comparability.},
 	URL = {https://www.biorxiv.org/content/early/2024/03/08/2024.03.07.582313}
 }
 
@@ -1442,6 +1460,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   title = {ELIXIR Report of the 21st Plenary of the RDA,  October 2023},
   publisher = {Zenodo},
   year = {2024},
+  abstract = {This report document has been prepared by ELIXIR’s RDA Activities Focus Group to showcase the synergies and activities of the Research Data Alliance (RDA) which may be useful for ELIXIR members operating in the life sciences domain. The RDA was launched as a community-driven initiative in 2013 with the goal of building the social and technical infrastructure to enable open sharing and re-use of data. The ELIXIR RDA Activities Focus Group has prepared twenty reports of RDA Plenary events to date containing overviews of highlighted RDA recommendations and outputs. This report contains highlights from various sessions of the RDA 21st Plenary which took place as a hybrid event in Austria, 23-26th October, 2023.},
   copyright = {Creative Commons Attribution 4.0 International}
 }
 
@@ -1451,6 +1470,8 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   year = {2024},
   month = {Feb},
   note = {dataset},
+  abstract = {These are 10 synthetic genomics datasets generated with NEAT v3 (based on TP53 gene of Homo Sapiens) for the use case of benchmarking somatic variant callers. To find more about our generating framework please visit synth4bench GitHub repository.
+              The datasets explore intrinsic NGS data parameters for the use case of observing their effect on tumor-only somatic variant calling algorithms. From the 10 datasets, there are 5 of them with different coverage (while keeping all other parameters fixed) and 5 with varying read length. The reads in all datasets are paired-end .},
   doi = {10.5281/zenodo.10683211},
   url = {https://zenodo.org/records/10683211}
 }
@@ -1460,6 +1481,8 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   url = {http://dx.doi.org/10.1101/2024.01.11.575161},
   DOI = {10.1101/2024.01.11.575161},
   publisher = {bioRxiv},
+  abstract = {Computational analyses of plasma proteomics provide translational insights into complex diseases such as COVID-19 by revealing molecules, cellular phenotypes, and signaling patterns that contribute to unfavorable clinical outcomes. Current in silico approaches dovetail differential expression, biostatistics, and machine learning, but often overlook nonlinear proteomic dynamics, like post-translational modifications, and provide limited biological interpretability beyond feature ranking.
+              We introduce APNet, a novel computational pipeline that combines differential activity analysis based on SJARACNe co-expression networks with PASNet, a biologically-informed sparse deep learning model to perform explainable predictions for COVID-19 severity. The APNet driver-pathway network ingests co-expression and classification weights to aid result interpretation and hypothesis generation. APNet outperforms alternative models in patient classification across three COVID-19 proteomic datasets, identifying predictive drivers and pathways, including some confirmed in single-cell omics and highlighting under-explored biomarker circuitries in COVID-19.},
   author = {Gavriilidis,  George I. and Vasileiou,  Vasileios and Dimitsaki,  Stella and Karakatsoulis,  George and Giannakakis,  Antonis and Pavlopoulos,  Georgios A. and Psomopoulos,  Fotis},
   year = {2024},
   month = jan 
@@ -1473,6 +1496,20 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   language = {en},
   title = {EOSC-EVERSE: Paving the way towards a European Virtual Institute for Research Software Excellence},
   publisher = {Zenodo},
+  abstract = {The EVERSE project aims to create a framework for research software and code excellence, collaboratively designed and championed by the research communities across five EOSC Science Clusters and national Research Software Expertise Centres, in pursuit of building a European network of Research Software Quality and setting the foundations of a future Virtual Institute for Research Software Excellence.
+
+              This framework for research software excellence will incorporate aspects involving community curation, quality assessment, and best practices for research software. This collective knowledge will be captured in the Research Software Quality toolkit (RSQkit), a
+              knowledge base to gather and curate expertise that will contribute to high-quality software and code across different disciplines.
+
+              By embedding the RSQkit and services into the EOSC Science Clusters, EVERSE will demonstrate improvements in the quality of
+              research software and maximise its reuse, leading to standardised software development practices and sustainable research software. Furthermore, we will drive recognition of software and support career progress for developers, from researchers who code to RSEs, raising their capacity to guarantee software quality.
+
+              The European network for Research Software Quality aims to cross-fertilise different research domains, act as a lobbying organisation, and raise awareness of software as a key enabler in research, with the overall ambition to accelerate research and innovation through improving the quality of research software and code.
+
+              EVERSE ultimate ambition is to contribute towards a cultural change where research software is recognized as a first-class citizen of
+              the scientific process and the people that contribute to it are credited for their efforts.
+
+              These slides were presented in the context of the ReSA Funders' Forum meeting (January 16th/17th 2024), as well as at the International Research Software Engineering Research (IRSER) Community Meetup (January 17th 2024)},
   year = {2024},
   copyright = {Creative Commons Attribution 4.0 International}
 }
@@ -1484,6 +1521,12 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   title = {PertFlow: A cloud-based workflow to facilitate perturbational  modeling on single-cell transcriptomics for pharmacological research},
   publisher = {Zenodo},
   year = {2023},
+  abstract = {Perturbational modeling in single-cell -omics computationally captures, at unprecedented cellular resolution, responses to molecular changes initiated by gene knockdowns or drug treatments. Notwithstanding, relevant in silico tools are hindered by interoperability issues, hefty computational demands, and reliance on complex algorithms like Deep Learning that lack biological interpretation. 
+              Here, we introduce "PertFlow", a user-friendly, cloud-based workflow merging standard single-cell pipelines for scRNA-seq/ECCITE-seq with specialized perturbational modeling tools. 
+              PertFlow offers seamless Seurat and Scanpy interoperability through in-tandem Python and R coding (Rpy2 package). A Google Colab implementation of the method demonstrates the ease of deployment and allows for testing by other users.
+              At first, PertFlow enables pathway/transcription factor (TFs) enrichment (DecoupleR) to establish the necessary biological context. 
+              At its core, PertFlow employs AugurPy for cell-type prioritization, scGEN variational autoencoder for perturbation response prediction, and MixScape for assessing perturbations in single-cell pooled CRISPR screens (ECCITE-seq). Moreover, PertFlow also features the CPA compositional autoencoder for complex perturbational predictions and the ASGARD toolkit for drug repurposing based on LINCS L1000 project data.
+              When applied to Chronic Lymphocytic Leukemia (CLL) scRNA-seq data from peripheral blood cells, pre/post-Ibrutinib therapy (PMID: 31996669), PertFlow was able to capture biological ground truths (suppression of oxidative phosphorylation)(DecoupleR), but also went beyond them, showing: (a) cell prioritization of monocytes 30 days post-Ibrutinib and implication of galectins in a poor CLL Ibrutinib responder (AugurPy), (b) perturbational predictions for CLL-geared TFs like IRF1 (MixScape) (c) repurposed drugs mimicking Ibrutinib’s effects like auranofin, fostamatinib, parthenolide, vorinostat, idelalisib and sonidegib   (ASGARD).},
   copyright = {Creative Commons Attribution 4.0 International}
 }
 
@@ -1494,6 +1537,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   language = {en},
   title = {EOSC EVERSE: Paving the way towards a European Virtual Institute for Research Software Excellence},
   publisher = {Zenodo},
+  abstract = {Extended abstract of the EOSC EVERSE project (https://everse.software/), submitted for presentation in the International Research Software Engineering Research (IRSER) Community Meetup in January 2024 (https://www.software.ac.uk/news/international-research-software-engineering-research-irser-community-meetup)},
   year = {2023},
   copyright = {Creative Commons Attribution 4.0 International}
 }
@@ -1507,6 +1551,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   year         = {2023},
   month        = {October},
   doi          = {10.5281/zenodo.8432060},
+  abstract     = {Somatic variant calling algorithms are widely used to detect genomic alterations associated with cancer. Evaluating the performance of these algorithms can be challenging due to the lack of high-quality ground truth datasets. To address this issue, we developed a synthetic genomics data generation and evaluation framework for benchmarking somatic variant calling algorithms. We generated synthetic datasets based on sequence data from the TP53 gene, using the NEAT simulator. Subsequently, we thoroughly evaluated the performance of GATK-Mutect2 on these datasets, and compared the results to the “golden” files produced by NEAT containing the actual variations. Our results demonstrate that the synthetic datasets generated using our framework can accurately capture the complexity and diversity of real cancer genomic data. Moreover, the synthetic datasets provide an excellent ground truth for evaluating the performance of somatic variant calling algorithms. Altogether, our framework provides a valuable resource for testing the performance of somatic variant calling algorithms, enabling researchers to evaluate and improve the accuracy of these algorithms for cancer genomics applications.},
   url          = {https://doi.org/10.5281/zenodo.8432060}  
 }
 
@@ -1520,6 +1565,8 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   title = {From FAIR data to FAIR Research Software,  towards FAIR Machine Learning},
   publisher = {Zenodo},
   year = {2023},
+  abstract = {FAIR principles are now integral to handling research data, with ongoing challenges notwithstanding. However, the FAIR Principles, at a high level, are intended to apply to all research objects; both those used in research and those that are research outputs. Here we highlight the efforts around FAIR research software as well as Machine Learning, while emphasising the need for community-led standards and best practices in this area.
+              This presentation was part of a panel discussion on Data Management at the Bio-IT World Conference & Expo Europe, 29-30 November 2023 (bio-itworldeurope.com)},
   copyright = {Creative Commons Attribution 4.0 International}
 }
 
@@ -1570,6 +1617,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   title = {Exploring the landscape of the genomic wastewater surveillance ecosystem: a roadmap towards standardization},
   url = {http://dx.doi.org/10.37044/osf.io/rtgk9},
   DOI = {10.37044/osf.io/rtgk9},
+  abstract = {Nearly two years after the initial report of SARS-CoV-2 in Wuhan, China, the COVID-19pandemic has affected over 485 million individuals. Wastewater surveillance has garneredsubstantial attention as a passive monitoring system to complement clinical genomic surveillanceactivities during the SARS-CoV-2 pandemic. Several effective methods are now in place fordetecting and quantifying viral RNA in wastewater samples, and it is evident that RNAconcentrations in wastewater correlate with reported case trends.Exploratory projects have demonstrated the potential of Wastewater Based Epidemiology(WBE), nevertheless it is imperative to coordinate efforts, establish standards, and create acatalog of available software tools and services. This coordination will streamline the deploymentof end-to-end genomic wastewater surveillance pipelines and promote the adoption of thesemonitoring methods within the broader scientific community. The initial step involves identifyingand cataloging the challenges of working with wastewater HTS and the pertinent methodologiesand bioinformatics workflows essential for managing genomic data from wastewater samples,thus forming a coherent structure.The primary objective of this project was to systematically review, compile, and initiate theintegration, standardization, and documentation of diverse approaches for genomic wastewatersurveillance. Drawing on the expertise of the ELIXIR Wastewater Surveillance Working Group,our focus was to create a comprehensive framework of components, including modules andtools, to facilitate the practical implementation of end-to-end genomic wastewater surveillancepipelines.},
   publisher = {Center for Open Science},
   author = {Psomopoulos,  Fotis E. and Kyritsis,  Konstantinos A. and Topolsky,  Ivan and Batut,  Bérénice and Fitzpatrick,  Amy Heather and Leoni,  Gabriele},
   year = {2023},
@@ -1579,7 +1627,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 @misc{f1000researchF1000ResearchArticle,
 	author = {Waterhouse, Robert M. and Adam-Blondon, Anne-Françoise and Balech, Bachir and Barta, Endre  and Heil, Katharina F. and Hughes, Graham M. and Jermiin, Lars S. and Kalaš, Matúš  and Lanfear, Jerry and Pafilis, Evangelos and Papageorgiou, Aristotelis C. and Psomopoulos, Fotis and Raes, Niels  and Burgin, Josephine  and Gabaldón, Toni },
 	title = {{F}1000{R}esearch {A}rticle: {T}he {E}{L}{I}{X}{I}{R} {B}iodiversity {C}ommunity: {U}nderstanding short- and long-term changes in biodiversity. --- f1000research.com},
-	howpublished = {https://f1000research.com/articles/12-499},
+	url = {https://f1000research.com/articles/12-499},
 	year = {2023},
 	note = {[Accessed 09-02-2024]},
 }
@@ -1587,7 +1635,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 @misc{usegalaxyTeachingHosting,
 	author = {Batut, Bérénice and Psomopoulos, Fotis E and Via, Allegra and Palagi, Patricia},
 	title = {{T}eaching and {H}osting {G}alaxy training / {H}ands-on: {T}raining techniques to enhance learner participation and engagement --- usegalaxy.no},
-	howpublished = {https://usegalaxy.no/training-material/topics/teaching/tutorials/learner_participation_engagement/tutorial.html},
+	url = {https://usegalaxy.no/training-material/topics/teaching/tutorials/learner_participation_engagement/tutorial.html},
 	year = {2023},
 	note = {[Accessed 09-02-2024]},
 }
@@ -1595,7 +1643,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 @misc{galaxyprojectContributingGalaxy,
 	author = {Batut, Bérénice and Psomopoulos, Fotis E and Via, Allegra and Palagi, Patricia and Gallardo, Cristóbal},
 	title = {{C}ontributing to the {G}alaxy {T}raining {M}aterial / {H}ands-on: {P}rinciples of learning and how they apply to training and teaching --- training.galaxyproject.org},
-	howpublished = {https://training.galaxyproject.org/training-material/topics/contributing/tutorials/learning-principles/tutorial.html},
+  url = {https://training.galaxyproject.org/training-material/topics/contributing/tutorials/learning-principles/tutorial.html},
 	year = {2023},
 	note = {[Accessed 09-02-2024]},
 }
@@ -1603,7 +1651,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 @misc{galaxyprojectContributingGalaxy,
 	author = {Batut, Bérénice and Psomopoulos, Fotis E and Via, Allegra and Palagi, Patricia},
 	title = {{C}ontributing to the {G}alaxy {T}raining {M}aterial / {H}ands-on: {D}esign and plan session, course, materials --- training.galaxyproject.org},
-	howpublished = {https://training.galaxyproject.org/training-material/topics/contributing/tutorials/design/tutorial.html},
+  url = {https://training.galaxyproject.org/training-material/topics/contributing/tutorials/design/tutorial.html},
 	year = {2023},
 	note = {[Accessed 09-02-2024]},
 }
@@ -1611,7 +1659,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 @misc{galaxyprojectStatisticsMachine,
 	author = {Psomopoulos, Fotis E. and Gallantries},
 	title = {{S}tatistics and machine learning / {H}ands-on: {I}ntroduction to {M}achine {L}earning using {R} --- training.galaxyproject.org},
-	howpublished = {https://training.galaxyproject.org/training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html},
+  url =  {https://training.galaxyproject.org/training-material/topics/statistics/tutorials/intro-to-ml-with-r/tutorial.html},
   year = {2023},
 	note = {[Accessed 09-02-2024]},
 }
@@ -1634,6 +1682,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   title = {EOSC as an Enabler of Research Assessment Reform: Position Paper from Task Force on Research Careers,  Recognition,  and Credit},
   publisher = {Zenodo},
   year = {2023},
+  abstract = {This position paper presents recommendations from the TF RCRC on reforming research assessment to support researchers engaging with EOSC. The recommendations are aimed at the EOSC Partnership and EOSC-A (including the members of EOSC-A) to strategically contribute to the reform of research assessment with respect to EOSC and Open Science.},
   copyright = {Creative Commons Attribution 4.0 International}
 }
 
@@ -1646,6 +1695,12 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   title = {Establishing the EOSC4Cancer Network of Experts},
   publisher = {Zenodo},
   year = {2023},
+  abstract = {In the context of the WP5 “Training and capacity building for key national and international stakeholders”, a key activity is to unlock the expertise in handling cancer related data both within and outside of the EOSC4Cancer consortium, and bundle this in such a way that all researchers that are in need of training and support will be able to receive it.
+              To this end, we aim to bring together a network of key cancer data support professionals, coming from within the respective RIs, relevant national initiatives and competency centers.
+              These slides were used in the context of a 1-hour webinar on Monday, June 19th at 12:00-13:00 CEST, where we discussed with all relevant stakeholders both within the EOSC4Cancer project (representatives of all EOSC4Cancer partners across all WPs) and beyond (notably the Cancer Landscape Partnering Group and the Stakeholder Forum);
+              A short overview of WP5 which aims to ensure that the biomedical researchers and healthcare professionals will have the knowledge and skills on how to best address their scientific questions and challenges by using the tools and infrastructure towards accelerating and optimising their research.
+              Foreseen scope and membership of the network, including the potential activities envisioned throughout the lifecycle of EOSC4Cancer and beyond.
+              Discuss ways of contributing to the network, aligned to your ongoing activities within EOSC4Cancer.},
   copyright = {Creative Commons Attribution 4.0 International}
 }
 
@@ -1657,11 +1712,28 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   title = {A guidance document for the EOSC4Cancer learning pathway},
   publisher = {Zenodo},
   year = {2023},
+  abstract = {The EOSC4Cancer initiative addresses the pressing need for advanced research and infrastructure in tackling cancer, particularly in Europe. This document focuses on the WP5 initiative within EOSC4Cancer, which aims to empower clinicians and cancer researchers through capacity building. Emphasizing the importance of tailored training, the document outlines the design process for learning paths, including short-term courses and traditional postgraduate options. Key concepts such as learning outcomes and FAIR training are introduced, and the systematic mapping of skills and roles within the target audience is detailed. Illustrative examples from both within and beyond the project demonstrate the application of these principles. The document concludes with a list of practical tools and services for constructing effective learning paths. Importantly, this document is a living resource, reflecting ongoing efforts and intended to contribute to a dynamic learning environment beyond the EOSC4Cancer project, benefiting the broader scientific community.},
   copyright = {Creative Commons Attribution 4.0 International}
 }
 
 @misc{https://doi.org/10.5281/zenodo.10407320,
   doi = {10.5281/ZENODO.10407320},
+  abstract = {Despite the existence of recommendations to report Machine Learning outputs and datasets (e.g., ML
+              model cards, Dataset Cards1, etc.), there is currently no community-agreed metadata schema
+              describing Machine Learning models (MLMs). Some communities have already expressed some interest
+              in this regard, for instance, the Research Data Alliance (RDA) FAIR4ML Interest Group2, ELIXIR
+              Machine Learning Focus Group and the National Research Data Infrastructure (NFDI) for Data Science
+              and Artificial Intelligence (NFDI4DS), one of the NFDI consortia in Germany. A common ground for
+              these three communities is the interest in creating a common metadata schema based on schema.org as the
+              scientific community has already turned to it as a low-barrier gluing point. Initially independently but
+              now as a joint force, these three communities are currently working on developing such a metadata
+              schema. To work towards this end, the Semantic Technologies team (SemTec) at ZB MED Information
+              Centre for Life Sciences (ZB MED) organized a 2-day hackathon on the 23rd and 24th of November
+              2023. During this hackathon, a group of 11 participants from 11 different European-based institutions
+              worked on an initial set of crosswalks from the ML model cards in HuggingFace to four other related
+              resources.
+              ● BioImage Model Zoo (also including a mapping for Datasets)
+              ● Schema.org},
   url = {https://zenodo.org/doi/10.5281/zenodo.10407320},
   author = {Castro,  Leyla Jael and Beuttenm\"{u}ller,  Fynn and Chen,  Zongxiong and Efeoglu,  Sefika and Garijo,  Daniel and Psomopoulos,  Fotis and Serrano-Solano,  Beatriz and Shiferaw,  Kirubel Biruk and Solanki,  Dhwani and Wentzel,  Bianca and Zhang,  Yue},
   title = {Towards metadata for machine learning - Crosswalk tables},
@@ -1673,6 +1745,7 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
 @misc{https://doi.org/10.5281/zenodo.10407265,
   doi = {10.5281/ZENODO.10407265},
   url = {https://zenodo.org/doi/10.5281/zenodo.10407265},
+  abstract = {Despite the advances in Machine Learning Operations and the availability of variation of the Machine Learning lifecycle, there is none yet aligned to the Findable, Accessible, Interoperable and Reusable (FAIR) principles. Here we present our proposal of such a lifecycle, including an initial analysis on which and how the FAIR principles apply together with some additional information on reporting best practices and existing resources that could support the different phases in the lifecycle.},
   author = {Castro,  Leyla Jael and Psomopoulos,  Fotis and Serrano-Solano,  Beatriz and Sharma,  Curtis and Shiferaw,  Kirubel Biruk and Solanki,  Dhwani and Zhang,  Yue},
   language = {en},
   title = {Lifecycle for FAIR Machine Learning},
@@ -1681,10 +1754,11 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   copyright = {Creative Commons Attribution 4.0 International}
 }
 
-@article{Waterhouse2023,
+@misc{Waterhouse2023,
   title = {The ELIXIR Biodiversity Community: Understanding short- and long-term changes in biodiversity},
   volume = {12},
   ISSN = {2046-1402},
+  abstract = {Biodiversity loss is now recognised as one of the major challenges for humankind to address over the next few decades. Unless major actions are taken, the sixth mass extinction will lead to catastrophic effects on the Earth’s biosphere and human health and well-being. ELIXIR can help address the technical challenges of biodiversity science, through leveraging its suite of services and expertise to enable data management and analysis activities that enhance our understanding of life on Earth and facilitate biodiversity preservation and restoration. This white paper, prepared by the ELIXIR Biodiversity Community, summarises the current status and responses, and presents a set of plans, both technical and community-oriented, that should both enhance how ELIXIR Services are applied in the biodiversity field and how ELIXIR builds connections across the many other infrastructures active in this area. We discuss the areas of highest priority, how they can be implemented in cooperation with the ELIXIR Platforms, and their connections to existing ELIXIR Communities and international consortia. The article provides a preliminary blueprint for a Biodiversity Community in ELIXIR and is an appeal to identify and involve new stakeholders},
   url = {http://dx.doi.org/10.12688/f1000research.133724.1},
   DOI = {10.12688/f1000research.133724.1},
   journal = {F1000Research},
@@ -1713,9 +1787,9 @@ note = {1st Workshop on Data and research objects management for Linked Open Sci
   url = {https://doi.org/10.1101/2022.10.25.513701},
   year = {2022},
   month = oct,
-  abstract = {Intro \newline The number of studies on SARS-CoV-2 published on a daily basis is constantly increasing, in an attempt to understand and address the challenges posed by the pandemic in a better way. Most of these studies also include a phylogeny of SARS-CoV-2 as background context, always taking into consideration the latest data in order to construct an updated tree. However, some of these studies have also revealed the difficulties of inferring a reliable phylogeny. [13] have shown that reliable phylogeny is an inherently complex task due to the large number of highly similar sequences, given the relatively low number of mutations evident in each sequence.
-              \newline Motivation \newline From this viewpoint, there is indeed a challenge and an opportunity in identifying the evolutionary history of the SARS-CoV-2 virus, in order to assist the phylogenetic analysis process as well as support researchers in keeping track of the virus and the course of its characteristic mutations, and in finding patterns of the emerging mutations themselves and the interactions between them. The research question is formulated as follows: Detecting new patterns of co-occurring mutations beyond the strain-specific / strain-defining ones, in SARS-CoV-2 data, through the application of ML methods.
-              \newline Aim \\newline Going beyond the traditional phylogenetic approaches, we will be designing and implementing a clustering method that will effectively create a dendrogram of the involved sequences, based on a feature space defined on the present mutations, rather than the entire sequence. Ultimately, this ML method is tested out in sequences retrieved from public databases and validated using the available metadata as labels. The main goal of the project is to design, implement and evaluate a software that will automatically detect and cluster relevant mutations, that could potentially be used to identify trends in emerging variants.},
+  abstract = {The number of studies on SARS-CoV-2 published on a daily basis is constantly increasing, in an attempt to understand and address the challenges posed by the pandemic in a better way. Most of these studies also include a phylogeny of SARS-CoV-2 as background context, always taking into consideration the latest data in order to construct an updated tree. However, some of these studies have also revealed the difficulties of inferring a reliable phylogeny. [13] have shown that reliable phylogeny is an inherently complex task due to the large number of highly similar sequences, given the relatively low number of mutations evident in each sequence.
+              From this viewpoint, there is indeed a challenge and an opportunity in identifying the evolutionary history of the SARS-CoV-2 virus, in order to assist the phylogenetic analysis process as well as support researchers in keeping track of the virus and the course of its characteristic mutations, and in finding patterns of the emerging mutations themselves and the interactions between them. The research question is formulated as follows: Detecting new patterns of co-occurring mutations beyond the strain-specific / strain-defining ones, in SARS-CoV-2 data, through the application of ML methods.
+              Going beyond the traditional phylogenetic approaches, we will be designing and implementing a clustering method that will effectively create a dendrogram of the involved sequences, based on a feature space defined on the present mutations, rather than the entire sequence. Ultimately, this ML method is tested out in sequences retrieved from public databases and validated using the available metadata as labels. The main goal of the project is to design, implement and evaluate a software that will automatically detect and cluster relevant mutations, that could potentially be used to identify trends in emerging variants.},
   publisher = {Cold Spring Harbor Laboratory},
   author = {Anastasios Mitsigkolas and Nikolaos Pechlivanis and Fotis Psomopoulos},
   title = {Assessing {SARS}-{CoV}-2 evolution through the analysis of emerging mutations}
