@@ -7,7 +7,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 <!-- # Bibliography -->
 
-[**Book**](#book) &nbsp; [**Book Chapter**](#book-chapter) &nbsp; [**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Other \(Posters/Slides/Datasets\)**](#other-posters-slides-datasets)
+[**Book**](#book) &nbsp; [**Book Chapter**](#book-chapter) &nbsp; [**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Other \(Posters/Slides/Datasets\)**](#other)
  &nbsp; [**Short articles and Preprints**](#short-articles-and-preprints) &nbsp; 
 
 <br/>
@@ -114,7 +114,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 <br/>
 
-##  Other (Posters/Slides/Datasets)
+##  Other (Posters/Slides/Datasets) {#other}
 
 <p style="margin-bottom:15px"></p>
 
