@@ -7,7 +7,8 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 <!-- # Bibliography -->
 
-[**Book**](#book) &nbsp; [**Book Chapter**](#book-chapter) &nbsp; [**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [** Other (Posters/Slides/Datasets)**](#other-posters-slides-datasets) &nbsp; [**Short articles and Preprints**](#short-articles-and-preprints) &nbsp; 
+[**Book**](#book) &nbsp; [**Book Chapter**](#book-chapter) &nbsp; [**Journals**](#journals) &nbsp; [**Conferences and Announcements**](#conferences-and-announcements) &nbsp; [**Other \(Posters/Slides/Datasets\)**](#other-posters-slides-datasets)
+ &nbsp; [**Short articles and Preprints**](#short-articles-and-preprints) &nbsp; 
 
 <br/>
 
@@ -78,10 +79,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 {% bibliography --query @inproceedings[year=2020] %} -->
 
-### 2025
 
-{% bibliography --query @inproceedings[year=2025] %}
-{% bibliography --query @conference[year=2025] %}
 
 ### 2024
 
@@ -160,8 +158,6 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 {% bibliography --query @article[year=2015] %}
 
 
-### 2006
-{% bibliography --query @*[year=2006] %}
 
 <br/>
 
