@@ -11,6 +11,20 @@ permalink: /projects/
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
 
+##  B1MGplus
+
+<img src="/assets/img/collaborations/B1MG-logo.png" alt="B1MG logo" style="width:200px;"/>
+
+
+[*Beyond 1 Million Genomes plus: Driving the future of evidence-based healthcare*](https://b1mgplus.onemilliongenomes.eu/)
+
+- **Duration**: 2025-2028
+- **Funder**: DIGITAL-2024-CLOUD-DATA-AI-06-GENOME
+- **Description**: The Beyond 1 Million Genomes plus (B1MGplus) project is helping create a European cross-border network of genomic and corresponding clinical data to improve healthcare outcomes. The project provides coordination and support to the 1+ Million Genomes initiative (1+MG), which is the commitment of 25 EU countries plus Norway to enable secure access to genomic and corresponding clinical data across Europe, supporting research, health policy and personalised healthcare.
+
+<br>
+
+
 ##  CANDLE
 
 <img src="/assets/img/collaborations/candle_logo.png" alt="CANDLE logo" style="width:200px;"/>
@@ -159,6 +173,7 @@ CANDLE will work toward this by:
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons.
+
 
 
 
