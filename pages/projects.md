@@ -11,6 +11,27 @@ permalink: /projects/
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
 
+##  CANDLE
+
+<img src="/assets/img/collaborations/candle_logo.png" alt="CANDLE logo" style="width:200px;"/>
+
+
+[*National CAncer data Node DeveLopErs*](https://candle-project.eu/)
+
+- **Duration**: 2025-2028
+- **Funder**: HORIZON-MISS-2024-CANCER-01
+- **Description**: Coordinated by Health-RI and with a consortium of 40 partners from 20 European countries, the project will support Member States and Associated Countries in setting up National Cancer Data Nodes. These Nodes will promote the development of standardized services for managing and sharing cancer data nationally and across borders, connecting different national actors.
+Despite vast amounts of cancer-related data in Europe, fragmentation and lack of interoperability hinder progress in cancer research and treatment. CANDLE addresses this by establishing trusted nodes to connect data, tools, and expertise across borders. These National Cancer Data Nodes will facilitate access to cancer data from across Europe. Cancer researchers can then access more data than is currently accessible – and help Europe better understand cancer. This can fuel the development of new cancer treatments, diagnostics, and better information to patients, survivors, and carers – and much more.
+CANDLE will work toward this by:
+  - Promoting the development and implementation of National Cancer Data Nodes in participating countries, to support users in handling their data with the right applications and underlying infrastructure.
+  - Promoting harmonisation and standardisation of cancer data.
+  - Supporting data discoverability, accessibility, and reuse in line with FAIR principles.
+  - Enabling cross-border, GDPR-compliant data sharing for research and innovation.
+  - Benefiting from the European Health Data Space and contributing to the UNCAN.eu European Cancer Data Infrastructure.
+
+<br>
+
+
 ##  METAPLANTCODE
 
 <img src="/assets/img/collaborations/metaplantlogo.png" alt="METAPLANTCODE logo" style="width:200px;"/>
@@ -138,5 +159,6 @@ permalink: /projects/
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons.
+
 
 
