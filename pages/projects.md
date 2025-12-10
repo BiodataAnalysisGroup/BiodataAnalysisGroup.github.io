@@ -76,17 +76,6 @@ permalink: /projects/
 
 <br>
 
-##  EOSC4Cancer
-
-<img src="/assets/img/collaborations/EOSC4Cancer.png" alt="EOSC4Cancer" style="width:200px;"/>
-
-[*A European-wide foundation to accelerate Data-driven Cancer Research*](https://eosc4cancer.eu/)
-
-- **Duration**: 2023-2026
-- **Funder**: HORIZON-INFRA-2021-EOSC-01-06
-- **Description**: Cancer complex nature requires integration of advanced research data across national boundaries to enable progress. Indeed, the Horizon Europe mission board for cancer has identified access to data, knowledge and digital services - accessible across the European Research Area through federated infrastructures - as a key enabling condition for success. The better we organise cancer data across Europe, the better and faster we can bring the fruits of new biological and technical innovations to the benefit of EU citizens/patients. EOSC4Cancer will make cancer genomics, imaging, medical, clinical, environmental and socio-economics data accessible, using and enhancing existing federated and interoperable systems for securely identifying, sharing, processing and reusing FAIR cancer data across borders, and it will offer them via community-driven analysis environments. EOSC4Cancer provision of well curated datasets will be essential for advanced analytics and computational methods to be reproducible and robust, including machine learning and artificial intelligence approaches. EOSC4Cancer use-cases will cover the patient journey from cancer prevention to diagnosis to treatment, laying the foundation of data trajectories and workflows for future cancer mission projects. EOSC4Cancer brings together a comprehensive consortium of cancer research centres, research infrastructures, leading research groups, hospitals and supercomputing centres from 14 European countries. To make the developments sustainable, these will be offered as part of the research infrastructures partners services portfolio, in connection with the EOSC ecosystem and to serve the European Cancer Mission, which will be possible via the engagement with large international coalitions, e.g. ICGC-Argo, GA4GH, 1+MG/B1MG, Cancer Core Europe, European Cancer Information System, European Network of Cancer Registries, Innovative Partnership for Action Against Cancer Joint Action and patients/survivors associations.
-
-<br>
 
 ##  SciLake
 
@@ -115,6 +104,19 @@ permalink: /projects/
 # Completed
 <hr style="border: 1px solid #ccc;">
 
+##  EOSC4Cancer
+
+<img src="/assets/img/collaborations/EOSC4Cancer.png" alt="EOSC4Cancer" style="width:200px;"/>
+
+[*A European-wide foundation to accelerate Data-driven Cancer Research*](https://eosc4cancer.eu/)
+
+- **Duration**: 2023-2026
+- **Funder**: HORIZON-INFRA-2021-EOSC-01-06
+- **Description**: Cancer complex nature requires integration of advanced research data across national boundaries to enable progress. Indeed, the Horizon Europe mission board for cancer has identified access to data, knowledge and digital services - accessible across the European Research Area through federated infrastructures - as a key enabling condition for success. The better we organise cancer data across Europe, the better and faster we can bring the fruits of new biological and technical innovations to the benefit of EU citizens/patients. EOSC4Cancer will make cancer genomics, imaging, medical, clinical, environmental and socio-economics data accessible, using and enhancing existing federated and interoperable systems for securely identifying, sharing, processing and reusing FAIR cancer data across borders, and it will offer them via community-driven analysis environments. EOSC4Cancer provision of well curated datasets will be essential for advanced analytics and computational methods to be reproducible and robust, including machine learning and artificial intelligence approaches. EOSC4Cancer use-cases will cover the patient journey from cancer prevention to diagnosis to treatment, laying the foundation of data trajectories and workflows for future cancer mission projects. EOSC4Cancer brings together a comprehensive consortium of cancer research centres, research infrastructures, leading research groups, hospitals and supercomputing centres from 14 European countries. To make the developments sustainable, these will be offered as part of the research infrastructures partners services portfolio, in connection with the EOSC ecosystem and to serve the European Cancer Mission, which will be possible via the engagement with large international coalitions, e.g. ICGC-Argo, GA4GH, 1+MG/B1MG, Cancer Core Europe, European Cancer Information System, European Network of Cancer Registries, Innovative Partnership for Action Against Cancer Joint Action and patients/survivors associations.
+
+<br>
+
+
 ## GenOptics
 
 <img src="/assets/img/collaborations/GenOptics_logo.png" alt="GenOptics" style="width:150px;"/>
@@ -136,4 +138,5 @@ permalink: /projects/
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons.
+
 
