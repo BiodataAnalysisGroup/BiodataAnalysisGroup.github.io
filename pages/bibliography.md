@@ -52,7 +52,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
     <button class="tab-link" onclick="openTab(event,'book-chapter')" role="tab">Book Chapter</button>
     <button class="tab-link" onclick="openTab(event,'journals')" role="tab">Journals</button>
     <button class="tab-link" onclick="openTab(event,'conferences')" role="tab">Conferences and Announcements</button>
-    <button class="tab-link" onclick="openTab(event,'other')" role="tab">Other (Posters/Slides/Datasets/Short articles/Preprints)</button>
+    <button class="tab-link" onclick="openTab(event,'other')" role="tab">Other (Slides/Datasets/Short articles/Preprints)</button>
   </div>
 
   <!-- Tab content: use markdown="1" so kramdown will process the Markdown and Liquid tags inside -->
@@ -146,7 +146,7 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
   </div>
 
   <div id="other" class="tab-content" markdown="1" role="tabpanel" aria-hidden="true">
-## Other (Posters/Slides/Datasets/Short articles/Preprints)
+## Other (Slides/Datasets/Short articles/Preprints)
 
 <p style="margin-bottom:15px"></p>
 
@@ -225,5 +225,6 @@ document.addEventListener('DOMContentLoaded', function() {
   // default is already Book open (first button marked active and first panel style=block)
 });
 </script>
+
 
 
