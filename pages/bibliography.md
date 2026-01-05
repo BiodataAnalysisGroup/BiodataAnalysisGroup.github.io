@@ -117,6 +117,10 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 <p style="margin-bottom:15px"></p>
 
+### 2025
+{% bibliography --query @inproceedings[year=2025] %}
+{% bibliography --query @conference[year=2025] %}
+
 ### 2024
 {% bibliography --query @inproceedings[year=2024] %}
 {% bibliography --query @conference[year=2024] %}
@@ -228,3 +232,4 @@ document.addEventListener('DOMContentLoaded', function() {
   // default is already Book open (first button marked active and first panel style=block)
 });
 </script>
+
