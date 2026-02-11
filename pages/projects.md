@@ -11,6 +11,21 @@ permalink: /projects/
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
 
+
+##  RenAI
+
+<!-- <img src="/assets/img/collaborations/B1MG-logo.png" alt="B1MG logo" style="width:200px;"/>
+-->
+
+*RESPONSIBLE AI INFRASTRUCTURES FOR SCIENTIFIC EXCELLENCE*
+
+- **Duration**: 2026-2029
+- **Funder**: HORIZON-INFRA-2025-01-EOSC-05
+- **Description**: RenAI is set out to deliver an end-to-end GenAI ecosystem in EOSC that embeds domain-specific, pre-trained models to support advanced tools for data curation and synthetic data generation, and the RenAI coResearcher, an intuitive, agentic AI companion that empowers researchers across disciplines and skill levels to seamlessly access and apply trustworthy, compliant, and high-impact GenAI workflows from RenAI, accelerating scientific discovery within EOSC and beyond. To break down barriers and address the fragmented, unequal access to GenAI in research, RenAI builds on five interconnected pillars: (i) Scientific Pretrained Models; (ii) AI-Readiness and Transformation Infrastructure; (iii) RenAI coResearcher; (iv) Legal and Ethical Compliance Hub; (v) Community Upskilling
+
+<br>
+
+
 ##  EOSC-ARENA
 
 <img src="/assets/img/collaborations/arena_logo.png" alt="ARENA logo" style="width:200px;"/>
@@ -198,6 +213,7 @@ CANDLE will work toward this by:
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons.
+
 
 
 
