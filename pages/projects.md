@@ -45,6 +45,18 @@ CANDLE will work toward this by:
 
 <br>
 
+##  LATE-AYA
+
+<img src="/assets/img/collaborations/late_aya_logo.png" alt="LATE-AYA logo" style="width:200px;"/>
+
+
+[*Understanding and addressing LATE-effects of treatment of AYA cancer survivors with AI-based digital phenotyping and non-invasive holistic approach*](https://www.late-aya.eu/)
+
+- **Duration**: 2025-2030
+- **Funder**: HORIZON-MISS-2024-CANCER-01-05
+- **Description**: Adolescents and Young Adults (AYAs) face a distinct set of challenges, including increased risks of secondary cancers, cardiovascular diseases, infertility, and mental health issueslike anxiety and depression. Oncology programs delivering care to AYAs provide survivors with individualised survivorship care plans at the end of treatment, to accompany follow-up with their primary care providers. However, adherence to these plans is often scarce, due to differences in AYA survivors’ age, sex, cancer treatment received, and socioeconomical conditions. Knowledge and understanding of such factors and of related late effects and impacts on quality of life is fundamental to providing effective survivorship care. The ubiquitous use of mobile devices by AYAs offers an opportunity to increase knowledge and understanding of AYAs cancer survivors’ health status and behaviours, allowing the modelling of late effects and quality of life trajectories in the different age subgroups. Digital health interventions overcome many barriers to AYA participation in survivorship programs. LATE-AYA seeks to fill this gap by empowering AYAs to better manage their health and well-being post-cancer, by developing an AI-driven digital phenotyping platform for managing late effects (LE) of cancer treatment. The project will implement a holistic, non-invasive approach through digital tools such as smartphones and wearables to monitor physical, psychological, and social well-being. The project will focus on preventive health behaviours, psychological support, and social reintegration, providing personalized care through digital interventions. LATE-AYA will contribute to long-term quality of life improvements, facilitate early detection of LE, and provide data-driven insights on the impact of lifestyle choices on health outcomes. This project is supported by a diverse consortium of European institutions and will leverage the UNCAN.eu platform to share data and models, fostering wider collaboration across the EU. This action is part of the Cancer Mission cluster of projects on “Quality of life (AYA)”.
+
+<br>
 
 ##  METAPLANTCODE
 
@@ -173,6 +185,7 @@ CANDLE will work toward this by:
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons.
+
 
 
 
