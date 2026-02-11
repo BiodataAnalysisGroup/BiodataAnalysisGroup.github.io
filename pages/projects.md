@@ -11,13 +11,37 @@ permalink: /projects/
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
 
+##  RAISE-Connect
+
+<img src="/assets/img/collaborations/raise_connect_logo.png" alt="RAISE-Connect logo" style="width:300px;"/>
+
+
+*Enabling and Connecting Interoperable FAIR Digital Objects*
+
+- **Duration**: 2026-2029
+- **Funder**: HORIZON-INFRA-2025-01-EOSC-02
+- **Description**: Despite significant progress in open data, code sharing, and implementation of FAIR principles, there is no automated, universal
+mechanism capable to “FAIR-ify” DOs across large cross-domain repositories and data spaces. RAISE-CONNECT addresses this
+challenge by providing AI-powered, domain-agnostic connectors that can “FAIR-ify” DOs (i.e., data, code, experiments, experimental
+results and FDOs) and make them interoperable both within and across repositories. Leveraging existing EOSC-RAISE tools, it offers
+researchers and other stakeholders an entry point to access, share, and process FDOs with no effort. RAISE-CONNECT establishes an
+architectural framework for seamless creation, transformation, and integration of FDOs. At its core, it introduces an automated “FAIRification”
+service to continuously enhance DOs by searching across repositories for missing FAIR elements. This ensures that every DO
+can be transformed into an FDO that is discoverable, interoperable, and reusable. To maximise usability and uptake, RAISE-CONNECT
+lets users interact with DOs through natural language prompts, leveraging LLMs: users can “ask” for datasets, scripts, compare results,
+all without technical overhead. A model of Common Repository Connector acts as ”template” abstraction layer to bridge
+heterogeneous repositories, while different specific implementations of the it will be developed for well-known Data Spaces and DO
+repositories.
+
+<br>
+
 
 ##  RenAI
 
-<!-- <img src="/assets/img/collaborations/B1MG-logo.png" alt="B1MG logo" style="width:200px;"/>
+<!-- <img src="/assets/img/collaborations/RenAI-logo.png" alt="RenAI logo" style="width:200px;"/>
 -->
 
-*RESPONSIBLE AI INFRASTRUCTURES FOR SCIENTIFIC EXCELLENCE*
+*Responsible AI Infrastructures for scientific excellence*
 
 - **Duration**: 2026-2029
 - **Funder**: HORIZON-INFRA-2025-01-EOSC-05
@@ -28,7 +52,7 @@ permalink: /projects/
 
 ##  EOSC-ARENA
 
-<img src="/assets/img/collaborations/arena_logo.png" alt="ARENA logo" style="width:200px;"/>
+<img src="/assets/img/collaborations/arena_logo.png" alt="ARENA logo" style="width:300px;"/>
 
 
 *AI Research Enhancement through Networked Agents*
@@ -213,6 +237,7 @@ CANDLE will work toward this by:
 - **Duration**: 2020 - 2023
 - **Funder**: [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en)
 - **Description**: The [Gallantries project](https://gallantries.github.io/) has been funded by [Erasmus+](https://ec.europa.eu/programmes/erasmus-plus/node_en) to develop modular, broadcast-ready bioinformatics lessons over the next 3 years, aiming in particular for a hybrid form of training delivery. Partners and associated members of the project include several ELIXIR Nodes and Communities, and are dedicated to developing high quality bioinformatics training by combining the experience of Carpentries trainers with the Galaxy platform. Saskia Hiltemann & Helena Rasche ([ErasmusMC](https://erasmusmc.nl/), ELIXIR-NL), Fotis Psomopoulos ([INAB, CERTH](https://inab.certh.gr/), ELIXIR-GR), Bérénice Batut ([University of Freiburg](https://uni-freiburg.de/), ELIXIR-DE), Anthony Bretaudeau ([INRAE](https://www.inrae.fr/en), ELIXIR-FR), and Yvan Le  Bras ([MNHN](https://www.mnhn.fr/en), ELIXIR-FR) and their teams will be working together to develop, improve, and deliver quality, reusable, modular, and pandemic-friendly lessons.
+
 
 
 
