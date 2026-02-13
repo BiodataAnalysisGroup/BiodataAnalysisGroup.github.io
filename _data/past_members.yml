@@ -1,3 +1,21 @@
+- name: Dr. George Gavriilids
+  role: Postdoctoral Researcher # Will appear next to name
+  image: assets/img/team/ggeorav.jpg # Can be external link
+  orcid: 0000-0003-2575-4354
+  email: ggeorav@certh.gr
+  github: geogav
+  description: > # Can be Markdown
+    Dr George Gavriilidis was working as a postdoctoral researcher at INAB/CERTH. His current position is as a postdoctoral researcher at Charité.
+
+- name: Aspa Orfanou
+  role: Research Assistant
+  image: assets/img/team/aspa_orfanou.jpeg
+  orcid: 0000-0001-7590-6235
+  email: aspasiaor@hotmail.com
+  github: aspaor
+  description: > 
+    Aspa Orfanou was working as a research assistant at INAB/CERTH.
+
 - name: Maria Christina Maniou
   role: Research assistant
   image: assets/img/team/mcmaniou.jpg
@@ -35,3 +53,4 @@
   github: tatsistog
   description: >
     Anastasios Togkousidis was working as a research assistant at INAB/CERTH. He is currently pursuing a PhD at Heidelberg Institute for Theoretical Studies under the Computational Molecular Evolution (cme) laboratory.
+
