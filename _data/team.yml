@@ -17,16 +17,6 @@
   description: > 
     Elena Bakoglidou is a Project Manager at the Institute of Applied Biosciences (INAB) within the Center for Research and Technology Hellas (CERTH). She holds a B.Sc. in Political Science and an MBA in International Business. With eight years of professional experience, Elena specializes in the administrative and financial management, as well as the implementation of EU-funded projects in both public and private sectors.
 
-- name: Dr. George Gavriilids
-  role: Postdoctoral Researcher # Will appear next to name
-  image: assets/img/team/ggeorav.jpg # Can be external link
-  orcid: 0000-0003-2575-4354
-  email: ggeorav@certh.gr
-  github: geogav
-  description: > # Can be Markdown
-    Dr George Gavriilidis is a Pharmacologist PhD/Post-doctoral researcher working at the Institute of Applied Biosciences(INAB) at the Center for Research and Technology Hellas(CERTH). He is interested in the application of Systems Pharmacology/Immunology on single cell RNA sequencing data (scRNA-seq). 
-
-
 - name: Dr. Konstantinos Kyritsis
   role: Postdoctoral Researcher
   image: assets/img/team/kkyritsis.jpg
@@ -67,14 +57,6 @@
   description: >
     Vasileios Vasileiou is a Phd candidate, working as a Bioinformatician at the Institute of Applied Bioscience (INAB) in the Center for Research and Technology Hellas (CERTH). Overall, his research interests focus on Computational Biology and Bioinformatics, specializing in Systems Biology and Multi-omics Integration analyses. He holds a BSc degree in Molecular Biology and Genetics at Democritus University of Thrace (DUTH), while he obtained his MSc degree in Bioinformatics at the University of Birmingham (UoB).
     
-- name: Aspa Orfanou
-  role: Research Assistant
-  image: assets/img/team/aspa_orfanou.jpeg
-  orcid: 0000-0001-7590-6235
-  email: aspasiaor@hotmail.com
-  github: aspaor
-  description: > 
-    Aspa Orfanou works as a research assistant at the Institute of Applied Biosciences(INAB) at the Center for Research and Technology Hellas(CERTH). She obtained her BSc in Computer Science and Medical Informatics from University of Thessaly(UTH) in 2017 and her MSc in Bioinformatics from University of Crete(UOC) in 2021. In addition, she participated in ERASMUS exchange programme and studied for one semester in Electrical and Computer Engineering at University of Nicosia,Cyprus. During her studies she completed a three-month Internship at INAB/CERTH. Moreover, she is interested in development of bioinformatic tools and pipelines for visualization and interpretation of genomic data. 
 
 - name: Sofoklis Keisaris
   role: Research Assistant
@@ -103,3 +85,4 @@
   github: KonstantinosKardamiliotis
   description: > 
     Konstantinos Kardamiliotis works as a research assistant at the Institute of Applied Biosciences (INAB) at the Center for Research and Technology Hellas (CERTH). He holds a B.Sc. in Biology and a M.Sc. in Precision Medicine, both obtained from the Aristotle University of Thessaloniki (AUTh). He is interested in design and development of bioinformatics tools and pipelines.
+
