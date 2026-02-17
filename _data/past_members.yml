@@ -1,4 +1,4 @@
-- name: Dr. George Gavriilids
+- name: Dr. George Gavriilidis
   role: Postdoctoral Researcher # Will appear next to name
   image: assets/img/team/ggeorav.jpg # Can be external link
   orcid: 0000-0003-2575-4354
@@ -53,4 +53,5 @@
   github: tatsistog
   description: >
     Anastasios Togkousidis was working as a research assistant at INAB/CERTH. He is currently pursuing a PhD at Heidelberg Institute for Theoretical Studies under the Computational Molecular Evolution (cme) laboratory.
+
 
