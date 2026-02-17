@@ -56,6 +56,17 @@
   github: vasileioubill95
   description: >
     Vasileios Vasileiou is a Phd candidate, working as a Bioinformatician at the Institute of Applied Bioscience (INAB) in the Center for Research and Technology Hellas (CERTH). Overall, his research interests focus on Computational Biology and Bioinformatics, specializing in Systems Biology and Multi-omics Integration analyses. He holds a BSc degree in Molecular Biology and Genetics at Democritus University of Thrace (DUTH), while he obtained his MSc degree in Bioinformatics at the University of Birmingham (UoB).
+
+
+- name: Konstantinos Kardamiliotis
+  role: PhD Candidate
+  image: assets/img/team/kardamiliotis.jpg
+  orcid: 0000-0002-5175-0552
+  email: k.kardamiliotis@gmail.com
+  github: KonstantinosKardamiliotis
+  description: > 
+    Konstantinos Kardamiliotis is a PhD candidate and also works as a research assistant at the Institute of Applied Biosciences (INAB) at the Center for Research and Technology Hellas (CERTH). He holds a B.Sc. in Biology and a M.Sc. in Precision Medicine, both obtained from the Aristotle University of Thessaloniki (AUTh). He is interested in design and development of bioinformatics tools and pipelines.
+    
     
 
 - name: Sofoklis Keisaris
@@ -77,12 +88,5 @@
   description: > 
     Anastasia (Natasa) Anastasiadou is a research assistant, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH). She received her BSc in Biochemistry and Biotechnology from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, she obtained a M.Sc in Translational Research in Biomedicine from the Democritus University of Thrace. During her master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ she became interested in Bioinformatics. Currently, her main focus is on analyzing and visualizing NGS data, aiming to extract meaningful biological insights. She is also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.
 
-- name: Konstantinos Kardamiliotis
-  role: Research Assistant
-  image: assets/img/team/kardamiliotis.jpg
-  orcid: 0000-0002-5175-0552
-  email: k.kardamiliotis@gmail.com
-  github: KonstantinosKardamiliotis
-  description: > 
-    Konstantinos Kardamiliotis works as a research assistant at the Institute of Applied Biosciences (INAB) at the Center for Research and Technology Hellas (CERTH). He holds a B.Sc. in Biology and a M.Sc. in Precision Medicine, both obtained from the Aristotle University of Thessaloniki (AUTh). He is interested in design and development of bioinformatics tools and pipelines.
+
 
