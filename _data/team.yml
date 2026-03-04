@@ -36,7 +36,6 @@
   description: >
     Dr. Theodosia Charitou is a multidisciplinary researcher with a Ph.D. in Systems Biology and Bioinformatics from University College Dublin – School of Medicine, an M.Sc. in Bioinformatics from the National and Kapodistrian University of Athens, and a B.Sc. in Computer Science and Biomedical Informatics from the University of Thessaly. With over a decade of international experience in Ireland, Greece, Australia, the UK, and the USA—including postdoctoral positions at Massachusetts General Hospital (Harvard Medical School), the Victor Chang Cardiac Research Institute, and the South Australian Health and Medical Research Institute and EMBL Australia, she specializes in integrating multi-omics data (WGS, RNA-seq, metagenomics, proteomics, pharmacogenomics) to uncover disease mechanisms. Her current research focuses on microbiome–drug–genetic interactions, single-cell omics, and systems-level analyses of complex diseases. A former Senior Lecturer at the University of Thessaly, she has excelled in research, teaching, and mentoring across computer science, molecular biology, and biomedical data science. As co-founder and CSO of maMEDS P.C., she leads HealthTech innovation and R&D in medication adherence and pharmaceutical care. Fluent in Greek and English, and proficient in Spanish, French, and Italian, Dr. Charitou enjoys traveling, exploring museums and art galleries, swimming, practicing martial arts, horse riding, and playing the piano.
 
-
 - name: Styliani-Christina (Stella) Fragkouli
   role: PhD Candidate
   image: assets/img/team/sfragkoul.jpg
@@ -57,7 +56,6 @@
   description: >
     Vasileios Vasileiou is a Phd candidate, working as a Bioinformatician at the Institute of Applied Bioscience (INAB) in the Center for Research and Technology Hellas (CERTH). Overall, his research interests focus on Computational Biology and Bioinformatics, specializing in Systems Biology and Multi-omics Integration analyses. He holds a BSc degree in Molecular Biology and Genetics at Democritus University of Thrace (DUTH), while he obtained his MSc degree in Bioinformatics at the University of Birmingham (UoB).
 
-
 - name: Konstantinos Kardamiliotis
   role: PhD Candidate
   image: assets/img/team/kardamiliotis.jpg
@@ -67,8 +65,6 @@
   description: > 
     Konstantinos Kardamiliotis is a PhD candidate and also works as a research assistant at the Institute of Applied Biosciences (INAB) at the Center for Research and Technology Hellas (CERTH). He holds a B.Sc. in Biology and a M.Sc. in Precision Medicine, both obtained from the Aristotle University of Thessaloniki (AUTh). He is interested in design and development of bioinformatics tools and pipelines.
     
-    
-
 - name: Sofoklis Keisaris
   role: Research Assistant
   image: assets/img/team/sofoklis.jpg
@@ -87,10 +83,3 @@
   github: NatAnastas
   description: > 
     Anastasia (Natasa) Anastasiadou is a research assistant, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH). She received her BSc in Biochemistry and Biotechnology from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, she obtained a M.Sc in Translational Research in Biomedicine from the Democritus University of Thrace. During her master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ she became interested in Bioinformatics. Currently, her main focus is on analyzing and visualizing NGS data, aiming to extract meaningful biological insights. She is also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.
-
-
-
-
-
-
-
