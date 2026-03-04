@@ -1,3 +1,15 @@
+- name: Dr. Nikolaos (Nikos) Pechlivanis
+  role: Postdoctoral Researcher
+  image: assets/img/team/nikopech.jpg
+  website: https://npechl.github.io/
+  orcid: 0000-0003-2502-612X
+  email: nikosp41@certh.gr
+  github: nikopech
+  twitter: npechl
+  description: >
+    Dr. Nikos Pechlivanis was working as a postdoctoral researcher at INAB/CERTH. He is currently a postdoctoral ARISE2 fellow at EMBL-EBI.
+
+
 - name: Dr. George Gavriilidis
   role: Postdoctoral Researcher # Will appear next to name
   image: assets/img/team/ggeorav.jpg # Can be external link
@@ -53,5 +65,6 @@
   github: tatsistog
   description: >
     Anastasios Togkousidis was working as a research assistant at INAB/CERTH. He is currently pursuing a PhD at Heidelberg Institute for Theoretical Studies under the Computational Molecular Evolution (cme) laboratory.
+
 
 
