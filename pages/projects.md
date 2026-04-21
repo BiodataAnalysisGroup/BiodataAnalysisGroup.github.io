@@ -11,6 +11,18 @@ permalink: /projects/
 # Ongoing
 <hr style="border: 1px solid #cfcfcf;">
 
+
+##  SCAILED
+
+
+*Scale-up Biotech AI Innovation by Leveraging Responsible Data Use under the European Health Data Space*
+
+- **Duration**: TBA
+- **Funder**: EU4H-2026-SANTE-PJ-08
+- **Description**: SCAILED aims to accelerate the development and deployment of Artificial Intelligence (AI) and digital solutions in the
+European biotech sector by harnessing high-quality health data within the secure, interoperable framework of the European Health Data Space (EHDS).
+The project addresses critical challenges faced by biotech innovators, including complex and evolving regulatory requirements (AI Act, Medical Device Regulations, etc.), fragmented data governance in legal and technical term sand respective barriers to AI deployment due to insufficient stakeholder collaboration. SCAILED responds directly to the EU4Health call by proposing a coordinated, multi-stakeholder approach that brings together industry, research infrastructures, health authorities, patient organisations, and AI Factories to foster responsible, scalable, and sustainable innovation based on recently adopted and upcoming legislation.
+
 ##  RAISE-Connect
 
 <img src="/assets/img/collaborations/raise_connect_logo.png" alt="RAISE-Connect logo" style="width:300px;"/>
