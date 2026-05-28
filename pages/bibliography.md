@@ -119,6 +119,10 @@ background: https://images.unsplash.com/photo-1470549638415-0a0755be0619?auto=fo
 
 <p style="margin-bottom:15px"></p>
 
+### 2026
+{% bibliography --query @inproceedings[year=2026] %}
+{% bibliography --query @conference[year=2026] %}
+
 ### 2025
 {% bibliography --query @inproceedings[year=2025] %}
 {% bibliography --query @conference[year=2025] %}
