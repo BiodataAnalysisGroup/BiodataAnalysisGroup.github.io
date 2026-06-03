@@ -212,6 +212,15 @@ CANDLE will work toward this by:
 
 <br>
 
+## ELIXIR STEERS
+
+- **Duration**: 2024 - 2027
+- **Funder**: Ηorizon Εurope
+- **Description**: ELIXIR STEERS ensures that ELIXIR continues to operate as a world-class Research Infrastructure (RI), and continues to enable wider participation in computational life science research. It will focus on a new and critical area of scientific need: the provision of software and workflows to life scientists, maximising productivity in research, and minimising consequent energy usage. It will:
+  - Create a toolkit for robust, reproducible, and green software and workflows.
+  - Enable cross-border data analysis in the life sciences by embedding common practice across the whole European Research Area via the ELIXIR Nodes.
+  - Partner in Europe and internationally for global competitiveness and sustainability.
+
 # Completed
 <hr style="border: 1px solid #ccc;">
 
