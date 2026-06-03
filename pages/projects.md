@@ -216,6 +216,7 @@ CANDLE will work toward this by:
 
 <img src="/assets/img/collaborations/elixir-steers-logo.png" alt="STEERS" style="width:200px;"/>
 
+[*Help life science researchers to access national data sets and conduct large-scale, cross-border analysis of data from across Europe*](https://elixir-europe.org/about-us/how-funded/eu-projects/steers)
 
 - **Duration**: 2024 - 2027
 - **Funder**: Ηorizon Εurope
@@ -223,6 +224,7 @@ CANDLE will work toward this by:
   - Create a toolkit for robust, reproducible, and green software and workflows.
   - Enable cross-border data analysis in the life sciences by embedding common practice across the whole European Research Area via the ELIXIR Nodes.
   - Partner in Europe and internationally for global competitiveness and sustainability.
+
 
 # Completed
 <hr style="border: 1px solid #ccc;">
