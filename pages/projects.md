@@ -67,7 +67,7 @@ repositories.
 <img src="/assets/img/collaborations/arena_logo.png" alt="ARENA logo" style="width:300px;"/>
 
 
-*AI Research Enhancement through Networked Agents*
+[*AI Research Enhancement through Networked Agents*](https://arena.ai4eosc.eu/)
 
 - **Duration**: 2026-2029
 - **Funder**: HORIZON-INFRA-2025-01-EOSC-05
