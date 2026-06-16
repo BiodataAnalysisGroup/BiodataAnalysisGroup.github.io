@@ -200,18 +200,6 @@ CANDLE will work toward this by:
 
 <br>
 
-## ML4NGP
-
-<img src="/assets/img/collaborations/ML4NGP.png" alt="ML4NGP" style="width:150px;"/>
-
-[*CA21160 - Non-globular proteins in the era of Machine Learning*](https://www.cost.eu/cost-action/non-globular-proteins-in-the-era-of-machine-learning/)
-
-- **Duration**: 2022 - 2026
-- **Funder**: [Cost - European Cooperation in Science & Technology](https://www.cost.eu/)
-- **Description**: Protein structure prediction has long been considered the “Holy Grail” of structural biology. The recent success of AlphaFold has ushered in a new era of highly accurate structure prediction, bringing to light the secrets hidden in the three-dimensional structures of globular proteins, increasing our understanding about their structural features and molecular function. However, a large proportion of the proteomes from all domains of life are rich in sequences that do not fold into regular structures, commonly known as non-globular proteins (NGPs). NGPs comprise intrinsically disordered regions, repeats, low-complexity sequences, aggregation-prone and phase-separating sequences, and are implicated in a range of age-related diseases. Their heterogeneous structural states and low sequence complexity challenge current experimental structure determination techniques and machine learning (ML) methods for structure prediction, making the molecular understanding of their sequence-structure-dynamics-function relationship difficult. The recent improvements of ML approaches and advances in determining NGP structural ensembles call for a timely re-assessment of the interplay between experiments and computation. The ML4NGP Action aims to establish an interdisciplinary pan-European network to favour this interplay, fostering experimental frameworks designed to provide information to computational methods, and novel computational methods developed, trained and benchmarked with experimental data. ML4NGP will enhance the primary experimental data generation (WG1), promote integrative structural biology approaches (WG2), benchmark the state-of-the-art ML methods (WG3) and improve the functional characterization of NGPs (WG4). The Action will support its scientific objectives through policies that sustain free knowledge exchange, inclusiveness and training of young researchers who will lead future innovations in this field.
-
-<br>
-
 ## ELIXIR STEERS
 
 <img src="/assets/img/collaborations/elixir-steers-logo.png" alt="STEERS" style="width:200px;"/>
@@ -225,9 +213,23 @@ CANDLE will work toward this by:
   - Enable cross-border data analysis in the life sciences by embedding common practice across the whole European Research Area via the ELIXIR Nodes.
   - Partner in Europe and internationally for global competitiveness and sustainability.
 
+<br>
 
 # Completed
 <hr style="border: 1px solid #ccc;">
+
+
+## ML4NGP
+
+<img src="/assets/img/collaborations/ML4NGP.png" alt="ML4NGP" style="width:150px;"/>
+
+[*CA21160 - Non-globular proteins in the era of Machine Learning*](https://www.cost.eu/cost-action/non-globular-proteins-in-the-era-of-machine-learning/)
+
+- **Duration**: 2022 - 2026
+- **Funder**: [Cost - European Cooperation in Science & Technology](https://www.cost.eu/)
+- **Description**: Protein structure prediction has long been considered the “Holy Grail” of structural biology. The recent success of AlphaFold has ushered in a new era of highly accurate structure prediction, bringing to light the secrets hidden in the three-dimensional structures of globular proteins, increasing our understanding about their structural features and molecular function. However, a large proportion of the proteomes from all domains of life are rich in sequences that do not fold into regular structures, commonly known as non-globular proteins (NGPs). NGPs comprise intrinsically disordered regions, repeats, low-complexity sequences, aggregation-prone and phase-separating sequences, and are implicated in a range of age-related diseases. Their heterogeneous structural states and low sequence complexity challenge current experimental structure determination techniques and machine learning (ML) methods for structure prediction, making the molecular understanding of their sequence-structure-dynamics-function relationship difficult. The recent improvements of ML approaches and advances in determining NGP structural ensembles call for a timely re-assessment of the interplay between experiments and computation. The ML4NGP Action aims to establish an interdisciplinary pan-European network to favour this interplay, fostering experimental frameworks designed to provide information to computational methods, and novel computational methods developed, trained and benchmarked with experimental data. ML4NGP will enhance the primary experimental data generation (WG1), promote integrative structural biology approaches (WG2), benchmark the state-of-the-art ML methods (WG3) and improve the functional characterization of NGPs (WG4). The Action will support its scientific objectives through policies that sustain free knowledge exchange, inclusiveness and training of young researchers who will lead future innovations in this field.
+
+<br>
 
 ##  EOSC4Cancer
 
