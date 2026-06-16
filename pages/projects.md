@@ -187,19 +187,6 @@ CANDLE will work toward this by:
 
 <br>
 
-
-##  SciLake
-
-<img src="/assets/img/collaborations/scilake.png" alt="SciLake" style="width:120px;"/>
-
-[*Democratising and making sense out of heterogeneous scholarly content*](https://scilake.eu/)
-
-- **Duration**: 2023 – 2026
-- **Funder**:  HORIZON-INFRA-2021-EOSC-01-04
-- **Description**: SciLake’s mission is to build upon the OpenAIRE ecosystem and EOSC services to (a) facilitate and empower the creation, interlinking and maintenance of SKGs and the execution of data science and graph mining queries on top of them, (b) contribute to the democratization of scholarly content and the related added value services implementing a community-driven management approach, and (c) offer advanced, AI-assisted services that exploit customised perspectives of scientific merit to assist the navigation of the vast scientific knowledge space. In brief, SciLake will develop, support, and offer customisable services to the research community following a two-tier service architecture. First, it will offer a comprehensive, open, transparent, and customisable scientific data-lake-as-a-service (service tier 1), empowering and facilitating the creation, interlinking, and maintenance of SKGs both across and within different scientific disciplines. On top of that, it will build and offer a tier of customisable, AI-assisted services that facilitate the navigation of scholarly content following a scientific merit-driven approach (tier 2), focusing on two merit aspects which are crucial for the research community at large: impact and reproducibility. The services in both tiers will leverage advanced AI techniques (text and graph mining) that are going to exploit and extend existing technologies provided by SciLake’s technology partners. Finally, to showcase the value of the provided services and their capability to address current and anticipated needs of different research communities, four scientific domains (neuroscience, cancer research, transportation, and energy) have been selected to serve as pilots. For each, the developed services will be customised, to accommodate differences in research procedures, practices, impact measures and types of research objects, and will be validated and evaluated through real-world use cases.
-
-<br>
-
 ## ELIXIR STEERS
 
 <img src="/assets/img/collaborations/elixir-steers-logo.png" alt="STEERS" style="width:200px;"/>
@@ -218,6 +205,17 @@ CANDLE will work toward this by:
 # Completed
 <hr style="border: 1px solid #ccc;">
 
+##  SciLake
+
+<img src="/assets/img/collaborations/scilake.png" alt="SciLake" style="width:120px;"/>
+
+[*Democratising and making sense out of heterogeneous scholarly content*](https://scilake.eu/)
+
+- **Duration**: 2023 – 2026
+- **Funder**:  HORIZON-INFRA-2021-EOSC-01-04
+- **Description**: SciLake’s mission is to build upon the OpenAIRE ecosystem and EOSC services to (a) facilitate and empower the creation, interlinking and maintenance of SKGs and the execution of data science and graph mining queries on top of them, (b) contribute to the democratization of scholarly content and the related added value services implementing a community-driven management approach, and (c) offer advanced, AI-assisted services that exploit customised perspectives of scientific merit to assist the navigation of the vast scientific knowledge space. In brief, SciLake will develop, support, and offer customisable services to the research community following a two-tier service architecture. First, it will offer a comprehensive, open, transparent, and customisable scientific data-lake-as-a-service (service tier 1), empowering and facilitating the creation, interlinking, and maintenance of SKGs both across and within different scientific disciplines. On top of that, it will build and offer a tier of customisable, AI-assisted services that facilitate the navigation of scholarly content following a scientific merit-driven approach (tier 2), focusing on two merit aspects which are crucial for the research community at large: impact and reproducibility. The services in both tiers will leverage advanced AI techniques (text and graph mining) that are going to exploit and extend existing technologies provided by SciLake’s technology partners. Finally, to showcase the value of the provided services and their capability to address current and anticipated needs of different research communities, four scientific domains (neuroscience, cancer research, transportation, and energy) have been selected to serve as pilots. For each, the developed services will be customised, to accommodate differences in research procedures, practices, impact measures and types of research objects, and will be validated and evaluated through real-world use cases.
+
+<br>
 
 ## ML4NGP
 
