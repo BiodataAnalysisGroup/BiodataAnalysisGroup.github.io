@@ -5,6 +5,9 @@ description: Template for bibliography
 
 <div class="text-align: left">
     {{ reference }}
+    {% if entry.booktitle %}
+      <br><em>In: {{ entry.booktitle }}</em>
+    {% endif %}
 </div>
 
 <div id="{{key}}-materials">
