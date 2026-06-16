@@ -164,7 +164,7 @@ CANDLE will work toward this by:
 
 ## ODYSSEY
 
-<img src="/assets/img/collaborations/Odyssey_logo.png" alt="ODYSSEY" style="width:200px;"/>
+<img src="/assets/img/collaborations/Odyssey_logo.png" alt="ODYSSEY" style="width:150px;"/>
 
 [*Connecting molecular and geographical biodiversity data*](https://elixir-europe.org/how-we-work/scientific-programme/commissioned-services/science/bfsp/odyssey)
 
