@@ -16,3 +16,13 @@ We are a group of enthusiastic researchers, active in the following key fields:
 - Training for Life Sciences
 
 For more details, look at the [projects](/projects/) and [activities](/activities/) sections.
+
+## Explore Our Website
+
+### Research
+Discover our ongoing and completed research grants.
+[View Projects](/projects/)
+
+### Publications
+Read our latest scientific papers and academic contributions.
+[Read Publications](/publications/)
