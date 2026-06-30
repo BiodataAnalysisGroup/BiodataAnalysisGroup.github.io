@@ -18,14 +18,8 @@ We are a group of enthusiastic researchers, active in the following key fields:
 
 ## Explore Our Website
 
-### 🔬 Research
-Explore our ongoing and completed grants.  
-[**View Projects**](/projects/)
+Research | The Group | Publications
+--- | --- | ---
+Explore our ongoing and completed grants. | Meet the researchers and bioinformaticians behind our work. | Read our latest scientific papers and academic contributions. 
+[**View Projects**](/projects/) | [**Meet the Team**](/team/) | [**Read Publications**](/publications/)
 
-### 👥 The Group
-Meet the researchers and bioinformaticians behind our work.  
-[**Meet the Team**](/team/)
-
-### 📚 Publications
-Read our latest scientific papers and academic contributions.  
-[**Read Publications**](/publications/)
