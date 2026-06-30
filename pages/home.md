@@ -15,14 +15,9 @@ We are a group of enthusiastic researchers, active in the following key fields:
 - Multi-omics data integration
 - Training for Life Sciences
 
-For more details, look at the [projects](/projects/) and [activities](/activities/) sections.
 
 ## Explore Our Website
-
-### Research
-Discover our ongoing and completed research grants.
-[View Projects](/projects/)
-
-### Publications
-Read our latest scientific papers and academic contributions.
-[Read Publications](/publications/)
+| 🔬 **Research** | 👥 **The Group** | 📚 **Publications** |
+| :--- | :--- | :--- |
+| Explore our ongoing and completed grants. | Meet the researchers and bioinformaticians. | Read our latest papers and contributions. |
+| [View Projects](/projects/) | [Meet the Team](/team/) | [Read Publications](/publications/) |
