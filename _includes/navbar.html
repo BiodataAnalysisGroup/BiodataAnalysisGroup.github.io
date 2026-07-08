@@ -1,41 +1,55 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="main-nav">
   <div class="container-fluid">
+    
     <a class="navbar-brand d-flex align-items-center" href="{{'/' | relative_url }}">
       {% if site.logo %}
         <img src="{{ site.logo | relative_url }}" class="mr-2">
       {% endif %}
       {{ site.title }}
     </a>
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
     {% if site.data.navigation %}
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu">
-        Menu <i class="fa fa-bars"></i>
-      </button>
       <div class="collapse navbar-collapse" id="navbar-menu">
-        <ul class="navbar-nav ml-auto">
-        {% for item in site.data.navigation %}
-          {% if item.menu %}
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
-                {{ item.text }}
-              </a>
-              <div class="dropdown-menu">
-              {% for subitem in item.menu %}
-                {% if subitem.href %}
-                  <a class="dropdown-item{% if subitem.href == page.url %} active{% endif %}" href="{{ subitem.href | relative_url }}" {% if subitem.new_window %}target="_blank"{% endif %}>{{ subitem.text }}</a>
-                {% elsif subitem.text contains '---' %}
-                  <div class="dropdown-divider"></div>
-                {% else %}
-                  <h6 class="dropdown-header">{{ subitem.text }}</h6>
-                {% endif %}
-              {% endfor %}
-              </div>
-          {% else %}
-            <li class="navbar-item">
-              <a class="nav-link{% if item.href == page.url %} active{% endif %}" href="{{ item.href | relative_url }}" {% if item.new_window %}target="_blank"{% endif %}>{{ item.text }}</a>
-            </li>
-          {% endif %}
-        {% endfor %}
+        
+        <ul class="navbar-nav mr-auto ml-3">
+          {% for item in site.data.navigation %}
+            {% if item.menu %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                  {{ item.text }}
+                </a>
+                <div class="dropdown-menu">
+                {% for subitem in item.menu %}
+                  {% if subitem.href %}
+                    <a class="dropdown-item{% if subitem.href == page.url %} active{% endif %}" href="{{ subitem.href | relative_url }}" {% if subitem.new_window %}target="_blank"{% endif %}>{{ subitem.text }}</a>
+                  {% elsif subitem.text contains '---' %}
+                    <div class="dropdown-divider"></div>
+                  {% else %}
+                    <h6 class="dropdown-header">{{ subitem.text }}</h6>
+                  {% endif %}
+                {% endfor %}
+                </div>
+              </li>
+            {% else %}
+              <li class="nav-item">
+                <a class="nav-link{% if item.href == page.url %} active{% endif %}" href="{{ item.href | relative_url }}" {% if item.new_window %}target="_blank"{% endif %}>{{ item.text }}</a>
+              </li>
+            {% endif %}
+          {% endfor %}
         </ul>
+
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="https://github.com/BiodataAnalysisGroup" target="_blank" title="GitHub">
+              <i class="fa fa-github" style="font-size: 1.5rem; color: #333;"></i>
+            </a>
+          </li>
+        </ul>
+
       </div>
     {% endif %}
   </div>
