@@ -18,8 +18,3 @@ We are a group of enthusiastic researchers, active in the following key fields:
 
 ## Explore Our Website
 
-Research | The Group | Publications
---- | --- | ---
-Explore our ongoing and completed grants. | Meet the researchers and bioinformaticians behind our work. | Read our latest scientific papers and academic contributions. 
-[**View Projects**](/projects/) | [**Meet the Team**](/team/) | [**Read Publications**](/publications/)
-
