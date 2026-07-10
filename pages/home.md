@@ -44,3 +44,18 @@ We are a group of enthusiastic researchers, active in the following key fields:
       </div>
     </div>
   </div>
+
+  <div class="col-md-4 mb-3">
+    <div class="card h-100 shadow-sm" style="border-radius: 15px; border: 1px solid #eee; padding: 15px 10px;">
+      <div class="card-body text-center d-flex flex-column">
+        <div style="font-size: 2rem; color: #4a6b7c; background: #f3e5f5; width: 50px; height: 50px; line-height: 50px; border-radius: 50%; margin: 0 auto 15px;">
+          <svg xmlns="http://www.w3.org/2000/svg" height="30px" viewBox="0 -960 960 960" width="30px" fill="#4a6b7c"><path d="M300-80q-58 0-99-41t-41-99v-520q0-58 41-99t99-41h500v600q-25 0-42.5 17.5T740-220q0 25 17.5 42.5T800-160v80H300Zm-60-267q14-7 29-10t31-3h20v-440h-20q-25 0-42.5 17.5T240-740v393Zm160-13h320v-440H400v440Zm-160 13v-453 453Zm60 187h373q-6-14-9.5-28.5T660-220q0-16 3-31t10-29H300q-26 0-43 17.5T240-220q0 26 17 43t43 17Z"/></svg>
+        </div>
+        <h4 style="color: #4a6b7c; font-weight: 600; margin-bottom: 5px; font-size: 1.5rem;">Publications</h4>        
+        <p class="text-muted" style="font-size: 0.95rem; margin-bottom: 15px;">Read our latest scientific papers and academic contributions.</p>
+        <a href="/publications/" class="btn btn-outline-primary mt-auto mx-auto" style="color: #4a6b7c; border-color: #4a6b7c; border-radius: 8px; padding: 3px 10px; font-size: 0.9rem;">Read Publications &rarr;</a>
+      </div>
+    </div>
+  </div>
+
+</div>
