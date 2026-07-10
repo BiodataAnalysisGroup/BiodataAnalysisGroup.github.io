@@ -28,7 +28,7 @@
 - text: Software
   href: /software/
   
-- text: News
-  href: /blog/
+# - text: News
+#  href: /blog/
 - text: About
   href: /about/
