@@ -73,7 +73,7 @@
   description: >
     Sofoklis Keisaris works as a research assistant at the Institute of Applied Biosciences(INAB) in the Centre for Research and Technology Hellas(CERTH). He received his BSc in Biology from the Aristotle University of Thessaloniki(AUTH) with aspects on Ecology and Conservation Biology. After having cooperated with Hellenic Center of Marine Research (CERTH), he found interest in Bioinformatics and Computational Biology. He is keen on developing bioinformatics tools and pipelines for a wide variety of biological data.
 
-- name: Anastasia Anastasiadou
+- name: Anastasia (Natasa) Anastasiadou
   role: Research Assistant
   image: assets/img/team/anastasiadou.jpg
   website: https://natanast.github.io/
@@ -81,4 +81,4 @@
   email: nanastasiadou@certh.gr
   github: NatAnastas
   description: > 
-    Anastasia (Natasa) Anastasiadou is a research assistant, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH). She received her BSc in Biochemistry and Biotechnology from the University of Thessaly where she completed her thesis entitle “Study of genetic variations in patients with haematological malignancies” in collaboration with INAB. Subsequently, she obtained a M.Sc in Translational Research in Biomedicine from the Democritus University of Thrace. During her master’s thesis titled ‘Characterization of TP53 gene mutations in patients with Chronic Lymphocytic Leukemia,’ she became interested in Bioinformatics. Currently, her main focus is on analyzing and visualizing NGS data, aiming to extract meaningful biological insights. She is also experienced in creating interactive web applications and websites, making data exploration and visualization more accessible and user-friendly for researchers.
+    Natasa Anastasiadou is a research assistant, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH). She received her BSc in Biochemistry and Biotechnology from the University of Thessaly and the M.Sc in Translational Research in Biomedicine from the Democritus University of Thrace. During her master’s thesis she became interested in Bioinformatics, seamlessly transitioning from a molecular background to data-driven biology. Currently, her main focus is on analyzing and visualizing NGS data, as well as developing interactive web applications and websites, making data exploration more accessible and user-friendly for biomedical researchers.
