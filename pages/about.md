@@ -5,7 +5,7 @@ background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=fo
 permalink: /about/
 ---
 
-## Where find us
+## Where to find us
 
 **Institute of Applied Biosciences**
 
