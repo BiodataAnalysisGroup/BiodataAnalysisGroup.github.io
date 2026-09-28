@@ -50,8 +50,7 @@ repositories.
 
 ##  RenAI
 
-<!-- <img src="/assets/img/collaborations/RenAI-logo.png" alt="RenAI logo" style="width:200px;"/>
--->
+<img src="/assets/img/collaborations/renAI_logo.png" alt="RenAI logo" style="width:350px;"/>
 
 *Responsible AI Infrastructures for scientific excellence*
 
