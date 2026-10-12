@@ -14,6 +14,7 @@ permalink: /projects/
 
 ##  SCAILED
 
+<img src="/assets/img/collaborations/scailed_logo.jpg" alt="SCAILED project logo featuring the acronym “SCAILED” in blue lettering, accompanied by a circular pattern of interconnected electronic circuits on the right, symbolizing AI and digital innovation. Below, the tagline reads “Scale-up Biotech AI Innovation Under the European Health Data Space." style="width:300px;"/>
 
 *Scale-up Biotech AI Innovation by Leveraging Responsible Data Use under the European Health Data Space*
 
