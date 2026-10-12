@@ -138,7 +138,7 @@ CANDLE will work toward this by:
 
 ##  SYNTHIA
 
-<img src="/assets/img/collaborations/synthia.jpg" alt="SYNTHIA" style="width:150px;"/>
+<img src="/assets/img/collaborations/synthia.jpg" alt="SYNTHIA project logo featuring a stylized, flowing ribbon resembling a DNA strand in turquoise, blue, and purple gradients, transitioning into a pattern of scattered purple dots on the right. Below the graphic, the name “synthia” appears in bold, lowercase purple lettering against a white background." style="width:150px;"/>
 
 
 [*Synthetic Data Generation framework for integrated validation of use cases and AI healthcare applications*](http://www.ihi-synthia.eu/)
