@@ -26,7 +26,7 @@ The project addresses critical challenges faced by biotech innovators, including
 
 ##  RAISE-Connect
 
-<img src="/assets/img/collaborations/raise_connect_logo.png" alt="RAISE-Connect logo" style="width:300px;"/>
+<img src="/assets/img/collaborations/raise_connect_logo.png" alt="RAISE Connect project logo featuring a stylized network of interconnected circular nodes in teal, navy blue, and pink on the left, symbolizing collaboration and connectivity. On the right, the name “RAISE” appears in uppercase lettering, with “Connect” written below in a cursive font, both using teal and pink accents." style="width:300px;"/>
 
 
 *Enabling and Connecting Interoperable FAIR Digital Objects*
