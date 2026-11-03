@@ -76,9 +76,9 @@
 - name: Anastasia (Natasa) Anastasiadou
   role: Research Assistant
   image: assets/img/team/anastasiadou.jpg
-  website: https://natanast.github.io/
+  website: https://github.com/natanast
   orcid: 0009-0003-2908-7656
   email: nanastasiadou@certh.gr
-  github: NatAnastas
+  github: natanast
   description: > 
     Natasa Anastasiadou is a research assistant, working as a Bioinformatician at the Institute of Applied Biosciences (INAB) of the Centre for Research and Technology Hellas (CERTH). She received her BSc in Biochemistry and Biotechnology from the University of Thessaly and the M.Sc in Translational Research in Biomedicine from the Democritus University of Thrace. During her master’s thesis she became interested in Bioinformatics, seamlessly transitioning from a molecular background to data-driven biology. Currently, her main focus is on analyzing and visualizing NGS data, as well as developing interactive web applications and websites, making data exploration more accessible and user-friendly for biomedical researchers.
