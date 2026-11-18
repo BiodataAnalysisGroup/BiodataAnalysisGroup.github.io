@@ -18,7 +18,7 @@ permalink: /projects/
 
 *Scale-up Biotech AI Innovation by Leveraging Responsible Data Use under the European Health Data Space*
 
-- **Duration**: TBA
+- **Duration**: 2026-2029
 - **Funder**: EU4H-2026-SANTE-PJ-08
 - **Description**: SCAILED aims to accelerate the development and deployment of Artificial Intelligence (AI) and digital solutions in the
 European biotech sector by harnessing high-quality health data within the secure, interoperable framework of the European Health Data Space (EHDS).
